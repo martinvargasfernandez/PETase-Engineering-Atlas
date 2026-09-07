@@ -22,3 +22,6 @@ keywords:
   - mutation prioritization
   - reproducibility
 repository-code: "https://github.com/martinvargasfernandez/PETase-Engineering-Atlas"
+version: "1.0.0"
+doi: "10.5281/zenodo.22642100"
+

@@ -144,3 +144,18 @@ Project-generated datasets and derived research outputs are released under **CC 
 
 Source code and reproducibility resources are available at:
 https://github.com/martinvargasfernandez/PETase-Engineering-Atlas
+
+## Archived release and citation
+
+The frozen publication release **v1.0.0** is permanently archived in Zenodo:
+
+- Version DOI: https://doi.org/10.5281/zenodo.22642100
+- Concept DOI: https://doi.org/10.5281/zenodo.22642098
+
+For reproducibility of the analyses associated with the accompanying study, please cite the version-specific DOI.
+
+Suggested software citation:
+
+Vargas Fernández, M. A. (2026). *PETase Engineering Atlas* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22642100
+
+
