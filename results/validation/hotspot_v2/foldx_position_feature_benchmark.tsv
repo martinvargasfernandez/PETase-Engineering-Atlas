@@ -1,0 +1,7 @@
+feature	beneficial_ranking_order	hotspot_median	background_median	effect_direction	mann_whitney_u_stat	raw_p_value	fdr_q_value	significant_fdr_005	top10_recovery	top20_recovery	top25_recovery	median_hotspot_rank	median_hotspot_percentile
+ddg_min	ASCENDING	-0.2159	-0.3317	HOTSPOT_HIGHER	1108.0	0.401369	0.740649	NO	4	4	5	95.0	53.1
+ddg_mean	ASCENDING	4.0411	3.2994	HOTSPOT_HIGHER	1173.0	0.539584	0.740649	NO	3	4	5	106.0	59.2
+ddg_median	ASCENDING	3.6274	2.8232	HOTSPOT_HIGHER	1210.0	0.617207	0.740649	NO	3	3	3	116.0	64.8
+fraction_stabilizing	DESCENDING	0.0	0.0	HOTSPOT_LOWER	1281.0	0.225583	0.740649	NO	4	5	5	114.0	63.7
+fraction_neutral	DESCENDING	0.079	0.1053	HOTSPOT_LOWER	993.5	0.811329	0.811329	NO	0	2	2	105.5	58.9
+fraction_destabilizing	ASCENDING	0.8441	0.875	HOTSPOT_LOWER	1182.5	0.560245	0.740649	NO	2	3	4	88.5	49.4

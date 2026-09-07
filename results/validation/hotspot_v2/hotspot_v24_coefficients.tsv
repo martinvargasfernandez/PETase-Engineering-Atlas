@@ -1,0 +1,13 @@
+feature	lr_mean_coef	lr_std_coef	lr_sign_stability	lr_bal_mean_coef	lr_bal_std_coef	lr_bal_sign_stability
+fvi	-0.007059	0.002572	1.0	-0.028363	0.006032	1.0
+shannon_entropy	0.015954	0.00294	1.0	0.036738	0.007746	1.0
+different_family_consensus	-0.007059	0.002572	1.0	-0.028363	0.006032	1.0
+global_conservation	-0.011663	0.002707	1.0	-0.024524	0.006898	1.0
+relative_SASA	0.039075	0.003083	1.0	0.091728	0.006828	1.0
+residue_depth	-0.042162	0.003786	1.0	-0.092052	0.009786	1.0
+distance_to_substrate	-0.031483	0.003435	1.0	-0.081545	0.009274	1.0
+distance_to_active_site_centroid	-0.024709	0.003841	1.0	-0.057126	0.010317	1.0
+normalized_B_factor	0.032562	0.00337	1.0	0.0806	0.008973	1.0
+packing_density	0.002461	0.002457	0.81	0.025133	0.005902	1.0
+long_range_density	-0.005674	0.00263	1.0	-0.005424	0.007404	0.762
+betweenness_pctl	-0.015045	0.002689	1.0	-0.02527	0.006372	1.0

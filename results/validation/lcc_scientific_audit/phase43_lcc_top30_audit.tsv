@@ -1,0 +1,31 @@
+position_priority_rank	query_position	query_residue	reference_position	reference_residue	wt_identical	functional_context	evolutionary_variability	raw_functional_classes	raw_permissiveness	is_protected	recommendation_status	substrate_distance_angstroms	catalytic_distance_angstroms	relative_sasa
+1	179	A	209	A	YES	B+C+D	Low variability ●	B+C+D	LOW	NO	RECOMMENDED	5.16	5.08	0.0066
+2	178	V	208	I	NO	A+B+C	Moderate variability ●	A+B+C	MODERATE	NO	RECOMMENDED	5.58	5.25	0.4255
+3	209	F	238	S	NO	B+C+D	Low variability ●	B+C+D	LOW	NO	RECOMMENDED	7.74	5.72	0.0741
+4	154	T	183	A	NO	B+C+D	High variability ●	B+C+D	HIGH	NO	RECOMMENDED	7.92	4.47	0.0
+5	60	G	86	G	YES	C+D	Low variability ●	C+D	LOW	NO	RECOMMENDED	3.46	9.25	0.0
+6	246	P	279	T	NO	A+C	High variability ●	A+C	HIGH	NO	RECOMMENDED	3.96	19.93	0.2627
+7	61	Y	87	Y	YES	A+C	Moderate variability ●	A+C	MODERATE	NO	RECOMMENDED	3.98	10.98	0.2937
+8	63	A	89	A	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	4.78	12.45	0.0
+9	156	W	185	W	YES	C+D	Low variability ●	C+D	LOW	NO	RECOMMENDED	5.14	8.15	0.1006
+10	62	T	88	T	YES	A+C	Moderate variability ●	A+C	MODERATE	NO	RECOMMENDED	5.43	13.2	0.1664
+11	247	A	280	R	NO	A+C	High variability ●	A+C	HIGH	NO	RECOMMENDED	5.43	16.63	0.2294
+12	130	H	159	W	NO	C+D	Low variability ●	C+D	LOW	NO	RECOMMENDED	6.15	7.84	0.006
+13	232	N	264	N	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	6.15	29.82	0.0795
+14	59	P	85	P	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	6.32	11.59	0.0
+15	244	N	277	N	YES	A+C	High variability ●	A+C	HIGH	NO	RECOMMENDED	6.45	22.5	0.6164
+16	157	H	186	D	NO	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	6.94	11.85	0.0333
+17	148	K	177	K	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	7.18	24.51	0.0072
+18	155	P	184	P	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	7.24	7.01	0.0
+19	158	T	187	S	NO	A+C	High variability ●	A+C	HIGH	NO	RECOMMENDED	7.67	14.48	0.3023
+20	146	S	175	S	YES	A+C	High variability ●	A+C	HIGH	NO	RECOMMENDED	7.88	27.51	0.3737
+21	180	P	210	P	YES	B+C	Moderate variability ●	B+C	MODERATE	NO	RECOMMENDED	8.09	6.91	0.286
+22	5	Y	32	Y	YES	C+D	High variability ●	C+D	HIGH	NO	RECOMMENDED	8.13	33.52	0.0211
+23	90	R	116	T	NO	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	8.97	16.64	0.0397
+24	147	L	176	L	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	9.08	24.31	0.0145
+25	177	T	207	S	NO	B+C	Moderate variability ●	B+C	MODERATE	NO	RECOMMENDED	9.09	6.59	0.5669
+26	92	D	118	D	YES	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	9.29	16.97	0.0
+27	153	L	182	Q	NO	C+D	Moderate variability ●	C+D	MODERATE	NO	RECOMMENDED	9.61	7.73	0.0
+28	UNMAPPED	N/A	241	N	NO	C+D	Moderate variability ●	C+D	MODERATE	NO	UNAVAILABLE (deletion)	9.86	9.85	0.0
+29	204	D	233	N	NO	C+D	High variability ●	C+D	HIGH	NO	RECOMMENDED	10.61	12.78	0.0585
+30	160	K	189	T	NO	C+D	High variability ●	C+D	HIGH	NO	RECOMMENDED	11.24	14.72	0.0

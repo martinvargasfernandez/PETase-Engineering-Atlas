@@ -1,0 +1,12 @@
+study	scaffold	mutation	atlas_position	wt_residue	mutant_residue	raw_exact_substitution_recovered	exact_proposal_rank	exact_proposal_score	candidate_discovery_eligible	end_to_end_exact_recovery	fvi	circularity_class	turbopetase_membership
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	W104L	96	W	L	NO	Not Proposed	Not Proposed	YES	NO	2	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	W104S	96	W	S	YES	2	3	YES	YES	2	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	W104H	96	W	H	NO	Not Proposed	Not Proposed	YES	NO	2	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	W104G	96	W	G	NO	Not Proposed	Not Proposed	YES	NO	2	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	F243I	238	F	I	NO	Not Proposed	Not Proposed	NO	NO	0	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	F243T	238	F	T	NO	Not Proposed	Not Proposed	NO	NO	0	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	F243G	238	F	G	NO	Not Proposed	Not Proposed	NO	NO	0	independent	YES
+Cui et al. TurboPETase	BhrPETase H218S/F222I (M2)	A209R	205	A	R	YES	3	5	YES	YES	4	independent	YES
+Meng et al. Premuse	IsPETase	W159H	159	W	H	YES	1	1	NO	NO	0	independent	NO
+Meng et al. Premuse	IsPETase	F229Y	229	F	Y	YES	1	2	NO	NO	0	independent	NO
+Lu et al. FAST-PETase	ThermoPETase/IsPETase-derived	T140D	140	T	D	YES	3	3	YES	YES	2	independent	NO

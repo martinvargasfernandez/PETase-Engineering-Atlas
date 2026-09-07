@@ -1,0 +1,12 @@
+feature	c_lr_mean_coef	c_lr_std_coef	c_lr_bal_mean_coef	c_lr_bal_std_coef
+relative_SASA	-0.02034	0.006437	-0.039622	0.014697
+residue_depth	0.034236	0.016271	0.052493	0.032995
+distance_to_substrate	-0.020879	0.015696	-0.035874	0.033729
+distance_to_active_site_centroid	-0.05751	0.018977	-0.107126	0.042184
+normalized_B_factor	-0.040887	0.007945	-0.072533	0.013154
+packing_density	0.039401	0.012282	0.069112	0.023111
+long_range_density	-0.009683	0.01989	-0.04198	0.03865
+degree	0.039401	0.012282	0.069112	0.023111
+betweenness_pctl	0.035689	0.013357	0.065317	0.028551
+closeness	0.035221	0.009249	0.057348	0.014712
+clustering	0.016034	0.01302	0.033954	0.027002

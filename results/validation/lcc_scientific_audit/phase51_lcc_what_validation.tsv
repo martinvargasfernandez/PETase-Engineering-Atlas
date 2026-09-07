@@ -1,0 +1,4 @@
+literature_mutation	mature_query_position	atlas_ref_position	suggested_what_substitution	msa_sequence_count	what_rank	exact_beneficial_substitution_recovered	notes
+H218Y	H184	214	H184Y	115	1	YES	Exact match to literature benchmark mutation H218Y.
+F243I	F209	238	F209I	31	3	YES	Exact match to literature benchmark mutation F243I.
+Y93G	Y59	87	Y59F / Y59W	142	1	NO (Y93G is an engineered Glycine substitution absent from natural MSA consensus)	Positional recovery verified; natural MSA consensus favors aromatic substitutions Y59F/Y59W.

@@ -1,0 +1,16 @@
+reference_position	mapped_wt	target_mutation	target_candidate_aa	scaffold	publication	in_top30_where	evo_what_rank	esm_what_rank	combo_what_rank	esm_delta_ll	evo_top1	evo_top3	evo_top5	esm_top1	esm_top3	esm_top5	combo_top1	combo_top3	combo_top5
+102	A	G62A	A	TfCut2	Furukawa et al.	NO	99	99	99	-99.0	NO	NO	NO	NO	NO	NO	NO	NO	NO
+116	T	T116P	P	TS-PETase	Zhong-Johnson et al.	YES	4	10	10	-1.7549	NO	NO	YES	NO	NO	NO	NO	NO	NO
+121	S	S121E	E	IsPETase	Lu et al.	NO	5	10	10	-3.5573	NO	NO	NO	NO	NO	NO	NO	NO	NO
+159	W	W159H	H	IsPETase	Meng et al.	YES	1	1	1	3.723	YES	YES	YES	YES	YES	YES	YES	YES	YES
+172	N	H129W	W	TfCut2	Furukawa et al.	NO	99	17	99	-6.3609	NO	NO	NO	NO	NO	NO	NO	NO	NO
+181	P	P181A	A	IsPETase	Cui et al.	NO	3	1	1	-2.4304	NO	NO	NO	NO	NO	NO	NO	NO	NO
+224	R	R224Q	Q	IsPETase	Lu et al.	NO	6	9	9	-0.8711	NO	NO	NO	NO	NO	NO	NO	NO	NO
+229	F	F229Y	Y	IsPETase	Meng et al.	NO	1	2	2	0.6709	NO	NO	NO	NO	NO	NO	NO	NO	NO
+233	N	D238C	C	LCC	Tournier et al.	YES	99	17	99	-3.6963	NO	NO	NO	NO	NO	NO	NO	NO	NO
+234	G	A182V	V	TfCut2	Mrigwani et al.	NO	15	12	11	-6.8086	NO	NO	NO	NO	NO	NO	NO	NO	NO
+238	S	S238F	F	IsPETase	Cui et al.	YES	1	1	1	1.6131	YES	YES	YES	YES	YES	YES	YES	YES	YES
+241	N	F243I	I	LCC	Tournier et al.	YES	4	10	8	-0.5309	NO	NO	YES	NO	NO	NO	NO	NO	NO
+265	D	F209S	S	TfCut2	Furukawa et al.	NO	2	3	3	-6.55	NO	NO	NO	NO	NO	NO	NO	NO	NO
+269	S	I213V	V	TfCut2	Mrigwani et al.	NO	16	12	12	-2.0801	NO	NO	NO	NO	NO	NO	NO	NO	NO
+282	S	S283C	C	LCC	Tournier et al.	NO	99	19	99	-5.8445	NO	NO	NO	NO	NO	NO	NO	NO	NO

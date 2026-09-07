@@ -1,0 +1,6 @@
+model_code	model_name	top_5_percent_recovered	top_5_percent_recall	top_10_percent_recovered	top_10_percent_recall	top_20_percent_recovered	top_20_percent_recall	top_25_percent_recovered	top_25_percent_recall	median_hotspot_rank	hotspots_in_top_50
+e0_score	E0 (Current Evolutionary)	0	0.0	1	0.047619	3	0.142857	4	0.190476	106.0	3
+e1_score	E1 (Refined Evolutionary)	1	0.047619	2	0.095238	3	0.142857	4	0.190476	106.0	3
+es1_score	ES1 (Evolution + Proximity)	1	0.047619	2	0.095238	4	0.190476	4	0.190476	107.0	4
+es2_score	ES2 (Evolution + Proximity + SASA)	1	0.047619	4	0.190476	4	0.190476	5	0.238095	103.0	4
+es3_score	ES3 (Structural-Prioritized Hybrid)	4	0.190476	5	0.238095	5	0.238095	7	0.333333	92.0	5

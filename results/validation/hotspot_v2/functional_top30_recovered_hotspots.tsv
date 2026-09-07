@@ -1,0 +1,6 @@
+shortlist_rank	reference_position	wt_residue	primary_mutation	scaffold	publication	fvi	priority_group	functional_classes
+3	238	S	S238F	IsPETase	Cui et al.	0	Group 1 (>=3 Functional Classes)	B+C+D
+12	159	W	W159H	IsPETase	Meng et al.	0	Group 2 (2 Classes including A or C)	C+D
+23	116	T	T116P	TS-PETase	Zhong-Johnson et al.	0	Group 2 (2 Classes including A or C)	C+D
+28	241	N	F243I	LCC	Tournier et al.	0	Group 2 (2 Classes including A or C)	C+D
+29	233	N	D238C	LCC	Tournier et al.	0	Group 2 (2 Classes including A or C)	C+D

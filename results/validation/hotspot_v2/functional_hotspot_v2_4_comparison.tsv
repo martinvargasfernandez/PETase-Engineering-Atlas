@@ -1,0 +1,7 @@
+model_architecture	shortlist_size	hotspots_recovered	recall	fold_enrichment	permutation_p_value
+V2.4 Baseline (Top 15)	15	1	0.0667	1.08	0.59531
+Function-First (Top 15)	15	2	0.1333	2.34	0.20603
+V2.4 Baseline (Top 20)	20	2	0.1333	1.63	0.31955
+Function-First (Top 20 PRIMARY)	20	2	0.1333	1.75	0.31955
+V2.4 Baseline (Top 24)	24	2	0.1333	1.35	0.4079
+Function-First (Top 24)	24	3	0.2	2.19	0.14485

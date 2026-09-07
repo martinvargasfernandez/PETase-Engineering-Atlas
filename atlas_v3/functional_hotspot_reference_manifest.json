@@ -1,0 +1,25 @@
+{
+  "production_resource": "atlas_v3/functional_hotspot_reference.tsv",
+  "timestamp": "2026-09-01T09:28:02.114244",
+  "source_frozen_table": "results/validation/hotspot_v2/functional_hotspot_prioritized_positions.tsv",
+  "source_frozen_hash": "c6dce801894b61bb85633d19a7f53844ec436f595204eeabe35bfdc91a9f928a",
+  "production_resource_hash": "c5d21f850afe80ac5a9c168d3e0902508dc5311562c3d9756f95f289bdbb81ea",
+  "total_reference_positions": 262,
+  "top30_positions_count": 30,
+  "schema_columns": [
+    "where_rank",
+    "in_top30",
+    "reference_position",
+    "wt_residue",
+    "priority_group",
+    "number_functional_classes",
+    "functional_classes",
+    "evolutionary_permissiveness",
+    "is_protected",
+    "substrate_distance",
+    "catalytic_distance",
+    "relative_sasa",
+    "b_factor_percentile"
+  ],
+  "benchmark_leakage_audit": "PASS (Zero benchmark labels, publication tags, or recovery statuses included)"
+}

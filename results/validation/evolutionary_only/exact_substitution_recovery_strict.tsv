@@ -1,0 +1,27 @@
+candidate_id	study	mutation	atlas_position	proposed_residue	evaluable	proposed_in_atlas	proposal_score	global_rank	recovered
+Schreiber_2024_DuraPETase_candidates:001	Schreiber et al.	S42M	42	M	YES	NO	0.0	Not Proposed	NO
+Schreiber_2024_DuraPETase_candidates:002	Schreiber et al.	S61M	61	M	YES	NO	0.0	Not Proposed	NO
+Schreiber_2024_DuraPETase_candidates:017	Schreiber et al.	S223Y	223	Y	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:008	Cui et al.	T77E	77	E	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:014	Cui et al.	K95A	95	A	YES	YES	3.0	444	YES
+Cui_2021_IsPETase_85_candidates:020	Cui et al.	L117F	117	F	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:021	Cui et al.	Q119Y	119	Y	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:029	Cui et al.	T140D	140	D	YES	YES	3.0	508	YES
+Cui_2021_IsPETase_85_candidates:032	Cui et al.	K148W	148	W	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:037	Cui et al.	W159H	159	H	NO	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:038	Cui et al.	G165A	165	A	YES	YES	2.0	613	YES
+Cui_2021_IsPETase_85_candidates:039	Cui et al.	S166T	166	T	YES	YES	4.0	419	YES
+Cui_2021_IsPETase_85_candidates:040	Cui et al.	I168R	168	R	YES	YES	4.0	349	YES
+Cui_2021_IsPETase_85_candidates:042	Cui et al.	A180I	180	I	YES	YES	4.0	422	YES
+Cui_2021_IsPETase_85_candidates:043	Cui et al.	P181A	181	A	NO	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:046	Cui et al.	D186H	186	H	YES	YES	3.0	447	YES
+Cui_2021_IsPETase_85_candidates:049	Cui et al.	S187W	187	W	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:050	Cui et al.	S188Q	188	Q	YES	YES	5.0	244	YES
+Cui_2021_IsPETase_85_candidates:055	Cui et al.	I208V	208	V	YES	YES	3.0	543	YES
+Cui_2021_IsPETase_85_candidates:057	Cui et al.	N212R	212	R	YES	YES	5.0	166	YES
+Cui_2021_IsPETase_85_candidates:058	Cui et al.	S214H	214	H	YES	YES	3.0	547	YES
+Cui_2021_IsPETase_85_candidates:069	Cui et al.	S238F	238	F	NO	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:074	Cui et al.	A248P	248	P	YES	NO	0.0	Not Proposed	NO
+Cui_2021_IsPETase_85_candidates:083	Cui et al.	R280A	280	A	YES	YES	6.0	73	YES
+Meng_2021_IsPETase_candidates:002	Meng et al.	F229Y	229	Y	NO	NO	0.0	Not Proposed	NO
+Cribari_2023_LCC_H218_candidates:005	Cribari et al.	H218Y	214	Y	YES	YES	3.0	549	YES

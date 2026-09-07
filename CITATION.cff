@@ -1,0 +1,23 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or its associated datasets, please cite the PETase Engineering Atlas publication and this software release."
+title: "PETase Engineering Atlas"
+type: software
+authors:
+  - family-names: "Vargas Fernández"
+    given-names: "Martín Alfredo"
+year: 2026
+license: MIT
+abstract: >
+  PETase Engineering Atlas is a group-aware evolutionary framework for
+  prioritizing mutation hypotheses in PET hydrolases. The release contains
+  the software implementation, frozen evolutionary resources, validation
+  outputs, benchmark definitions, reproducibility scripts, and associated
+  figure-source data used in the accompanying study.
+keywords:
+  - PETase
+  - PET hydrolase
+  - protein engineering
+  - enzyme engineering
+  - evolutionary bioinformatics
+  - mutation prioritization
+  - reproducibility

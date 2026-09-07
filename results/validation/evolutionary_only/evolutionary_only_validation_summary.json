@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-09-06T19:37:51.201484+00:00",
+  "prediction_file_hashes": {
+    "frozen_position_ranking_tsv": "962274848adfc82668b11c183eeef68ce784822731e2517cb3f0a8d6ebbaa286",
+    "frozen_mutation_ranking_tsv": "d7d0fc6c9696ad86ad96a49066d7bc3b9f508d9a9d47287e3e622a78bbe351a0"
+  },
+  "strict_benchmark": {
+    "total_mutation_records": 111,
+    "beneficial_records": 27,
+    "unique_beneficial_positions": 25,
+    "evaluable_beneficial_positions": 21,
+    "non_evaluable_beneficial_positions": 4,
+    "non_evaluable_reasons": {
+      "fvi_zero": 4
+    },
+    "top_10pct_metrics": {
+      "cutoff_size": 24,
+      "recovered_positions": 1,
+      "recall": 0.047619,
+      "random_expected_recovery": 2.072759,
+      "fold_enrichment": 0.482449,
+      "empirical_p_value": 0.897914,
+      "analytical_p_value": 0.898176
+    },
+    "other_cutoffs_recall": {
+      "top_5pct": 0.0,
+      "top_20pct": 0.142857,
+      "top_25pct": 0.190476
+    },
+    "rank_based_metrics": {
+      "median_rank": 106.0,
+      "median_percentile": 56.79,
+      "mann_whitney_u": 2291.0,
+      "mann_whitney_p_value": 0.44895811860702434
+    },
+    "exact_substitution_metrics": {
+      "total_evaluable_beneficial_mutations": 22,
+      "recovered_mutations": 13,
+      "mutation_recall": 0.590909
+    }
+  },
+  "expanded_benchmark": {
+    "total_mutation_records": 120,
+    "beneficial_records": 31,
+    "unique_beneficial_positions": 27,
+    "evaluable_beneficial_positions": 22,
+    "top_10pct_metrics": {
+      "cutoff_size": 24,
+      "recovered_positions": 1,
+      "recall": 0.045455,
+      "random_expected_recovery": 2.171656,
+      "fold_enrichment": 0.460478,
+      "empirical_p_value": 0.909077,
+      "analytical_p_value": 0.909184
+    },
+    "rank_based_metrics": {
+      "median_rank": 107.0,
+      "median_percentile": 56.38,
+      "mann_whitney_u": 2404.0,
+      "mann_whitney_p_value": 0.46641616772705646
+    }
+  }
+}

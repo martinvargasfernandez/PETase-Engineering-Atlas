@@ -1,0 +1,6 @@
+position_priority_rank	query_position	reference_position	substitution_rank	proposed_amino_acid	proposed_mutation_label	evolutionary_rank	msa_count_628_dataset	query_wt_excluded	ranking_strategy
+1	A179	S209	1	C	A179C	1	103	YES (LCC WT=A excluded)	Global MSA frequency DESC across 628-sequence PETase dataset
+1	A179	S209	2	V	A179V	2	96	YES (LCC WT=A excluded)	Global MSA frequency DESC across 628-sequence PETase dataset
+1	A179	S209	3	I	A179I	3	73	YES (LCC WT=A excluded)	Global MSA frequency DESC across 628-sequence PETase dataset
+1	A179	S209	4	T	A179T	4	11	YES (LCC WT=A excluded)	Global MSA frequency DESC across 628-sequence PETase dataset
+1	A179	S209	5	S	A179S	5	7	YES (LCC WT=A excluded)	Global MSA frequency DESC across 628-sequence PETase dataset

@@ -1,0 +1,5 @@
+{
+  "winning_method": "A1",
+  "score_threshold": 0.15,
+  "margin_threshold": 0.01
+}

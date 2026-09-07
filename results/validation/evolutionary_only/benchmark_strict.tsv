@@ -1,0 +1,112 @@
+candidate_id	publication_identifier	scaffold	original_mutation	mapped_reference_position	mapped_wt_residue	phenotype_classification	individual_validation_status	evaluable	exclusion_reason	benchmark_eligibility
+Schreiber_2024_DuraPETase_candidates:001	Schreiber et al.	DuraPETase	S42M	42.0	S	beneficial	YES	YES	None	eligible_primary
+Schreiber_2024_DuraPETase_candidates:002	Schreiber et al.	DuraPETase	S61M	61.0	S	beneficial	YES	YES	None	eligible_primary
+Schreiber_2024_DuraPETase_candidates:003	Schreiber et al.	DuraPETase	A65C	65.0	A	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:004	Schreiber et al.	DuraPETase	A65L	65.0	A	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:005	Schreiber et al.	DuraPETase	G75I	75.0	G	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:006	Schreiber et al.	DuraPETase	A80I	80.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:007	Schreiber et al.	DuraPETase	V134M	134.0	V	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:008	Schreiber et al.	DuraPETase	S136I	136.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:009	Schreiber et al.	DuraPETase	G139W	139.0	G	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:010	Schreiber et al.	DuraPETase	A152W	152.0	A	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:011	Schreiber et al.	DuraPETase	G155M	155.0	G	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:012	Schreiber et al.	DuraPETase	G163A	163.0	G	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:013	Schreiber et al.	DuraPETase	A170L	170.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:014	Schreiber et al.	DuraPETase	A179I	179.0	A	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:015	Schreiber et al.	DuraPETase	S187Q	187.0	S	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:016	Schreiber et al.	DuraPETase	T198I	198.0	T	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:017	Schreiber et al.	DuraPETase	S223Y	223.0	S	beneficial	YES	YES	None	eligible_primary
+Schreiber_2024_DuraPETase_candidates:018	Schreiber et al.	DuraPETase	G251I	251.0	G	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:019	Schreiber et al.	DuraPETase	G251W	251.0	G	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:020	Schreiber et al.	DuraPETase	T266Q	266.0	T	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:021	Schreiber et al.	DuraPETase	S278I	278.0	S	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:022	Schreiber et al.	DuraPETase	A280Q	280.0	R	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Schreiber_2024_DuraPETase_candidates:023	Schreiber et al.	DuraPETase	A280W	280.0	R	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:001	Cui et al.	IsPETase	N37P	37.0	N	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:002	Cui et al.	IsPETase	A40P	40.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:003	Cui et al.	IsPETase	A47W	47.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:004	Cui et al.	IsPETase	T51P	51.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:005	Cui et al.	IsPETase	S54W	54.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:006	Cui et al.	IsPETase	G66A	66.0	G	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:007	Cui et al.	IsPETase	A74T	74.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:008	Cui et al.	IsPETase	T77E	77.0	T	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:009	Cui et al.	IsPETase	T77P	77.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:010	Cui et al.	IsPETase	A82V	82.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:011	Cui et al.	IsPETase	R90D	90.0	R	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:012	Cui et al.	IsPETase	Q91P	91.0	Q	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:013	Cui et al.	IsPETase	S92P	92.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:014	Cui et al.	IsPETase	K95A	95.0	K	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:015	Cui et al.	IsPETase	R100F	100.0	R	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:016	Cui et al.	IsPETase	H104F	104.0	H	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:017	Cui et al.	IsPETase	D112R	112.0	D	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:018	Cui et al.	IsPETase	T113P	113.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:019	Cui et al.	IsPETase	T116P	116.0	T	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:020	Cui et al.	IsPETase	L117F	117.0	L	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:021	Cui et al.	IsPETase	Q119Y	119.0	Q	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:022	Cui et al.	IsPETase	S121D	121.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:023	Cui et al.	IsPETase	R123V	123.0	R	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:024	Cui et al.	IsPETase	S125R	125.0	S	neutral	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:025	Cui et al.	IsPETase	Q133Y	133.0	Q	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:026	Cui et al.	IsPETase	V134L	134.0	V	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:027	Cui et al.	IsPETase	S136Q	136.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:028	Cui et al.	IsPETase	G139N	139.0	G	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:029	Cui et al.	IsPETase	T140D	140.0	T	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:030	Cui et al.	IsPETase	S141P	141.0	S	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:031	Cui et al.	IsPETase	G147T	147.0	G	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:032	Cui et al.	IsPETase	K148W	148.0	K	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:033	Cui et al.	IsPETase	T151P	151.0	T	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:034	Cui et al.	IsPETase	A152S	152.0	A	neutral	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:035	Cui et al.	IsPETase	M154F	154.0	M	neutral	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:036	Cui et al.	IsPETase	G155A	155.0	G	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:037	Cui et al.	IsPETase	W159H	159.0	W	beneficial	YES	NO	Position has Family Variability Index FVI=0	eligible_primary
+Cui_2021_IsPETase_85_candidates:038	Cui et al.	IsPETase	G165A	165.0	G	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:039	Cui et al.	IsPETase	S166T	166.0	S	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:040	Cui et al.	IsPETase	I168R	168.0	I	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:041	Cui et al.	IsPETase	S175W	175.0	S	neutral	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:042	Cui et al.	IsPETase	A180I	180.0	A	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:043	Cui et al.	IsPETase	P181A	181.0	P	beneficial	YES	NO	Position has Family Variability Index FVI=0	eligible_primary
+Cui_2021_IsPETase_85_candidates:044	Cui et al.	IsPETase	Q182L	182.0	Q	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:045	Cui et al.	IsPETase	A183T	183.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:046	Cui et al.	IsPETase	D186H	186.0	D	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:047	Cui et al.	IsPETase	D186W	186.0	D	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:048	Cui et al.	IsPETase	S187P	187.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:049	Cui et al.	IsPETase	S187W	187.0	S	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:050	Cui et al.	IsPETase	S188Q	188.0	S	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:051	Cui et al.	IsPETase	T189K	189.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:052	Cui et al.	IsPETase	S193R	193.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:053	Cui et al.	IsPETase	T198V	198.0	T	neutral	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:054	Cui et al.	IsPETase	E204K	204.0	E	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:055	Cui et al.	IsPETase	I208V	208.0	I	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:056	Cui et al.	IsPETase	P210K	210.0	P	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:057	Cui et al.	IsPETase	N212R	212.0	N	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:058	Cui et al.	IsPETase	S214H	214.0	S	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:059	Cui et al.	IsPETase	A215P	215.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:060	Cui et al.	IsPETase	P217L	217.0	P	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:061	Cui et al.	IsPETase	I218F	218.0	I	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:062	Cui et al.	IsPETase	D220E	220.0	D	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:063	Cui et al.	IsPETase	S223P	223.0	S	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:064	Cui et al.	IsPETase	N225V	225.0	N	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:065	Cui et al.	IsPETase	A226P	226.0	A	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:066	Cui et al.	IsPETase	Q228V	228.0	Q	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:067	Cui et al.	IsPETase	E231M	231.0	E	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:068	Cui et al.	IsPETase	E231R	231.0	E	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:069	Cui et al.	IsPETase	S238F	238.0	S	beneficial	YES	NO	Position has Family Variability Index FVI=0	eligible_primary
+Cui_2021_IsPETase_85_candidates:070	Cui et al.	IsPETase	A240P	240.0	A	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:071	Cui et al.	IsPETase	A240V	240.0	A	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:072	Cui et al.	IsPETase	N241L	241.0	N	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:073	Cui et al.	IsPETase	N246W	246.0	N	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:074	Cui et al.	IsPETase	A248P	248.0	A	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:075	Cui et al.	IsPETase	K253Y	253.0	K	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:076	Cui et al.	IsPETase	G254V	254.0	G	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:077	Cui et al.	IsPETase	K259F	259.0	K	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:078	Cui et al.	IsPETase	T266P	266.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:079	Cui et al.	IsPETase	T270Q	270.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:080	Cui et al.	IsPETase	A272L	272.0	A	neutral	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:081	Cui et al.	IsPETase	E274P	274.0	E	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:082	Cui et al.	IsPETase	T279P	279.0	T	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:083	Cui et al.	IsPETase	R280A	280.0	R	beneficial	YES	YES	None	eligible_primary
+Cui_2021_IsPETase_85_candidates:084	Cui et al.	IsPETase	T286V	286.0	T	deleterious	YES	NO	Not a beneficial mutation	eligible_primary
+Cui_2021_IsPETase_85_candidates:085	Cui et al.	IsPETase	S290P	290.0	S	below_positive_threshold	YES	NO	Not a beneficial mutation	eligible_primary
+Meng_2021_IsPETase_candidates:002	Meng et al.	IsPETase	F229Y	229.0	F	beneficial	YES	NO	Position has Family Variability Index FVI=0	eligible_primary
+Cribari_2023_LCC_H218_candidates:001	Cribari et al.	LCC	H218Y	214.0	S	beneficial	YES	YES	None	eligible_primary
+Cribari_2023_LCC_H218_candidates:005	Cribari et al.	LCC-ICCG	H218Y	214.0	S	beneficial	YES	YES	None	eligible_primary

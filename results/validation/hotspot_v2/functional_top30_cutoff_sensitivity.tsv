@@ -1,0 +1,9 @@
+shortlist_cutoff	cutoff_size_k	hotspots_recovered	total_hotspots	recall	expected_random	fold_enrichment	permutation_p_value	is_predeclared_practical
+Top 10	10	1	15	0.0667	0.57	1.76	0.44795	NO
+Top 15	15	2	15	0.1333	0.85	2.34	0.20603	NO
+Top 20	20	2	15	0.1333	1.14	1.75	0.31955	NO
+Top 24	24	3	15	0.2	1.37	2.19	0.14485	NO
+Top 25	25	3	15	0.2	1.43	2.1	0.15912	NO
+Top 30	30	5	15	0.3333	1.71	2.92	0.01798	YES
+Top 35	35	6	15	0.4	2.0	3.0	0.00766	NO
+Top 40	40	6	15	0.4	2.28	2.63	0.01501	NO

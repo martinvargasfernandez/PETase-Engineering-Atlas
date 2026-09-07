@@ -1,0 +1,4 @@
+metric	cutoff_rank	observed	expected_random	fold_enrichment	null_mean	null_std	empirical_p_value
+Top 20% Recovery (Primary)	48	4.0	2.963	1.35	2.962	1.502	0.341657
+Top 10% Recovery (Secondary)	24	2.0	1.481	1.35	1.481	1.126	0.447826
+Median Rank (Secondary)	0	118.0	122.0	0.0	122.1	28.7	0.450895

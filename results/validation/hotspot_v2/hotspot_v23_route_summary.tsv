@@ -1,0 +1,5 @@
+route	score_column	top6_positions	top6_hotspots_recovered	top6_hotspots_positions	unique_recoveries	unique_positions
+Route_A	route_a_score	6	1	280	1	280
+Route_B	route_b_score	6	2	140,188	2	140,188
+Route_C	route_c_score	6	1	180	1	180
+Route_D	route_d_score	6	0	none	0	none

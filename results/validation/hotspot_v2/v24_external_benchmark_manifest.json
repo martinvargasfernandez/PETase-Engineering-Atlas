@@ -1,0 +1,40 @@
+{
+  "benchmark_name": "Hotspot V2.4 Frozen External Validation Benchmark",
+  "timestamp": "2026-08-31T14:23:42.062126",
+  "total_positions": 15,
+  "publications": [
+    "Cui et al.",
+    "Furukawa et al.",
+    "Lu et al.",
+    "Meng et al.",
+    "Mrigwani et al.",
+    "Tournier et al.",
+    "Zhong-Johnson et al."
+  ],
+  "scaffolds": [
+    "IsPETase",
+    "LCC",
+    "TS-PETase",
+    "TfCut2"
+  ],
+  "positions": [
+    102,
+    116,
+    121,
+    159,
+    172,
+    181,
+    224,
+    229,
+    233,
+    234,
+    238,
+    241,
+    265,
+    269,
+    282
+  ],
+  "sha256_benchmark_tsv": "519c9edd9a8c0bf0d3819bd1d62d818ad83774e3d7c13d9b9bef215379f69d22",
+  "v24_frozen_manifest_hash": "b0f01a94e9b87f8c61e6ae138f101d6183fa25482ec62e9e280272a5d84f1a83",
+  "prediction_status": "FROZEN \u2014 Predictions NOT YET REVEALED"
+}

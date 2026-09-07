@@ -1,0 +1,9 @@
+candidate_id	expected_family	predicted_family	best_score	second_best_score	score_margin	mapped_positions_used	informative_positions_used	classification_status
+A0A365H0H2	Actinomadura-like	unclassified	0.28452305432822594	0.2045655520215895	0.07995750230663645	283	0	insufficient_evidence
+A0ABP5LW35	Actinomadura-like	unclassified	0.24213162280349798	0.17359166502529588	0.0685399577782021	281	0	insufficient_evidence
+A0A5N6B8J9	Microbispora-like	ambiguous	0.4097305485000607	0.36178053926303544	0.04795000923702525	270	270	ambiguous
+A0A940WR16	Microbispora-like	ambiguous	0.37149355175978915	0.3168537121467828	0.054639839613006336	277	277	ambiguous
+A0ABQ4H167	Microbispora-like	ambiguous	0.3881663077145626	0.353651465069558	0.034514842645004595	283	283	ambiguous
+A0ABQ2ZZ23	Streptomyces-like	unclassified	0.2066751221097591	0.20369310478177266	0.002982017327986447	284	0	insufficient_evidence
+A0ABR4SXM1	Streptomyces-like	unclassified	0.21422363261006983	0.17498841838939094	0.03923521422067888	275	0	insufficient_evidence
+A0ABN3WC23	Streptomyces-like	unclassified	0.2124325746330733	0.1887552552484858	0.023677319384587503	275	0	insufficient_evidence

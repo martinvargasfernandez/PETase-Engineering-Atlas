@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-09-06T19:39:57.274299+00:00",
+  "atlas_version": "1.0",
+  "python_version": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "input_dataset_paths": {
+    "master_position_table": "atlas_v3/atlas_v3_master_position_table.tsv",
+    "family_variability_index": "atlas_v3/families/family_variability_index.tsv"
+  },
+  "input_dataset_sha256": {
+    "master_position_table": "5a1aaf5dd57e6567607f9444d4d355f037c65e409d69a734bf78884cb9b7bbff",
+    "family_variability_index": "88c886c0f37c5df13d4fa2a3ed8ea8379029dbd4f41fc52628a34c51c05fae4e"
+  },
+  "scoring_rules": {
+    "position_score": "FVI >= 5 (+4) or FVI >= 3 (+2) | conservation < 30 (+2) | consensus_count >= 4 (+1) | literature masked (+0)",
+    "mutation_score": "family_support (len(families)) + FVI + chemical_plausibility (+1 if conservative) | literature masked (+0)"
+  },
+  "thresholds": {
+    "eligible_fvi_minimum": 1
+  },
+  "protected_positions": [
+    160,
+    206,
+    237
+  ],
+  "number_of_total_positions": 290,
+  "number_of_eligible_positions": 243,
+  "number_of_generated_mutation_proposals": 638,
+  "frozen_output_paths": {
+    "frozen_position_ranking": "results\\validation\\evolutionary_only\\frozen_position_ranking.tsv",
+    "frozen_mutation_ranking": "results\\validation\\evolutionary_only\\frozen_mutation_ranking.tsv"
+  },
+  "frozen_output_sha256": {
+    "frozen_position_ranking": "962274848adfc82668b11c183eeef68ce784822731e2517cb3f0a8d6ebbaa286",
+    "frozen_mutation_ranking": "d7d0fc6c9696ad86ad96a49066d7bc3b9f508d9a9d47287e3e622a78bbe351a0"
+  }
+}

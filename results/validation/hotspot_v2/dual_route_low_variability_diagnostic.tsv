@@ -1,0 +1,2 @@
+route_a_v24_var_top20_size	route_b_lv_top20_size	merged_shortlist_size	external_hotspots_recovered	total_external_hotspots	recall	variable_hotspots_recovered	low_variability_hotspots_recovered	lv_model_used
+20	35	55	6	19	0.3158	3	3	LV-LR

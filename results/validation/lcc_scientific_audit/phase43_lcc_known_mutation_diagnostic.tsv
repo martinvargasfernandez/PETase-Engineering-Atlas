@@ -1,0 +1,7 @@
+literature_study	literature_mutation	scaffold	lcc_mature_position	ispetase_reference_position	captured_in_lcc_top30	top30_position_priority_rank	lcc_query_position	lcc_query_wt	exact_mutation_in_what	what_evolutionary_rank	what_msa_count	diagnostic_note
+Cribari et al. 2023	H218Y	LCC	184	214	NO	N/A	N/A	N/A	NO	N/A	0	Post-hoc diagnostic comparison only. NOT IN TOP30 WHERE SHORTLIST
+Tournier et al. 2020	Y93G	LCC-ICCG	59	87	YES	7	61	Y	NO	N/A	0	Post-hoc diagnostic comparison only. ABSENT IN WHAT TOP PROPOSALS
+Tournier et al. 2020	D204C	LCC-ICCG	170	200	NO	N/A	N/A	N/A	NO	N/A	0	Post-hoc diagnostic comparison only. NOT IN TOP30 WHERE SHORTLIST
+Tournier et al. 2020	F209I	LCC-ICCG	175	205	NO	N/A	N/A	N/A	NO	N/A	0	Post-hoc diagnostic comparison only. NOT IN TOP30 WHERE SHORTLIST
+Tournier et al. 2020	S249C	LCC-ICCG	215	245	NO	N/A	N/A	N/A	NO	N/A	0	Post-hoc diagnostic comparison only. NOT IN TOP30 WHERE SHORTLIST
+Cui et al. 2021	F243I	LCC	209	238	YES	3	209	F	NO	N/A	0	Post-hoc diagnostic comparison only. ABSENT IN WHAT TOP PROPOSALS

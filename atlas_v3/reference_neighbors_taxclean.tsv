@@ -1,0 +1,151 @@
+reference	reference_accession	neighbor_rank	neighbor_tree_id	neighbor_accession	neighbor_genus	neighbor_organism	distance
+IsPETase	A0A0K8P6T7	1	tr|A0A1W6L588|A0A1W6L588_9BURK	A0A1W6L588	Piscinibacter	Piscinibacter gummiphilus	0.263193
+IsPETase	A0A0K8P6T7	2	tr|A0ABS1WUN4|A0ABS1WUN4_9GAMM	A0ABS1WUN4	Steroidobacter	Steroidobacter gossypii	0.757286
+IsPETase	A0A0K8P6T7	3	tr|A0AA82WPI3|A0AA82WPI3_9BURK	A0AA82WPI3	Caldimonas	Caldimonas taiwanensis	0.849306
+IsPETase	A0A0K8P6T7	4	tr|A0AA82WPI4|A0AA82WPI4_9BURK	A0AA82WPI4	Caldimonas	Caldimonas taiwanensis	0.853379
+IsPETase	A0A0K8P6T7	5	tr|A0AA82WPI5|A0AA82WPI5_9BURK	A0AA82WPI5	Caldimonas	Caldimonas taiwanensis	0.861595
+IsPETase	A0A0K8P6T7	6	tr|A0A2K9LJV9|A0A2K9LJV9_9GAMM	A0A2K9LJV9	Ketobacter	Ketobacter alkanivorans	0.869081
+IsPETase	A0A0K8P6T7	7	tr|A0A3E0WVY1|A0A3E0WVY1_9GAMM	A0A3E0WVY1	Alkalilimnicola	Alkalilimnicola ehrlichii	0.8727
+IsPETase	A0A0K8P6T7	8	tr|A0AA97LXT2|A0AA97LXT2_9ACTN	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	0.878532
+IsPETase	A0A0K8P6T7	9	tr|A0AA97M4A3|A0AA97M4A3_9ACTN	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	0.897881
+IsPETase	A0A0K8P6T7	10	tr|A0A168EN35|A0A168EN35_9MICO	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	0.960201
+IsPETase	A0A0K8P6T7	11	sp|G9BY57|PETH_UNKP	G9BY57	Unknown	Unknown prokaryotic organism	0.961988
+IsPETase	A0A0K8P6T7	12	tr|A0A1W6LF85|A0A1W6LF85_9BURK	A0A1W6LF85	Piscinibacter	Piscinibacter gummiphilus	0.996416
+IsPETase	A0A0K8P6T7	13	tr|A0ABU9M430|A0ABU9M430_STUCH	A0ABU9M430	Stutzerimonas	Stutzerimonas chloritidismutans (Pseudomonas chloritidismutans)	1.001247
+IsPETase	A0A0K8P6T7	14	tr|A0A9Y2YA38|A0A9Y2YA38_THECS	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	1.006154
+IsPETase	A0A0K8P6T7	15	tr|A0A147KJY8|A0A147KJY8_THECS	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	1.019036
+IsPETase	A0A0K8P6T7	16	tr|A0ABP7GG15|A0ABP7GG15_9ACTN	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	1.025014
+IsPETase	A0A0K8P6T7	17	tr|A0A3E0WVG8|A0A3E0WVG8_9GAMM	A0A3E0WVG8	Alkalilimnicola	Alkalilimnicola ehrlichii	1.027082
+IsPETase	A0A0K8P6T7	18	tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	1.034593
+IsPETase	A0A0K8P6T7	19	tr|A0A1S8DKK6|A0A1S8DKK6_9GAMM	A0A1S8DKK6	Halopseudomonas	Halopseudomonas pachastrellae	1.056296
+IsPETase	A0A0K8P6T7	20	tr|A0A852TYE9|A0A852TYE9_9ACTN	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	1.059251
+IsPETase	A0A0K8P6T7	21	tr|A0ABR9JL03|A0ABR9JL03_9ACTN	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	1.060202
+IsPETase	A0A0K8P6T7	22	tr|A0A1V0B1Z0|A0A1V0B1Z0_9GAMM	A0A1V0B1Z0	Halopseudomonas	Halopseudomonas phragmitis	1.076366
+IsPETase	A0A0K8P6T7	23	tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	1.08633
+IsPETase	A0A0K8P6T7	24	tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	1.090569
+IsPETase	A0A0K8P6T7	25	tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	A0A7W7IIG7	Actinomadura	Actinomadura livida	1.092518
+LCC	G9BY57	1	tr|A0AA97LXT2|A0AA97LXT2_9ACTN	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	0.696027
+LCC	G9BY57	2	tr|A0AA97M4A3|A0AA97M4A3_9ACTN	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	0.715376
+LCC	G9BY57	3	tr|A0ABS1WUN4|A0ABS1WUN4_9GAMM	A0ABS1WUN4	Steroidobacter	Steroidobacter gossypii	0.722267
+LCC	G9BY57	4	tr|A0A168EN35|A0A168EN35_9MICO	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	0.777696
+LCC	G9BY57	5	tr|A0A9Y2YA38|A0A9Y2YA38_THECS	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	0.823649
+LCC	G9BY57	6	tr|A0A147KJY8|A0A147KJY8_THECS	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	0.836531
+LCC	G9BY57	7	tr|A0ABP7GG15|A0ABP7GG15_9ACTN	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	0.842509
+LCC	G9BY57	8	tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	0.852088
+LCC	G9BY57	9	tr|A0A852TYE9|A0A852TYE9_9ACTN	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	0.876745
+LCC	G9BY57	10	tr|A0ABR9JL03|A0ABR9JL03_9ACTN	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	0.877697
+LCC	G9BY57	11	tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	0.903825
+LCC	G9BY57	12	tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	0.908064
+LCC	G9BY57	13	tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	A0A7W7IIG7	Actinomadura	Actinomadura livida	0.910013
+LCC	G9BY57	14	tr|A0A1I5MC99|A0A1I5MC99_9PSEU	A0A1I5MC99	Amycolatopsis	Amycolatopsis arida	0.910098
+LCC	G9BY57	15	tr|A0ABP6CPY2|A0ABP6CPY2_9ACTN	A0ABP6CPY2	Actinomadura	Actinomadura fulvescens	0.911812
+LCC	G9BY57	16	tr|A0A8J3W5P3|A0A8J3W5P3_9ACTN	A0A8J3W5P3	Planobispora	Planobispora longispora	0.916637
+LCC	G9BY57	17	tr|A0A5Q0HE30|A0A5Q0HE30_SACSY	A0A5Q0HE30	Saccharothrix	Saccharothrix syringae (Nocardiopsis syringae)	0.919451
+LCC	G9BY57	18	tr|A0A243RI45|A0A243RI45_9ACTN	A0A243RI45	Streptosporangium	Streptosporangium minutum	0.919896
+LCC	G9BY57	19	sp|D4Q9N1|PETH1_THEAE	D4Q9N1	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.920042
+LCC	G9BY57	20	tr|A0A3A4B4E3|A0A3A4B4E3_9ACTN	A0A3A4B4E3	Bailinhaonella	Bailinhaonella thermotolerans	0.926745
+LCC	G9BY57	21	tr|A0A9P2WRG3|A0A9P2WRG3_THEFU	A0A9P2WRG3	Thermobifida	Thermobifida fusca TM51	0.927204
+LCC	G9BY57	22	sp|G8GER6|PETH1_THEFU	G8GER6	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.927204
+LCC	G9BY57	23	sp|Q47RJ7|PETH1_THEFY	Q47RJ7	Thermobifida	Thermobifida fusca (strain YX)	0.927204
+LCC	G9BY57	24	tr|A0ABY4KWX3|A0ABY4KWX3_THEAE	A0ABY4KWX3	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.930572
+LCC	G9BY57	25	sp|F7IX06|PETH2_THEAE	F7IX06	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.93153
+TfCut2	Q6A0I4	1	tr|A0A9P2TBN9|A0A9P2TBN9_THEFU	A0A9P2TBN9	Thermobifida	Thermobifida fusca TM51	0.0
+TfCut2	Q6A0I4	2	sp|Q47RJ6|PETH2_THEFY	Q47RJ6	Thermobifida	Thermobifida fusca (strain YX)	0.0
+TfCut2	Q6A0I4	3	tr|A0A9P2WRG3|A0A9P2WRG3_THEFU	A0A9P2WRG3	Thermobifida	Thermobifida fusca TM51	0.063454
+TfCut2	Q6A0I4	4	sp|G8GER6|PETH1_THEFU	G8GER6	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.063454
+TfCut2	Q6A0I4	5	sp|Q47RJ7|PETH1_THEFY	Q47RJ7	Thermobifida	Thermobifida fusca (strain YX)	0.063454
+TfCut2	Q6A0I4	6	tr|A0A147KJY8|A0A147KJY8_THECS	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	0.204831
+TfCut2	Q6A0I4	7	sp|D4Q9N1|PETH1_THEAE	D4Q9N1	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.225758
+TfCut2	Q6A0I4	8	tr|A0ABY4KWX3|A0ABY4KWX3_THEAE	A0ABY4KWX3	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.236288
+TfCut2	Q6A0I4	9	sp|F7IX06|PETH2_THEAE	F7IX06	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.237246
+TfCut2	Q6A0I4	10	tr|A0ABY4KWB4|A0ABY4KWB4_THEAE	A0ABY4KWB4	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.237284
+TfCut2	Q6A0I4	11	tr|A0A9Y2YA38|A0A9Y2YA38_THECS	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	0.318918
+TfCut2	Q6A0I4	12	tr|A0AA97LXT2|A0AA97LXT2_9ACTN	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	0.464425
+TfCut2	Q6A0I4	13	tr|A0AA97M4A3|A0AA97M4A3_9ACTN	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	0.483774
+TfCut2	Q6A0I4	14	tr|A0A168EN35|A0A168EN35_9MICO	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	0.816647
+TfCut2	Q6A0I4	15	tr|A0ABP7GG15|A0ABP7GG15_9ACTN	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	0.818972
+TfCut2	Q6A0I4	16	tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	0.828552
+TfCut2	Q6A0I4	17	tr|A0A852TYE9|A0A852TYE9_9ACTN	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	0.853209
+TfCut2	Q6A0I4	18	tr|A0ABR9JL03|A0ABR9JL03_9ACTN	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	0.854161
+TfCut2	Q6A0I4	19	tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	0.880288
+TfCut2	Q6A0I4	20	tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	0.884527
+TfCut2	Q6A0I4	21	tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	A0A7W7IIG7	Actinomadura	Actinomadura livida	0.886476
+TfCut2	Q6A0I4	22	tr|A0A1I5MC99|A0A1I5MC99_9PSEU	A0A1I5MC99	Amycolatopsis	Amycolatopsis arida	0.886562
+TfCut2	Q6A0I4	23	tr|A0ABP6CPY2|A0ABP6CPY2_9ACTN	A0ABP6CPY2	Actinomadura	Actinomadura fulvescens	0.888275
+TfCut2	Q6A0I4	24	tr|A0A8J3W5P3|A0A8J3W5P3_9ACTN	A0A8J3W5P3	Planobispora	Planobispora longispora	0.893101
+TfCut2	Q6A0I4	25	tr|A0A5Q0HE30|A0A5Q0HE30_SACSY	A0A5Q0HE30	Saccharothrix	Saccharothrix syringae (Nocardiopsis syringae)	0.895914
+Thermobifida_PETH1_G8GER6	G8GER6	1	tr|A0A9P2WRG3|A0A9P2WRG3_THEFU	A0A9P2WRG3	Thermobifida	Thermobifida fusca TM51	0.0
+Thermobifida_PETH1_G8GER6	G8GER6	2	sp|Q47RJ7|PETH1_THEFY	Q47RJ7	Thermobifida	Thermobifida fusca (strain YX)	0.0
+Thermobifida_PETH1_G8GER6	G8GER6	3	tr|A0A9P2TBN9|A0A9P2TBN9_THEFU	A0A9P2TBN9	Thermobifida	Thermobifida fusca TM51	0.063454
+Thermobifida_PETH1_G8GER6	G8GER6	4	sp|Q47RJ6|PETH2_THEFY	Q47RJ6	Thermobifida	Thermobifida fusca (strain YX)	0.063454
+Thermobifida_PETH1_G8GER6	G8GER6	5	sp|Q6A0I4|PETH2_THEFU	Q6A0I4	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.063454
+Thermobifida_PETH1_G8GER6	G8GER6	6	tr|A0A147KJY8|A0A147KJY8_THECS	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	0.151488
+Thermobifida_PETH1_G8GER6	G8GER6	7	sp|D4Q9N1|PETH1_THEAE	D4Q9N1	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.172416
+Thermobifida_PETH1_G8GER6	G8GER6	8	tr|A0ABY4KWX3|A0ABY4KWX3_THEAE	A0ABY4KWX3	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.182946
+Thermobifida_PETH1_G8GER6	G8GER6	9	sp|F7IX06|PETH2_THEAE	F7IX06	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.183904
+Thermobifida_PETH1_G8GER6	G8GER6	10	tr|A0ABY4KWB4|A0ABY4KWB4_THEAE	A0ABY4KWB4	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.183942
+Thermobifida_PETH1_G8GER6	G8GER6	11	tr|A0A9Y2YA38|A0A9Y2YA38_THECS	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	0.265576
+Thermobifida_PETH1_G8GER6	G8GER6	12	tr|A0AA97LXT2|A0AA97LXT2_9ACTN	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	0.411083
+Thermobifida_PETH1_G8GER6	G8GER6	13	tr|A0AA97M4A3|A0AA97M4A3_9ACTN	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	0.430432
+Thermobifida_PETH1_G8GER6	G8GER6	14	tr|A0A168EN35|A0A168EN35_9MICO	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	0.763305
+Thermobifida_PETH1_G8GER6	G8GER6	15	tr|A0ABP7GG15|A0ABP7GG15_9ACTN	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	0.76563
+Thermobifida_PETH1_G8GER6	G8GER6	16	tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	0.77521
+Thermobifida_PETH1_G8GER6	G8GER6	17	tr|A0A852TYE9|A0A852TYE9_9ACTN	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	0.799867
+Thermobifida_PETH1_G8GER6	G8GER6	18	tr|A0ABR9JL03|A0ABR9JL03_9ACTN	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	0.800819
+Thermobifida_PETH1_G8GER6	G8GER6	19	tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	0.826946
+Thermobifida_PETH1_G8GER6	G8GER6	20	tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	0.831185
+Thermobifida_PETH1_G8GER6	G8GER6	21	tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	A0A7W7IIG7	Actinomadura	Actinomadura livida	0.833134
+Thermobifida_PETH1_G8GER6	G8GER6	22	tr|A0A1I5MC99|A0A1I5MC99_9PSEU	A0A1I5MC99	Amycolatopsis	Amycolatopsis arida	0.83322
+Thermobifida_PETH1_G8GER6	G8GER6	23	tr|A0ABP6CPY2|A0ABP6CPY2_9ACTN	A0ABP6CPY2	Actinomadura	Actinomadura fulvescens	0.834933
+Thermobifida_PETH1_G8GER6	G8GER6	24	tr|A0A8J3W5P3|A0A8J3W5P3_9ACTN	A0A8J3W5P3	Planobispora	Planobispora longispora	0.839759
+Thermobifida_PETH1_G8GER6	G8GER6	25	tr|A0A5Q0HE30|A0A5Q0HE30_SACSY	A0A5Q0HE30	Saccharothrix	Saccharothrix syringae (Nocardiopsis syringae)	0.842572
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	1	tr|A0A9P2TBN9|A0A9P2TBN9_THEFU	A0A9P2TBN9	Thermobifida	Thermobifida fusca TM51	0.0
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	2	sp|Q6A0I4|PETH2_THEFU	Q6A0I4	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.0
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	3	tr|A0A9P2WRG3|A0A9P2WRG3_THEFU	A0A9P2WRG3	Thermobifida	Thermobifida fusca TM51	0.063454
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	4	sp|G8GER6|PETH1_THEFU	G8GER6	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.063454
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	5	sp|Q47RJ7|PETH1_THEFY	Q47RJ7	Thermobifida	Thermobifida fusca (strain YX)	0.063454
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	6	tr|A0A147KJY8|A0A147KJY8_THECS	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	0.204831
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	7	sp|D4Q9N1|PETH1_THEAE	D4Q9N1	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.225758
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	8	tr|A0ABY4KWX3|A0ABY4KWX3_THEAE	A0ABY4KWX3	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.236288
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	9	sp|F7IX06|PETH2_THEAE	F7IX06	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.237246
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	10	tr|A0ABY4KWB4|A0ABY4KWB4_THEAE	A0ABY4KWB4	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.237284
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	11	tr|A0A9Y2YA38|A0A9Y2YA38_THECS	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	0.318918
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	12	tr|A0AA97LXT2|A0AA97LXT2_9ACTN	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	0.464425
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	13	tr|A0AA97M4A3|A0AA97M4A3_9ACTN	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	0.483774
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	14	tr|A0A168EN35|A0A168EN35_9MICO	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	0.816647
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	15	tr|A0ABP7GG15|A0ABP7GG15_9ACTN	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	0.818972
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	16	tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	0.828552
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	17	tr|A0A852TYE9|A0A852TYE9_9ACTN	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	0.853209
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	18	tr|A0ABR9JL03|A0ABR9JL03_9ACTN	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	0.854161
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	19	tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	0.880288
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	20	tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	0.884527
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	21	tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	A0A7W7IIG7	Actinomadura	Actinomadura livida	0.886476
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	22	tr|A0A1I5MC99|A0A1I5MC99_9PSEU	A0A1I5MC99	Amycolatopsis	Amycolatopsis arida	0.886562
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	23	tr|A0ABP6CPY2|A0ABP6CPY2_9ACTN	A0ABP6CPY2	Actinomadura	Actinomadura fulvescens	0.888275
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	24	tr|A0A8J3W5P3|A0A8J3W5P3_9ACTN	A0A8J3W5P3	Planobispora	Planobispora longispora	0.893101
+Thermobifida_PETH2_Q47RJ6	Q47RJ6	25	tr|A0A5Q0HE30|A0A5Q0HE30_SACSY	A0A5Q0HE30	Saccharothrix	Saccharothrix syringae (Nocardiopsis syringae)	0.895914
+Thermobifida_PETH2_F7IX06	F7IX06	1	tr|A0ABY4KWB4|A0ABY4KWB4_THEAE	A0ABY4KWB4	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.006866
+Thermobifida_PETH2_F7IX06	F7IX06	2	sp|D4Q9N1|PETH1_THEAE	D4Q9N1	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.042805
+Thermobifida_PETH2_F7IX06	F7IX06	3	tr|A0ABY4KWX3|A0ABY4KWX3_THEAE	A0ABY4KWX3	Thermobifida	Thermobifida alba (Thermomonospora alba)	0.053336
+Thermobifida_PETH2_F7IX06	F7IX06	4	tr|A0A147KJY8|A0A147KJY8_THECS	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	0.155814
+Thermobifida_PETH2_F7IX06	F7IX06	5	tr|A0A9P2WRG3|A0A9P2WRG3_THEFU	A0A9P2WRG3	Thermobifida	Thermobifida fusca TM51	0.183904
+Thermobifida_PETH2_F7IX06	F7IX06	6	sp|G8GER6|PETH1_THEFU	G8GER6	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.183904
+Thermobifida_PETH2_F7IX06	F7IX06	7	sp|Q47RJ7|PETH1_THEFY	Q47RJ7	Thermobifida	Thermobifida fusca (strain YX)	0.183904
+Thermobifida_PETH2_F7IX06	F7IX06	8	tr|A0A9P2TBN9|A0A9P2TBN9_THEFU	A0A9P2TBN9	Thermobifida	Thermobifida fusca TM51	0.237246
+Thermobifida_PETH2_F7IX06	F7IX06	9	sp|Q47RJ6|PETH2_THEFY	Q47RJ6	Thermobifida	Thermobifida fusca (strain YX)	0.237246
+Thermobifida_PETH2_F7IX06	F7IX06	10	sp|Q6A0I4|PETH2_THEFU	Q6A0I4	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	0.237246
+Thermobifida_PETH2_F7IX06	F7IX06	11	tr|A0A9Y2YA38|A0A9Y2YA38_THECS	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	0.269902
+Thermobifida_PETH2_F7IX06	F7IX06	12	tr|A0AA97LXT2|A0AA97LXT2_9ACTN	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	0.415409
+Thermobifida_PETH2_F7IX06	F7IX06	13	tr|A0AA97M4A3|A0AA97M4A3_9ACTN	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	0.434758
+Thermobifida_PETH2_F7IX06	F7IX06	14	tr|A0A168EN35|A0A168EN35_9MICO	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	0.767631
+Thermobifida_PETH2_F7IX06	F7IX06	15	tr|A0ABP7GG15|A0ABP7GG15_9ACTN	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	0.769956
+Thermobifida_PETH2_F7IX06	F7IX06	16	tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	0.779535
+Thermobifida_PETH2_F7IX06	F7IX06	17	tr|A0A852TYE9|A0A852TYE9_9ACTN	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	0.804193
+Thermobifida_PETH2_F7IX06	F7IX06	18	tr|A0ABR9JL03|A0ABR9JL03_9ACTN	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	0.805144
+Thermobifida_PETH2_F7IX06	F7IX06	19	tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	0.831272
+Thermobifida_PETH2_F7IX06	F7IX06	20	tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	0.835511
+Thermobifida_PETH2_F7IX06	F7IX06	21	tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	A0A7W7IIG7	Actinomadura	Actinomadura livida	0.83746
+Thermobifida_PETH2_F7IX06	F7IX06	22	tr|A0A1I5MC99|A0A1I5MC99_9PSEU	A0A1I5MC99	Amycolatopsis	Amycolatopsis arida	0.837545
+Thermobifida_PETH2_F7IX06	F7IX06	23	tr|A0ABP6CPY2|A0ABP6CPY2_9ACTN	A0ABP6CPY2	Actinomadura	Actinomadura fulvescens	0.839259
+Thermobifida_PETH2_F7IX06	F7IX06	24	tr|A0A8J3W5P3|A0A8J3W5P3_9ACTN	A0A8J3W5P3	Planobispora	Planobispora longispora	0.844084
+Thermobifida_PETH2_F7IX06	F7IX06	25	tr|A0A5Q0HE30|A0A5Q0HE30_SACSY	A0A5Q0HE30	Saccharothrix	Saccharothrix syringae (Nocardiopsis syringae)	0.846898

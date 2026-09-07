@@ -1,0 +1,10 @@
+position	residue	global_consensus	global_conservation	frozen_fvi	fvi_min	fvi_max	fvi_binary_stability_pct	eligibility_change_runs_count	candidate_discovery_eligibility_shift_diagnostic	random_subsampling_90pct_stability	random_subsampling_75pct_stability	random_subsampling_50pct_stability	stratified_subsampling_90pct_stability	stratified_subsampling_75pct_stability	stratified_subsampling_50pct_stability
+96	W	W	44.59	2	2	2	100.0	0	STABLE	1.0	1.0	1.0	1.0	1.0	1.0
+140	T	R	31.63	2	2	3	100.0	0	STABLE	1.0	1.0	1.0	1.0	1.0	1.0
+159	W	H	79.39	0	0	0	100.0	0	STABLE	1.0	0.89	0.79	1.0	0.88	0.74
+205	N	N	30.02	4	4	4	100.0	0	STABLE	1.0	1.0	1.0	1.0	1.0	1.0
+229	F	Y	54.06	0	0	1	71.42857142857143	2	ELIGIBILITY_SHIFTS	0.65	0.56	0.42	0.66	0.32	0.48
+238	S	F	46.55	0	0	1	85.71428571428571	1	ELIGIBILITY_SHIFTS	0.74	0.41	0.3	0.54	0.51	0.22
+160	S	S	98.57	0	0	0	100.0	0	STABLE	1.0	1.0	0.98	1.0	1.0	1.0
+206	D	D	87.34	0	0	0	100.0	0	STABLE	1.0	0.99	0.95	1.0	0.97	0.9
+237	H	H	99.2	0	0	0	100.0	0	STABLE	1.0	1.0	1.0	1.0	1.0	1.0

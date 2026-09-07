@@ -1,0 +1,7 @@
+literature_name	literature_full_length_position	literature_residue	mature_fasta_position	mature_fasta_residue	pdb_4eb0_position	pdb_4eb0_residue	ispetase_ref_position	ispetase_ref_residue	workspace_ui_query_position	mapping_status	in_top30
+Y93G (Tournier et al. 2020)	Y93	Y	59	Y	93	Y	87	Y	Y59 (Ref Y87)	EXACT_MATCH	YES (Rank #5)
+H218Y (Cribari et al. 2023, Orr et al. 2024)	H218	H	184	H	218	H	214	S	H184 (Ref S214)	SUBSTITUTION	YES (Rank #8)
+F243I (Cui et al. 2021)	F243	F	209	F	243	F	238	F	F209 (Ref F238)	EXACT_MATCH	YES (Rank #3)
+D204C (Tournier et al. 2020)	D204	D	170	I	204	I	200	D	I170 (Ref D200)	SUBSTITUTION	NO (Fails active-site distance criteria)
+F209I (Tournier et al. 2020)	F209	F	175	A	209	A	205	F	A175 (Ref F205)	SUBSTITUTION	NO (Fails active-site distance criteria)
+S249C (Tournier et al. 2020)	S249	S	215	N	249	N	245	S	N215 (Ref S245)	SUBSTITUTION	NO (Fails active-site distance criteria)

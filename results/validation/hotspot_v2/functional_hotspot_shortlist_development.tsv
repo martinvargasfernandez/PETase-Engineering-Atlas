@@ -1,0 +1,5 @@
+shortlist_cutoff	cutoff_size_k	hotspots_recovered	total_hotspots	recall	precision	expected_random	fold_enrichment	permutation_p_value
+Top 15	15	6	21	0.2857	0.4	1.2	4.99	0.00046
+Top 20	20	7	21	0.3333	0.35	1.61	4.36	0.00029
+Top 24	24	7	21	0.3333	0.2917	1.93	3.63	0.00103
+Top 30	30	8	21	0.381	0.2667	2.41	3.32	0.00077

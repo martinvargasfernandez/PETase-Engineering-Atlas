@@ -1,0 +1,10 @@
+field	value	notes
+Literature Mutation Name	LCC F243I (Cui et al. 2021)	Published using full-length G9BY57 accession numbering (243).
+Full-Length G9BY57 Position	243	Position 243 in G9BY57 accession sequence is Phenylalanine (F243).
+Mature LCC FASTA Position	209	Position 209 in mature LCC FASTA (length 259) is Phenylalanine (F209).
+0-based Python Array Index	208	LCC_FASTA_SEQ[208] == 'F' (0-indexed position 208 corresponds to 1-indexed position 209).
+Production Mapper Result	Query Position 209 (F) -> Ref Position 238 (F)	Production ReferenceMapper maps Query Pos 209 to Atlas Ref 238 with EXACT_MATCH status.
+Origin of F208 / L208 Text Confusion	Diagnostic text label mixing 0-indexed array position (208) with 1-indexed query position (209).	Earlier diagnostic script notes printed 'F208 / L208' due to 0-based array indexing notation, whereas production engine strictly outputs Query Position 209.
+Origin of F209 Literature Discrepancy	Tournier et al. (2020) published a DIFFERENT mutation named F209I.	Literature F209I (Tournier 2020) maps to mature pos 175 (Ref 205), which is outside Top30. It is a completely separate site from literature F243I (mature 209 / Ref 238).
+Production Atlas Query Position Correct?	YES	Production query position is 209 (F209).
+Production Atlas Reference Position Correct?	YES	Production reference position is 238 (Ref F238).

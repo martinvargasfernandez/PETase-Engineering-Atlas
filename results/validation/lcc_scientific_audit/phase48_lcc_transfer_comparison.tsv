@@ -1,0 +1,31 @@
+position_priority_rank	lcc_position	ref_position	functional_role	transferred_substrate_dist_6eqe	direct_substrate_dist_4eb0	transferred_catalytic_dist_6eqe	direct_catalytic_dist_4eb0	transferred_sasa_6eqe	direct_sasa_4eb0	transfer_agreement
+1	A179	A209	Catalytic · Loop · Structural	5.16	Direct substrate distance unavailable from apo 4EB0 structure	5.08	4.59	0.007	0.0	STRONG
+2	V178	I208	Substrate cleft · Catalytic · Loop	5.58	Direct substrate distance unavailable from apo 4EB0 structure	5.25	4.24	0.425	0.208	ACCEPTABLE
+3	F209	S238	Catalytic · Loop · Structural	7.74	Direct substrate distance unavailable from apo 4EB0 structure	5.72	8.09	0.074	0.238	STRONG
+4	T154	A183	Catalytic · Loop · Structural	7.92	Direct substrate distance unavailable from apo 4EB0 structure	4.47	3.15	0.0	0.0	STRONG
+5	G60	G86	Loop · Structural	3.46	Direct substrate distance unavailable from apo 4EB0 structure	9.25	4.25	0.0	0.0	WEAK
+6	P246	T279	Substrate cleft · Loop	3.96	Direct substrate distance unavailable from apo 4EB0 structure	19.93	4.45	0.263	0.593	DISCORDANT
+7	Y61	Y87	Substrate cleft · Loop	3.98	Direct substrate distance unavailable from apo 4EB0 structure	10.98	4.94	0.294	0.205	WEAK
+8	A63	A89	Loop · Structural	4.78	Direct substrate distance unavailable from apo 4EB0 structure	12.45	7.46	0.0	0.0	WEAK
+9	W156	W185	Loop · Structural	5.14	Direct substrate distance unavailable from apo 4EB0 structure	8.15	3.15	0.101	0.141	WEAK
+10	T62	T88	Substrate cleft · Loop	5.43	Direct substrate distance unavailable from apo 4EB0 structure	13.2	8.02	0.166	0.202	WEAK
+11	A247	R280	Substrate cleft · Loop	5.43	Direct substrate distance unavailable from apo 4EB0 structure	16.63	3.01	0.229	0.117	DISCORDANT
+12	H130	W159	Loop · Structural	6.15	Direct substrate distance unavailable from apo 4EB0 structure	7.84	1.33	0.006	0.0	WEAK
+13	N232	N264	Loop · Structural	6.15	Direct substrate distance unavailable from apo 4EB0 structure	29.82	7.13	0.08	0.123	DISCORDANT
+14	P59	P85	Loop · Structural	6.32	Direct substrate distance unavailable from apo 4EB0 structure	11.59	5.71	0.0	0.0	WEAK
+15	N244	N277	Substrate cleft · Loop	6.45	Direct substrate distance unavailable from apo 4EB0 structure	22.5	10.94	0.616	0.585	DISCORDANT
+16	H157	D186	Loop · Structural	6.94	Direct substrate distance unavailable from apo 4EB0 structure	11.85	5.75	0.033	0.0	WEAK
+17	K148	K177	Loop · Structural	7.18	Direct substrate distance unavailable from apo 4EB0 structure	24.51	12.56	0.007	0.016	DISCORDANT
+18	P155	P184	Loop · Structural	7.24	Direct substrate distance unavailable from apo 4EB0 structure	7.01	3.54	0.0	0.0	ACCEPTABLE
+19	T158	S187	Substrate cleft · Loop	7.67	Direct substrate distance unavailable from apo 4EB0 structure	14.48	8.93	0.302	0.189	WEAK
+20	S146	S175	Substrate cleft · Loop	7.88	Direct substrate distance unavailable from apo 4EB0 structure	27.51	18.22	0.374	0.339	DISCORDANT
+21	P180	P210	Catalytic · Loop	8.09	Direct substrate distance unavailable from apo 4EB0 structure	6.91	8.1	0.286	0.076	ACCEPTABLE
+22	Y5	Y32	Loop · Structural	8.13	Direct substrate distance unavailable from apo 4EB0 structure	33.52	8.66	0.021	0.105	DISCORDANT
+23	R90	T116	Loop · Structural	8.97	Direct substrate distance unavailable from apo 4EB0 structure	16.64	9.67	0.04	0.175	WEAK
+24	L147	L176	Loop · Structural	9.08	Direct substrate distance unavailable from apo 4EB0 structure	24.31	14.75	0.015	0.0	DISCORDANT
+25	T177	S207	Catalytic · Loop	9.09	Direct substrate distance unavailable from apo 4EB0 structure	6.59	8.43	0.567	0.367	STRONG
+26	D92	D118	Loop · Structural	9.29	Direct substrate distance unavailable from apo 4EB0 structure	16.97	8.31	0.0	0.0	DISCORDANT
+27	L153	Q182	Loop · Structural	9.61	Direct substrate distance unavailable from apo 4EB0 structure	7.73	2.93	0.0	0.007	WEAK
+28	UNMAPPED	N241	Loop · Structural	9.86	Direct substrate distance unavailable from apo 4EB0 structure	9.85	N/A	0.0	0.0	NOT ASSESSABLE
+29	D204	N233	Loop · Structural	10.61	Direct substrate distance unavailable from apo 4EB0 structure	12.78	0.0	0.059	0.085	DISCORDANT
+30	K160	T189	Loop · Structural	11.24	Direct substrate distance unavailable from apo 4EB0 structure	14.72	10.54	0.0	0.097	ACCEPTABLE

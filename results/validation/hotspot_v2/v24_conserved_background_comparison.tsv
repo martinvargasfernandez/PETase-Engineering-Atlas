@@ -1,0 +1,14 @@
+feature	conserved_hotspot_median	conserved_background_median	median_difference	mann_whitney_u_stat	p_value	distinguishing_signal
+relative_SASA	0.0	0.0	0.0	113.0	0.8867	NO
+residue_depth	8.7486	7.7811	0.9674	143.0	0.3942	NO
+distance_to_substrate	10.68	11.9966	-1.3166	101.0	0.6134	NO
+distance_to_active_site_centroid	12.5992	22.4115	-9.8122	83.0	0.2709	NO
+normalized_B_factor	0.3277	0.4015	-0.0739	80.5	0.2293	NO
+packing_density	0.725	0.6	0.125	172.5	0.1167	NO
+betweenness_pctl	0.7981	0.6113	0.1868	168.0	0.156	NO
+closeness	0.264	0.2477	0.0164	160.0	0.1558	NO
+clustering	0.4815	0.4667	0.0148	124.5	0.8151	NO
+long_range_density	0.4479	0.4737	-0.0258	128.5	0.8732	NO
+normalized_burial	0.6235	0.5452	0.0783	155.0	0.3145	NO
+underpacking	0.0	0.0	0.0	115.0	0.7469	NO
+chem_mismatch	0.0	0.0	0.0	114.0	0.5225	NO

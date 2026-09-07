@@ -1,0 +1,3 @@
+model	top20_recovered	top20_p_value	median_rank	median_p_value
+C-LR	2	0.936532	22.5	0.999
+C-LR-BAL	2	0.93903	24.0	1.0

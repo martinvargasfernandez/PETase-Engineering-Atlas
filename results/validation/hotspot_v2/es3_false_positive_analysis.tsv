@@ -1,0 +1,25 @@
+rank	reference_position	reference_residue	es3_score	proximity_score	sasa_term	e1_score	classification	distance_to_active_site_centroid	relative_SASA	false_positive_reason
+1	207	S	8.134936	0.670288	0.566859	3.691539	NEITHER	6.594233	0.566859	geometrically close to active site and highly accessible surface residue
+2	212	N	7.429801	0.423268	0.32777	7.158232	BENCHMARK_HOTSPOT	11.534648	0.32777	N/A
+3	239	C	7.341112	0.628395	0.0	7.141487	NEITHER	7.432105	0.0	geometrically close to active site
+4	183	A	7.019767	0.776397	0.0	4.722766	NEITHER	4.472054	0.0	geometrically close to active site
+5	205	N	6.988808	0.593503	0.208492	5.187645	NEITHER	8.129941	0.208492	geometrically close to active site and highly accessible surface residue
+6	242	S	6.95813	0.327006	0.066034	9.463921	NEITHER	13.459888	0.066034	high evolutionary score with moderate structural scores
+7	204	E	6.877146	0.565168	0.019219	6.818525	NEITHER	8.696642	0.019219	geometrically close to active site
+8	243	G	6.81157	0.264248	0.418294	7.105814	NEITHER	14.715043	0.418294	highly accessible surface residue far from active site
+9	280	R	6.638317	0.168293	0.229436	9.421624	BENCHMARK_HOTSPOT	16.634132	0.229436	N/A
+10	208	I	6.602142	0.737646	0.425486	0.948644	BENCHMARK_HOTSPOT	5.24708	0.425486	N/A
+11	187	S	6.20501	0.2758	0.302306	6.681967	BENCHMARK_HOTSPOT	14.483992	0.302306	N/A
+12	277	N	6.09211	0.0	0.616423	7.252836	NEITHER	22.500114	0.616423	highly accessible surface residue far from active site
+13	233	N	5.990126	0.360842	0.058535	7.181873	LITERATURE_SUPPORTED	12.783167	0.058535	N/A
+14	117	L	5.921696	0.179864	0.358131	6.819977	BENCHMARK_HOTSPOT	16.402721	0.358131	N/A
+15	216	L	5.898423	0.391321	0.0	7.100996	NEITHER	12.173584	0.0	high evolutionary score with moderate structural scores
+16	90	R	5.889035	0.241489	0.208532	7.211943	NEITHER	15.170216	0.208532	highly accessible surface residue far from active site
+17	210	P	5.883728	0.654311	0.285992	1.627787	NEITHER	6.913778	0.285992	geometrically close to active site and highly accessible surface residue
+18	279	T	5.803183	0.003526	0.262663	9.462746	NEITHER	19.929472	0.262663	highly accessible surface residue far from active site
+19	87	Y	5.620007	0.451026	0.29368	3.478264	NEITHER	10.979483	0.29368	highly accessible surface residue far from active site
+20	29	T	5.596911	0.0	0.791911	4.858533	NEITHER	40.346355	0.791911	highly accessible surface residue far from active site
+21	94	I	5.56942	0.345118	0.0	6.997418	NEITHER	13.097631	0.0	high evolutionary score with moderate structural scores
+22	240	A	5.503942	0.553801	0.0	4.362275	NEITHER	8.923985	0.0	geometrically close to active site
+23	136	S	5.452132	0.0	0.15671	9.650584	NEITHER	32.945713	0.15671	high evolutionary score with moderate structural scores
+24	193	S	5.344923	0.0	0.161247	9.39987	NEITHER	23.283852	0.161247	high evolutionary score with moderate structural scores

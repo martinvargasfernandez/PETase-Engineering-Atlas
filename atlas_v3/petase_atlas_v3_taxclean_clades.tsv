@@ -1,0 +1,629 @@
+tree_id	clade_id	accession	genus	organism	reference_label
+tr|F4Y3S0|F4Y3S0_9CYAN	clade_01	F4Y3S0	Moorena	Moorena producens 3L	NA
+tr|A0A3N1DC31|A0A3N1DC31_9ACTN	clade_01	A0A3N1DC31	Actinocorallia	Actinocorallia herbida	NA
+tr|A0ABN1QG72|A0ABN1QG72_9ACTN	clade_01	A0ABN1QG72	Actinocorallia	Actinocorallia libanotica	NA
+tr|A0ABN3UAA8|A0ABN3UAA8_9ACTN	clade_01	A0ABN3UAA8	Actinocorallia	Actinocorallia aurantiaca	NA
+tr|A0A5Q6S2Z8|A0A5Q6S2Z8_9ACTN	clade_01	A0A5Q6S2Z8	Mumia	Mumia zhuanghuii	NA
+tr|A0ABY5MAY1|A0ABY5MAY1_9ACTN	clade_01	A0ABY5MAY1	Aeromicrobium	Aeromicrobium wangtongii	NA
+tr|A0ABQ3X1A2|A0ABQ3X1A2_9ACTN	clade_01	A0ABQ3X1A2	Actinoplanes	Actinoplanes couchii	NA
+tr|A0A8J3JTM3|A0A8J3JTM3_9ACTN	clade_01	A0A8J3JTM3	Catellatospora	Catellatospora bangladeshensis	NA
+tr|A0A917X6A9|A0A917X6A9_9ACTN	clade_01	A0A917X6A9	Dactylosporangium	Dactylosporangium sucinum	NA
+tr|A0ABN1ZI34|A0ABN1ZI34_9ACTN	clade_01	A0ABN1ZI34	Dactylosporangium	Dactylosporangium maewongense	NA
+tr|A0A243RTG5|A0A243RTG5_9ACTN	clade_01	A0A243RTG5	Streptosporangium	Streptosporangium minutum	NA
+tr|A0A1I4CM04|A0A1I4CM04_9ACTN	clade_01	A0A1I4CM04	Streptosporangium	Streptosporangium canum	NA
+tr|D2B3P3|D2B3P3_STRRD	clade_01	D2B3P3	Streptosporangium	Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / KCTC 9067 / NCIMB 10171 / NRRL 2505 / NI 9100)	NA
+tr|A0A7D6ZIT8|A0A7D6ZIT8_9NOCA	clade_01	A0A7D6ZIT8	Nocardia	Nocardia huaxiensis	NA
+tr|A0ABV3GLG2|A0ABV3GLG2_MICGL	clade_01	A0ABV3GLG2	Microtetraspora	Microtetraspora glauca	NA
+tr|A0AAU4JZP8|A0AAU4JZP8_9NOCA	clade_02	A0AAU4JZP8	Williamsia	Williamsia herbipolensis	NA
+tr|A0ABQ1V8J4|A0ABQ1V8J4_9NOCA	clade_02	A0ABQ1V8J4	Williamsia	Williamsia phyllosphaerae	NA
+tr|A0A0M3TBT0|A0A0M3TBT0_9ACTN	clade_02	A0A0M3TBT0	Lawsonella	Lawsonella clevelandensis	NA
+tr|A0A1J0VN38|A0A1J0VN38_9NOCA	clade_02	A0A1J0VN38	Nocardia	Nocardia mangyaensis	NA
+tr|A0A370HZD1|A0A370HZD1_9NOCA	clade_02	A0A370HZD1	Nocardia	Nocardia pseudobrasiliensis	NA
+tr|A0A318JYH2|A0A318JYH2_9NOCA	clade_02	A0A318JYH2	Nocardia	Nocardia tenerifensis	NA
+tr|A0A370GT15|A0A370GT15_9NOCA	clade_02	A0A370GT15	Nocardia	Nocardia mexicana	NA
+tr|A0A285L7T1|A0A285L7T1_9NOCA	clade_02	A0A285L7T1	Nocardia	Nocardia amikacinitolerans	NA
+tr|A0A366DS33|A0A366DS33_9NOCA	clade_02	A0A366DS33	Nocardia	Nocardia puris	NA
+tr|A0A370I561|A0A370I561_9NOCA	clade_02	A0A370I561	Nocardia	Nocardia pseudobrasiliensis	NA
+tr|A0A9X3I6H8|A0A9X3I6H8_9ACTN	clade_02	A0A9X3I6H8	Gordonia	Gordonia aquimaris	NA
+tr|A0AAU4JYB3|A0AAU4JYB3_9NOCA	clade_02	A0AAU4JYB3	Williamsia	Williamsia herbipolensis	NA
+tr|A0A918KHB5|A0A918KHB5_9ACTN	clade_03	A0A918KHB5	Streptomyces	Streptomyces fructofermentans	NA
+tr|A0AAE6YIC9|A0AAE6YIC9_STRAT	clade_03	A0AAE6YIC9	Streptomyces	Streptomyces antibioticus	NA
+tr|C1IC18|C1IC18_9ACTN	clade_03	C1IC18	Streptomyces	Streptomyces asoensis	NA
+tr|J7G260|J7G260_9ACTN	clade_03	J7G260	Streptomyces	Streptomyces aureochromogenes	NA
+tr|A0A1B2HPK5|A0A1B2HPK5_9PSEU	clade_03	A0A1B2HPK5	Lentzea	Lentzea guizhouensis	NA
+tr|A0A8J3NLV9|A0A8J3NLV9_9ACTN	clade_03	A0A8J3NLV9	Catellatospora	Catellatospora bangladeshensis	NA
+tr|A0A8J3KXG5|A0A8J3KXG5_9ACTN	clade_03	A0A8J3KXG5	Catellatospora	Catellatospora coxensis	NA
+tr|A0A8J3L5P2|A0A8J3L5P2_9ACTN	clade_03	A0A8J3L5P2	Catellatospora	Catellatospora methionotrophica	NA
+tr|A0A8J3JYJ1|A0A8J3JYJ1_9ACTN	clade_03	A0A8J3JYJ1	Catellatospora	Catellatospora chokoriensis	NA
+tr|A0A8J3KKH5|A0A8J3KKH5_9ACTN	clade_03	A0A8J3KKH5	Catellatospora	Catellatospora citrea	NA
+tr|A0A7W3LQW1|A0A7W3LQW1_ACTKI	clade_03	A0A7W3LQW1	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	NA
+tr|A0A8J3RZU3|A0A8J3RZU3_PLARO	clade_03	A0A8J3RZU3	Planobispora	Planobispora rosea	NA
+tr|A0A8J3W4U6|A0A8J3W4U6_9ACTN	clade_03	A0A8J3W4U6	Planobispora	Planobispora longispora	NA
+tr|A0ABW2SV52|A0ABW2SV52_9ACTN	clade_03	A0ABW2SV52	Streptosporangium	Streptosporangium amethystogenes subsp. fukuiense	NA
+tr|A0A9X2K0A4|A0A9X2K0A4_9ACTN	clade_03	A0A9X2K0A4	Nonomuraea	Nonomuraea thailandensis	NA
+tr|A0ABN3D3P5|A0ABN3D3P5_9ACTN	clade_03	A0ABN3D3P5	Nonomuraea	Nonomuraea monospora	NA
+tr|A0A917Z115|A0A917Z115_9ACTN	clade_03	A0A917Z115	Nonomuraea	Nonomuraea cavernae	NA
+tr|A0A5S4GNH7|A0A5S4GNH7_9ACTN	clade_03	A0A5S4GNH7	Nonomuraea	Nonomuraea zeae	NA
+tr|A0A7W9IMV4|A0A7W9IMV4_9ACTN	clade_03	A0A7W9IMV4	Streptosporangium	Streptosporangium becharense	NA
+tr|A0A1I4CKC4|A0A1I4CKC4_9ACTN	clade_03	A0A1I4CKC4	Streptosporangium	Streptosporangium canum	NA
+tr|A0A243RG01|A0A243RG01_9ACTN	clade_03	A0A243RG01	Streptosporangium	Streptosporangium minutum	NA
+tr|D2B3R3|D2B3R3_STRRD	clade_03	D2B3R3	Streptosporangium	Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / KCTC 9067 / NCIMB 10171 / NRRL 2505 / NI 9100)	NA
+tr|A0A7W0CGN6|A0A7W0CGN6_9ACTN	clade_03	A0A7W0CGN6	Nonomuraea	Nonomuraea soli	NA
+tr|A0ABT7INI8|A0ABT7INI8_9BURK	clade_04	A0ABT7INI8	Mesosutterella	Mesosutterella faecium	NA
+tr|A0A1I5FV26|A0A1I5FV26_9FIRM	clade_04	A0A1I5FV26	Anaerocolumna	Anaerocolumna aminovalerica	NA
+tr|A0A3G9J2N1|A0A3G9J2N1_9BACL	clade_04	A0A3G9J2N1	Paenibacillus	Paenibacillus baekrokdamisoli	NA
+tr|A0A3T1D9P2|A0A3T1D9P2_9BACL	clade_04	A0A3T1D9P2	Cohnella	Cohnella abietis	NA
+tr|A0A1G6T100|A0A1G6T100_9NOCA	clade_04	A0A1G6T100	Rhodococcus	Rhodococcus tukisamuensis	NA
+tr|R7WGV9|R7WGV9_9NOCA	clade_04	R7WGV9	Rhodococcus	Rhodococcus rhodnii LMG 5362	NA
+tr|A0A1H6CN89|A0A1H6CN89_9ACTN	clade_04	A0A1H6CN89	Thermomonospora	Thermomonospora echinospora	NA
+tr|A0A1Q9LLV5|A0A1Q9LLV5_9PSEU	clade_04	A0A1Q9LLV5	Actinokineospora	Actinokineospora bangkokensis	NA
+tr|A0A7Y6I7B0|A0A7Y6I7B0_9ACTN	clade_04	A0A7Y6I7B0	Nonomuraea	Nonomuraea montanisoli	NA
+tr|A0A7Y6MCQ0|A0A7Y6MCQ0_9ACTN	clade_04	A0A7Y6MCQ0	Nonomuraea	Nonomuraea rhodomycinica	NA
+tr|A0ABT1KBG4|A0ABT1KBG4_9ACTN	clade_04	A0ABT1KBG4	Nonomuraea	Nonomuraea roseoviolacea subsp. carminata	NA
+tr|A0A7X0EVU5|A0A7X0EVU5_9ACTN	clade_04	A0A7X0EVU5	Nonomuraea	Nonomuraea muscovyensis	NA
+tr|A0ABW8A0E3|A0ABW8A0E3_9ACTN	clade_04	A0ABW8A0E3	Nonomuraea	Nonomuraea indica	NA
+tr|A0A7W9GH83|A0A7W9GH83_9ACTN	clade_04	A0A7W9GH83	Nonomuraea	Nonomuraea jabiensis	NA
+tr|A0ABR9LVG0|A0ABR9LVG0_9ACTN	clade_04	A0ABR9LVG0	Nonomuraea	Nonomuraea angiospora	NA
+tr|A0ABV8G720|A0ABV8G720_9ACTN	clade_04	A0ABV8G720	Nonomuraea	Nonomuraea purpurea	NA
+tr|A0ABP6YQH2|A0ABP6YQH2_9ACTN	clade_04	A0ABP6YQH2	Nonomuraea	Nonomuraea rosea	NA
+tr|A0A5S4G823|A0A5S4G823_9ACTN	clade_04	A0A5S4G823	Nonomuraea	Nonomuraea zeae	NA
+tr|A0A2T0MSV4|A0A2T0MSV4_9ACTN	clade_04	A0A2T0MSV4	Nonomuraea	Nonomuraea fuscirosea	NA
+tr|A0ABW1D4K0|A0ABW1D4K0_9ACTN	clade_04	A0ABW1D4K0	Nonomuraea	Nonomuraea insulae	NA
+tr|A0A4V2XJ75|A0A4V2XJ75_9ACTN	clade_04	A0A4V2XJ75	Nonomuraea	Nonomuraea longispora	NA
+tr|A0A4V2YA86|A0A4V2YA86_9ACTN	clade_04	A0A4V2YA86	Nonomuraea	Nonomuraea deserti	NA
+tr|A0A1H6EII4|A0A1H6EII4_9ACTN	clade_04	A0A1H6EII4	Nonomuraea	Nonomuraea solani	NA
+tr|A0ABW4SNQ3|A0ABW4SNQ3_9ACTN	clade_04	A0ABW4SNQ3	Nonomuraea	Nonomuraea mangrovi	NA
+tr|A0ABV5QFF4|A0ABV5QFF4_9ACTN	clade_04	A0ABV5QFF4	Nonomuraea	Nonomuraea roseola	NA
+tr|A0A7W5VR51|A0A7W5VR51_9ACTN	clade_04	A0A7W5VR51	Nonomuraea	Nonomuraea dietziae	NA
+tr|A0ABN3T5D2|A0ABN3T5D2_9ACTN	clade_04	A0ABN3T5D2	Nonomuraea	Nonomuraea recticatena	NA
+tr|A0ABV5TPH8|A0ABV5TPH8_9ACTN	clade_04	A0ABV5TPH8	Streptosporangium	Streptosporangium vulgare	NA
+tr|A0ABW2SVA4|A0ABW2SVA4_9ACTN	clade_04	A0ABW2SVA4	Streptosporangium	Streptosporangium amethystogenes subsp. fukuiense	NA
+tr|A0ABV5SC32|A0ABV5SC32_9ACTN	clade_04	A0ABV5SC32	Nonomuraea	Nonomuraea helvata	NA
+tr|A0A1H8CEP3|A0A1H8CEP3_9ACTN	clade_04	A0A1H8CEP3	Nonomuraea	Nonomuraea pusilla	NA
+tr|A0ABW6SQH1|A0ABW6SQH1_9ACTN	clade_04	A0ABW6SQH1	Microtetraspora	Microtetraspora malaysiensis	NA
+tr|A0ABW6V0T4|A0ABW6V0T4_MICFU	clade_04	A0ABW6V0T4	Microtetraspora	Microtetraspora fusca	NA
+tr|A0ABT9R9S9|A0ABT9R9S9_9ACTN	clade_04	A0ABT9R9S9	Streptosporangium	Streptosporangium brasiliense	NA
+tr|A0A2C9ZMQ8|A0A2C9ZMQ8_9ACTN	clade_04	A0A2C9ZMQ8	Streptosporangium	Streptosporangium minutum	NA
+tr|A0ABV3GPG2|A0ABV3GPG2_MICGL	clade_04	A0ABV3GPG2	Microtetraspora	Microtetraspora glauca	NA
+tr|A0A1I4AJK7|A0A1I4AJK7_9ACTN	clade_04	A0A1I4AJK7	Streptosporangium	Streptosporangium canum	NA
+tr|D2B6W3|D2B6W3_STRRD	clade_04	D2B6W3	Streptosporangium	Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / KCTC 9067 / NCIMB 10171 / NRRL 2505 / NI 9100)	NA
+tr|A0A7W8AD49|A0A7W8AD49_9ACTN	clade_04	A0A7W8AD49	Nonomuraea	Nonomuraea endophytica	NA
+tr|A0ABV8EUA0|A0ABV8EUA0_9ACTN	clade_04	A0ABV8EUA0	Streptosporangium	Streptosporangium jomthongense	NA
+tr|A0ABW3DN90|A0ABW3DN90_9ACTN	clade_04	A0ABW3DN90	Streptosporangium	Streptosporangium algeriense	NA
+tr|A0A7W0HTY1|A0A7W0HTY1_9ACTN	clade_04	A0A7W0HTY1	Nonomuraea	Nonomuraea soli	NA
+tr|A0ABW7YQ16|A0ABW7YQ16_9ACTN	clade_04	A0ABW7YQ16	Nonomuraea	Nonomuraea typhae	NA
+tr|A0ABV5IXZ4|A0ABV5IXZ4_9ACTN	clade_04	A0ABV5IXZ4	Nonomuraea	Nonomuraea spiralis	NA
+tr|A0A7W7VS92|A0A7W7VS92_9ACTN	clade_04	A0A7W7VS92	Streptosporangium	Streptosporangium saharense	NA
+tr|A0ABN1Q5Y7|A0ABN1Q5Y7_9ACTN	clade_04	A0ABN1Q5Y7	Nonomuraea	Nonomuraea longicatena	NA
+tr|D3F610|D3F610_CONWI	clade_04	D3F610	Conexibacter	Conexibacter woesei (strain DSM 14684 / CCUG 47730 / CIP 108061 / JCM 11494 / NBRC 100937 / ID131577)	NA
+tr|H0E877|H0E877_9ACTN	clade_04	H0E877	Patulibacter	Patulibacter medicamentivorans	NA
+tr|A0ABZ2LU00|A0ABZ2LU00_9BACT	clade_04	A0ABZ2LU00	Pendulispora	Pendulispora albinea	NA
+tr|A0ABZ2K0W2|A0ABZ2K0W2_9BACT	clade_04	A0ABZ2K0W2	Pendulispora	Pendulispora brunnea	NA
+tr|A0ABZ2KRG5|A0ABZ2KRG5_9BACT	clade_04	A0ABZ2KRG5	Pendulispora	Pendulispora rubella	NA
+tr|A0ABW9FX93|A0ABW9FX93_9NOCA	clade_04	A0ABW9FX93	Prescottella	Prescottella soli	NA
+tr|A0ABV9G053|A0ABV9G053_9NOCA	clade_04	A0ABV9G053	Rhodococcus	Rhodococcus kronopolitis	NA
+tr|A0A1G6SVB0|A0A1G6SVB0_9NOCA	clade_04	A0A1G6SVB0	Rhodococcus	Rhodococcus tukisamuensis	NA
+tr|A0ABY2RG97|A0ABY2RG97_9NOCA	clade_04	A0ABY2RG97	Rhodococcus	Rhodococcus oryzae	NA
+tr|A0A6L6JDB4|A0A6L6JDB4_9RHOB	clade_04	A0A6L6JDB4	Paracoccus	Paracoccus aestuariivivens	NA
+tr|A0ABU3EK19|A0ABU3EK19_9RHOB	clade_04	A0ABU3EK19	Paracoccus	Paracoccus broussonetiae	NA
+tr|A0A7D6ZFX0|A0A7D6ZFX0_9NOCA	clade_04	A0A7D6ZFX0	Nocardia	Nocardia huaxiensis	NA
+tr|A0ABV3F3X9|A0ABV3F3X9_9NOCA	clade_04	A0ABV3F3X9	Nocardia	Nocardia fusca	NA
+tr|A0ABV3FKY4|A0ABV3FKY4_9NOCA	clade_04	A0ABV3FKY4	Nocardia	Nocardia aurea	NA
+tr|A0ABS4QJ61|A0ABS4QJ61_9NOCA	clade_04	A0ABS4QJ61	Nocardia	Nocardia goodfellowii	NA
+tr|A0ABZ1NDW4|A0ABZ1NDW4_9NOCA	clade_04	A0ABZ1NDW4	Nocardia	Nocardia salmonicida	NA
+tr|A0A7H0LJJ6|A0A7H0LJJ6_9SPHN	clade_04	A0A7H0LJJ6	Sphingomonas	Sphingomonas alpina	NA
+tr|A0AA41Z6E8|A0AA41Z6E8_9SPHN	clade_04	A0AA41Z6E8	Sphingomonas	Sphingomonas lycopersici	NA
+tr|A0A1L6JA44|A0A1L6JA44_9SPHN	clade_04	A0A1L6JA44	Sphingomonas	Sphingomonas koreensis	NA
+tr|A0A7X5V1Y0|A0A7X5V1Y0_9SPHN	clade_04	A0A7X5V1Y0	Sphingomonas	Sphingomonas leidyi	NA
+tr|A0A7W6JX89|A0A7W6JX89_9SPHN	clade_04	A0A7W6JX89	Sphingomonas	Sphingomonas kyeonggiensis	NA
+tr|A0A7W7K5J1|A0A7W7K5J1_9SPHN	clade_04	A0A7W7K5J1	Sphingomonas	Sphingomonas kyeonggiensis	NA
+tr|A0A2T5MD89|A0A2T5MD89_9GAMM	clade_04	A0A2T5MD89	Stenotrophobium	Stenotrophobium rhamnosiphilum	NA
+tr|A0ABX8CQK4|A0ABX8CQK4_9NOCA	clade_04	A0ABX8CQK4	Nocardia	Nocardia tengchongensis	NA
+tr|A0ABR4ZJ15|A0ABR4ZJ15_9NOCA	clade_04	A0ABR4ZJ15	Nocardia	Nocardia vulneris	NA
+tr|A0ABW6QPJ9|A0ABW6QPJ9_9NOCA	clade_04	A0ABW6QPJ9	Nocardia	Nocardia suismassiliense	NA
+tr|A0A931I7M5|A0A931I7M5_9NOCA	clade_04	A0A931I7M5	Nocardia	Nocardia bovistercoris	NA
+tr|A0A6G9YMI2|A0A6G9YMI2_9NOCA	clade_04	A0A6G9YMI2	Nocardia	Nocardia arthritidis	NA
+tr|A0ABS6BE04|A0ABS6BE04_9NOCA	clade_04	A0ABS6BE04	Nocardia	Nocardia albiluteola	NA
+tr|A0A7G1KJX1|A0A7G1KJX1_9NOCA	clade_04	A0A7G1KJX1	Nocardia	Nocardia wallacei	NA
+tr|A0A7W9P8S4|A0A7W9P8S4_9NOCA	clade_04	A0A7W9P8S4	Nocardia	Nocardia transvalensis	NA
+tr|A0A370I2K4|A0A370I2K4_9NOCA	clade_04	A0A370I2K4	Nocardia	Nocardia pseudobrasiliensis	NA
+tr|A0ABW6NKE0|A0ABW6NKE0_9NOCA	clade_04	A0ABW6NKE0	Nocardia	Nocardia africana	NA
+tr|A0A231HFG4|A0A231HFG4_9NOCA	clade_04	A0A231HFG4	Nocardia	Nocardia cerradoensis	NA
+tr|A0ABU1XE86|A0ABU1XE86_9NOCA	clade_04	A0ABU1XE86	Nocardia	Nocardia kruczakiae	NA
+tr|A0ABW6NYV4|A0ABW6NYV4_9NOCA	clade_04	A0ABW6NYV4	Nocardia	Nocardia aobensis	NA
+tr|A0A1H0TFE8|A0A1H0TFE8_9GAMM	clade_05	A0A1H0TFE8	Ectopseudomonas	Ectopseudomonas guguanensis	NA
+tr|A4Y035|A4Y035_ECTM1	clade_05	A4Y035	Ectopseudomonas	Ectopseudomonas mendocina (strain ymp) (Pseudomonas mendocina)	NA
+tr|A0A1H1LGD1|A0A1H1LGD1_9GAMM	clade_05	A0A1H1LGD1	Halopseudomonas	Halopseudomonas sabulinigri	NA
+tr|A0A1H2ERN9|A0A1H2ERN9_9GAMM	clade_05	A0A1H2ERN9	Halopseudomonas	Halopseudomonas salegens	NA
+tr|A0ABQ1P236|A0ABQ1P236_9GAMM	clade_05	A0ABQ1P236	Halopseudomonas	Halopseudomonas salina	NA
+tr|A0ABQ2CPK6|A0ABQ2CPK6_9GAMM	clade_05	A0ABQ2CPK6	Halopseudomonas	Halopseudomonas pertucinogena	NA
+tr|A0AAN1WLP8|A0AAN1WLP8_9GAMM	clade_05	A0AAN1WLP8	Marinagarivorans	Marinagarivorans cellulosilyticus	NA
+tr|A0ABQ3AXI4|A0ABQ3AXI4_9GAMM	clade_05	A0ABQ3AXI4	Marinobacter	Marinobacter zhanjiangensis	NA
+tr|A0ABW5EHM2|A0ABW5EHM2_9GAMM	clade_05	A0ABW5EHM2	Microbulbifer	Microbulbifer halophilus	NA
+tr|A0A4Q7J964|A0A4Q7J964_9PSEU	clade_05	A0A4Q7J964	Amycolatopsis	Amycolatopsis suaedae	NA
+tr|A0A154MFQ9|A0A154MFQ9_9PSEU	clade_05	A0A154MFQ9	Amycolatopsis	Amycolatopsis regifaucium	NA
+tr|A0A2P2FIU7|A0A2P2FIU7_AMYLU	clade_05	A0A2P2FIU7	Amycolatopsis	Amycolatopsis lurida NRRL 2430	NA
+tr|A0A4Q7KNA4|A0A4Q7KNA4_9PSEU	clade_05	A0A4Q7KNA4	Herbihabitans	Herbihabitans rhizosphaerae	NA
+tr|A0A1H2UBE2|A0A1H2UBE2_9PSEU	clade_05	A0A1H2UBE2	Amycolatopsis	Amycolatopsis xylanica	NA
+tr|A0A075V281|A0A075V281_9PSEU	clade_05	A0A075V281	Amycolatopsis	Amycolatopsis japonica	NA
+tr|A0A154MM18|A0A154MM18_9PSEU	clade_05	A0A154MM18	Amycolatopsis	Amycolatopsis regifaucium	NA
+tr|A0A918LED6|A0A918LED6_9PSEU	clade_05	A0A918LED6	Actinokineospora	Actinokineospora fastidiosa	NA
+tr|A0ABP4V4N0|A0ABP4V4N0_9ACTN	clade_05	A0ABP4V4N0	Kribbella	Kribbella yunnanensis	NA
+tr|A0ABS5AQW8|A0ABS5AQW8_9PSEU	clade_05	A0ABS5AQW8	Crossiella	Crossiella equi	NA
+tr|A0ABP6DBE2|A0ABP6DBE2_9ACTN	clade_05	A0ABP6DBE2	Actinomadura	Actinomadura fulvescens	NA
+tr|A0ABP6K992|A0ABP6K992_9ACTN	clade_05	A0ABP6K992	Streptomyces	Streptomyces enissocaesilis	NA
+tr|A0A7X0HEL9|A0A7X0HEL9_STRC6	clade_05	A0A7X0HEL9	Streptomyces	Streptomyces candidus	NA
+tr|A0A919DPR9|A0A919DPR9_9ACTN	clade_05	A0A919DPR9	Streptomyces	Streptomyces longispororuber	NA
+tr|A0ABP4UM75|A0ABP4UM75_9ACTN	clade_05	A0ABP4UM75	Kribbella	Kribbella yunnanensis	NA
+tr|A0A1Y5XXE4|A0A1Y5XXE4_KIBAR	clade_05	A0A1Y5XXE4	Kibdelosporangium	Kibdelosporangium aridum	NA
+tr|A0A7W7FSY8|A0A7W7FSY8_9PSEU	clade_05	A0A7W7FSY8	Crossiella	Crossiella cryophila	NA
+tr|A0ABQ3M249|A0ABQ3M249_9PSEU	clade_05	A0ABQ3M249	Amycolatopsis	Amycolatopsis oliviviridis	NA
+tr|A0A075UPJ7|A0A075UPJ7_9PSEU	clade_05	A0A075UPJ7	Amycolatopsis	Amycolatopsis japonica	NA
+tr|R4T7Z6|R4T7Z6_9PSEU	clade_05	R4T7Z6	Amycolatopsis	Amycolatopsis keratiniphila	NA
+tr|A0A7W3LXJ4|A0A7W3LXJ4_ACTKI	clade_05	A0A7W3LXJ4	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	NA
+tr|A0ABW2CM09|A0ABW2CM09_9ACTN	clade_05	A0ABW2CM09	Actinomadura	Actinomadura yumaensis	NA
+tr|A0A7D3W2P3|A0A7D3W2P3_ACTVE	clade_05	A0A7D3W2P3	Actinomadura	Actinomadura verrucosospora	NA
+tr|A0ABS3RLG2|A0ABS3RLG2_9ACTN	clade_05	A0ABS3RLG2	Actinomadura	Actinomadura violacea	NA
+tr|A0ABN3Q643|A0ABN3Q643_9ACTN	clade_05	A0ABN3Q643	Actinomadura	Actinomadura fulvescens	NA
+tr|A0A7K0BY86|A0A7K0BY86_9ACTN	clade_05	A0A7K0BY86	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A3D9SLY3|A0A3D9SLY3_9ACTN	clade_05	A0A3D9SLY3	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0ABP6BUZ4|A0ABP6BUZ4_9ACTN	clade_05	A0ABP6BUZ4	Actinomadura	Actinomadura fulvescens	NA
+tr|A0A939PI20|A0A939PI20_9ACTN	clade_05	A0A939PI20	Actinomadura	Actinomadura barringtoniae	NA
+tr|A0A2P4UPT6|A0A2P4UPT6_9ACTN	clade_05	A0A2P4UPT6	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0A6I4WCS2|A0A6I4WCS2_9ACTN	clade_05	A0A6I4WCS2	Actinomadura	Actinomadura rayongensis	NA
+tr|A0A8J3ZIJ9|A0A8J3ZIJ9_9ACTN	clade_05	A0A8J3ZIJ9	Virgisporangium	Virgisporangium aurantiacum	NA
+tr|A0A919PNJ3|A0A919PNJ3_9ACTN	clade_05	A0A919PNJ3	Dactylosporangium	Dactylosporangium siamense	NA
+tr|A0ABN2B888|A0ABN2B888_9ACTN	clade_05	A0ABN2B888	Dactylosporangium	Dactylosporangium maewongense	NA
+tr|D2BF75|D2BF75_STRRD	clade_05	D2BF75	Streptosporangium	Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / KCTC 9067 / NCIMB 10171 / NRRL 2505 / NI 9100)	NA
+tr|A0ABW4SKE7|A0ABW4SKE7_9ACTN	clade_05	A0ABW4SKE7	Nonomuraea	Nonomuraea mangrovi	NA
+tr|A0A7W7W8Y9|A0A7W7W8Y9_9ACTN	clade_05	A0A7W7W8Y9	Streptosporangium	Streptosporangium album	NA
+tr|A0A7Z0ET41|A0A7Z0ET41_9ACTN	clade_05	A0A7Z0ET41	Nocardiopsis	Nocardiopsis aegyptia	NA
+tr|A0ABQ2W6F4|A0ABQ2W6F4_9ACTN	clade_05	A0ABQ2W6F4	Streptomyces	Streptomyces gelaticus	NA
+tr|A0ABV5TKN4|A0ABV5TKN4_9ACTN	clade_05	A0ABV5TKN4	Streptosporangium	Streptosporangium vulgare	NA
+tr|A0A7W0CKZ2|A0A7W0CKZ2_9ACTN	clade_05	A0A7W0CKZ2	Nonomuraea	Nonomuraea soli	NA
+tr|A0A7W8EHH8|A0A7W8EHH8_9ACTN	clade_05	A0A7W8EHH8	Nonomuraea	Nonomuraea endophytica	NA
+tr|A0ABW7Z7B4|A0ABW7Z7B4_9ACTN	clade_05	A0ABW7Z7B4	Nonomuraea	Nonomuraea typhae	NA
+tr|A0A1H8CDJ8|A0A1H8CDJ8_9ACTN	clade_05	A0A1H8CDJ8	Nonomuraea	Nonomuraea pusilla	NA
+tr|A0ABV5INF8|A0ABV5INF8_9ACTN	clade_05	A0ABV5INF8	Nonomuraea	Nonomuraea spiralis	NA
+tr|A0ABT4SVI9|A0ABT4SVI9_9ACTN	clade_05	A0ABT4SVI9	Nonomuraea	Nonomuraea ferruginea	NA
+tr|A0ABW2TCC5|A0ABW2TCC5_9ACTN	clade_05	A0ABW2TCC5	Streptosporangium	Streptosporangium amethystogenes subsp. fukuiense	NA
+tr|A0ABP7P388|A0ABP7P388_9ACTN	clade_05	A0ABP7P388	Gordonia	Gordonia caeni	NA
+tr|A0A4Y3RDQ0|A0A4Y3RDQ0_9ACTN	clade_05	A0A4Y3RDQ0	Streptomyces	Streptomyces gardneri	NA
+tr|A0ABQ3PN33|A0ABQ3PN33_9ACTN	clade_05	A0ABQ3PN33	Streptomyces	Streptomyces hydrogenans	NA
+tr|F2R1W4|F2R1W4_STRVP	clade_05	F2R1W4	Streptomyces	Streptomyces venezuelae (strain ATCC 10712 / CBS 650.69 / DSM 40230 / JCM 4526 / NBRC 13096 / PD 04745)	NA
+tr|A0ABP6Q7A0|A0ABP6Q7A0_9ACTN	clade_05	A0ABP6Q7A0	Actinocorallia	Actinocorallia longicatena	NA
+tr|A0A3D9SNA7|A0A3D9SNA7_9ACTN	clade_05	A0A3D9SNA7	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A7K0BXG1|A0A7K0BXG1_9ACTN	clade_05	A0A7K0BXG1	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A3D9SN04|A0A3D9SN04_9ACTN	clade_05	A0A3D9SN04	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A7K0BW34|A0A7K0BW34_9ACTN	clade_05	A0A7K0BW34	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A7K0BW49|A0A7K0BW49_9ACTN	clade_05	A0A7K0BW49	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A7W3LR11|A0A7W3LR11_ACTKI	clade_05	A0A7W3LR11	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	NA
+tr|A0ABW2CTX2|A0ABW2CTX2_9ACTN	clade_05	A0ABW2CTX2	Actinomadura	Actinomadura yumaensis	NA
+tr|A0ABW2Y2H3|A0ABW2Y2H3_9ACTN	clade_05	A0ABW2Y2H3	Actinomadura	Actinomadura fibrosa	NA
+tr|A0A4R6P139|A0A4R6P139_NOCIG	clade_05	A0A4R6P139	Nocardia	Nocardia ignorata	NA
+tr|A0ABQ6YHT9|A0ABQ6YHT9_9NOCA	clade_05	A0ABQ6YHT9	Nocardia	Nocardia caishijiensis	NA
+tr|A0ABN3VI24|A0ABN3VI24_9PSEU	clade_05	A0ABN3VI24	Saccharopolyspora	Saccharopolyspora taberi	NA
+tr|A0ABP5DB21|A0ABP5DB21_9PSEU	clade_05	A0ABP5DB21	Amycolatopsis	Amycolatopsis minnesotensis	NA
+tr|A0ABT2D2X6|A0ABT2D2X6_9BURK	clade_06	A0ABT2D2X6	Massilia	Massilia terrae	NA
+tr|A0A328ACF0|A0A328ACF0_9CAUL	clade_06	A0A328ACF0	Phenylobacterium	Phenylobacterium deserti	NA
+tr|A0A5C8ZP14|A0A5C8ZP14_9GAMM	clade_06	A0A5C8ZP14	Parahaliea	Parahaliea maris	NA
+tr|A0A7X1F731|A0A7X1F731_9SPHN	clade_06	A0A7X1F731	Novosphingobium	Novosphingobium aerophilum	NA
+tr|A0ABU8S5Q1|A0ABU8S5Q1_9SPHN	clade_06	A0ABU8S5Q1	Novosphingobium	Novosphingobium aquae	NA
+tr|A0A7X1KQJ9|A0A7X1KQJ9_9SPHN	clade_06	A0A7X1KQJ9	Novosphingobium	Novosphingobium piscinae	NA
+tr|A0A6G7YM33|A0A6G7YM33_9SPHN	clade_06	A0A6G7YM33	Sphingomonas	Sphingomonas piscis	NA
+tr|A0A1M6K991|A0A1M6K991_9BACT	clade_06	A0A1M6K991	Tangfeifania	Tangfeifania diversioriginum	NA
+tr|A0A9J6ZNH3|A0A9J6ZNH3_9BACT	clade_06	A0A9J6ZNH3	Xiashengella	Xiashengella succiniciproducens	NA
+tr|A0A4R2GNM0|A0A4R2GNM0_9BACT	clade_06	A0A4R2GNM0	Natronoflexus	Natronoflexus pectinivorans	NA
+tr|A0A1M4ZEU0|A0A1M4ZEU0_9BACT	clade_06	A0A1M4ZEU0	Cnuella	Cnuella takakiae	NA
+tr|A0A286GRC4|A0A286GRC4_9BACT	clade_06	A0A286GRC4	Spirosoma	Spirosoma fluviale	NA
+tr|A0A2T0UB20|A0A2T0UB20_9SPHI	clade_06	A0A2T0UB20	Arcticibacter	Arcticibacter pallidicorallinus	NA
+tr|A0A917J6Z5|A0A917J6Z5_9SPHI	clade_06	A0A917J6Z5	Mucilaginibacter	Mucilaginibacter galii	NA
+tr|A0ABZ0W4G4|A0ABZ0W4G4_9BACT	clade_06	A0ABZ0W4G4	Niabella	Niabella yanshanensis	NA
+tr|E4T1B9|E4T1B9_PALPW	clade_06	E4T1B9	Paludibacter	Paludibacter propionicigenes (strain DSM 17365 / JCM 13257 / WB4)	NA
+tr|A0A0D8JF23|A0A0D8JF23_9BACT	clade_06	A0A0D8JF23	Draconibacterium	Draconibacterium sediminis	NA
+tr|X5DX37|X5DX37_9BACT	clade_06	X5DX37	Draconibacterium	Draconibacterium orientale	NA
+tr|C6VZJ3|C6VZJ3_DYAFD	clade_06	C6VZJ3	Dyadobacter	Dyadobacter fermentans (strain ATCC 700827 / DSM 18053 / CIP 107007 / KCTC 52180 / NS114)	NA
+tr|A0ABQ3B214|A0ABQ3B214_9GAMM	clade_06	A0ABQ3B214	Cellvibrio	Cellvibrio zantedeschiae	NA
+tr|A0A1G4TQ35|A0A1G4TQ35_9CAUL	clade_06	A0A1G4TQ35	Asticcacaulis	Asticcacaulis taihuensis	NA
+tr|A0ABS2D9K8|A0ABS2D9K8_9SPHN	clade_06	A0ABS2D9K8	Sphingomonas	Sphingomonas longa	NA
+tr|A0ABN1N6L8|A0ABN1N6L8_9PSEU	clade_06	A0ABN1N6L8	Pseudonocardia	Pseudonocardia zijingensis	NA
+tr|A0A840NXT3|A0A840NXT3_9ACTN	clade_06	A0A840NXT3	Thermocatellispora	Thermocatellispora tengchongensis	NA
+tr|A0A5C4WSK7|A0A5C4WSK7_9ACTN	clade_06	A0A5C4WSK7	Nonomuraea	Nonomuraea phyllanthi	NA
+tr|A0ABV5P1V8|A0ABV5P1V8_9ACTN	clade_06	A0ABV5P1V8	Nonomuraea	Nonomuraea salmonea	NA
+tr|A0A5N6B6N8|A0A5N6B6N8_9ACTN	clade_06	A0A5N6B6N8	Microbispora	Microbispora catharanthi	NA
+tr|A0ABV3HHB8|A0ABV3HHB8_9ACTN	clade_06	A0ABV3HHB8	Nonomuraea	Nonomuraea bangladeshensis	NA
+tr|A0A8H9LKD0|A0A8H9LKD0_9ACTN	clade_06	A0A8H9LKD0	Microbispora	Microbispora bryophytorum	NA
+tr|A0ABR8LI65|A0ABR8LI65_9ACTN	clade_06	A0ABR8LI65	Microbispora	Microbispora bryophytorum subsp. camponoti	NA
+tr|A0ABV0AYA2|A0ABV0AYA2_9ACTN	clade_06	A0ABV0AYA2	Microbispora	Microbispora maris	NA
+tr|A0A1N7HIK6|A0A1N7HIK6_9ACTN	clade_06	A0A1N7HIK6	Microbispora	Microbispora rosea	NA
+tr|A0ABZ1STP3|A0ABZ1STP3_9ACTN	clade_06	A0ABZ1STP3	Microbispora	Microbispora hainanensis	NA
+tr|A0A1U9ZTE6|A0A1U9ZTE6_9ACTN	clade_06	A0A1U9ZTE6	[Actinomadura]	[Actinomadura] parvosata subsp. kistnae	NA
+tr|A0ABX1BJM1|A0ABX1BJM1_9ACTN	clade_06	A0ABX1BJM1	Nonomuraea	Nonomuraea composti	NA
+tr|A0ABY9URI4|A0ABY9URI4_9ACTN	clade_06	A0ABY9URI4	Streptomyces	Streptomyces luomodiensis	NA
+tr|A0A853BEY4|A0A853BEY4_9PSEU	clade_06	A0A853BEY4	Amycolatopsis	Amycolatopsis endophytica	NA
+tr|A0ABP7JH16|A0ABP7JH16_9PSEU	clade_06	A0ABP7JH16	Amycolatopsis	Amycolatopsis tucumanensis	NA
+tr|A0ABQ3IUC3|A0ABQ3IUC3_9PSEU	clade_06	A0ABQ3IUC3	Amycolatopsis	Amycolatopsis deserti	NA
+tr|A0ABY8XKD1|A0ABY8XKD1_9PSEU	clade_06	A0ABY8XKD1	Amycolatopsis	Amycolatopsis nalaikhensis	NA
+tr|A0ABQ3KFS6|A0ABQ3KFS6_9PSEU	clade_06	A0ABQ3KFS6	Amycolatopsis	Amycolatopsis bullii	NA
+tr|A0ABV5UGY4|A0ABV5UGY4_9PSEU	clade_06	A0ABV5UGY4	Amycolatopsis	Amycolatopsis plumensis	NA
+tr|A0A066TML8|A0A066TML8_9PSEU	clade_06	A0A066TML8	Amycolatopsis	Amycolatopsis rifamycinica	NA
+tr|A0A1H5RL57|A0A1H5RL57_9PSEU	clade_06	A0A1H5RL57	Amycolatopsis	Amycolatopsis pretoriensis	NA
+tr|A0A3R9DT78|A0A3R9DT78_9PSEU	clade_06	A0A3R9DT78	Amycolatopsis	Amycolatopsis eburnea	NA
+tr|A0ABU8S4G3|A0ABU8S4G3_9SPHN	clade_06	A0ABU8S4G3	Novosphingobium	Novosphingobium aquae	NA
+tr|A0ABQ3YI37|A0ABQ3YI37_9ACTN	clade_06	A0ABQ3YI37	Paractinoplanes	Paractinoplanes deccanensis	NA
+tr|A0A327ZLV8|A0A327ZLV8_9ACTN	clade_06	A0A327ZLV8	Actinoplanes	Actinoplanes lutulentus	NA
+tr|I0HDL6|I0HDL6_ACTM4	clade_06	I0HDL6	Actinoplanes	Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NBRC 102363 / NCIMB 12654 / NRRL B-3342 / UNCC 431)	NA
+tr|A0A0A6XB90|A0A0A6XB90_ACTUT	clade_06	A0A0A6XB90	Actinoplanes	Actinoplanes utahensis	NA
+tr|A0A7W5FDL4|A0A7W5FDL4_9ACTN	clade_06	A0A7W5FDL4	Actinoplanes	Actinoplanes campanulatus	NA
+tr|A0A7W7HPD3|A0A7W7HPD3_9ACTN	clade_06	A0A7W7HPD3	Actinoplanes	Actinoplanes lobatus	NA
+tr|A0A2P8I084|A0A2P8I084_SACCR	clade_06	A0A2P8I084	Saccharothrix	Saccharothrix carnea	NA
+tr|A0ABU1PVP3|A0ABU1PVP3_9PSEU	clade_06	A0ABU1PVP3	Saccharothrix	Saccharothrix longispora	NA
+tr|W7INJ7|W7INJ7_9PSEU	clade_06	W7INJ7	Actinokineospora	Actinokineospora spheciospongiae	NA
+tr|A0A7W7QD15|A0A7W7QD15_9PSEU	clade_06	A0A7W7QD15	Actinophytocola	Actinophytocola algeriensis	NA
+tr|A0A542DLD4|A0A542DLD4_AMYCI	clade_06	A0A542DLD4	Amycolatopsis	Amycolatopsis cihanbeyliensis	NA
+tr|A0A918GHW1|A0A918GHW1_9PSEU	clade_06	A0A918GHW1	Actinokineospora	Actinokineospora fastidiosa	NA
+tr|A0A344L5S5|A0A344L5S5_9PSEU	clade_06	A0A344L5S5	Amycolatopsis	Amycolatopsis albispora	NA
+tr|A0ABS4PT05|A0ABS4PT05_9PSEU	clade_06	A0ABS4PT05	Amycolatopsis	Amycolatopsis magusensis	NA
+tr|A0A365H6K8|A0A365H6K8_9ACTN	clade_06	A0A365H6K8	Actinomadura	Actinomadura craniellae	NA
+tr|C7MVV4|C7MVV4_SACVD	clade_06	C7MVV4	Saccharomonospora	Saccharomonospora viridis (strain ATCC 15386 / DSM 43017 / JCM 3036 / CCUG 5913 / NBRC 12207 / NCIMB 9602 / P101) (Thermoactinomyces viridis)	NA
+tr|A0A4R6V0N6|A0A4R6V0N6_9ACTN	clade_06	A0A4R6V0N6	Actinorugispora	Actinorugispora endophytica	NA
+tr|A0A853BTF5|A0A853BTF5_9ACTN	clade_06	A0A853BTF5	Streptomonospora	Streptomonospora nanhaiensis	NA
+tr|A0A9X3P096|A0A9X3P096_9ACTN	clade_06	A0A9X3P096	Streptomonospora	Streptomonospora mangrovi	NA
+tr|A0ABP7G4F1|A0ABP7G4F1_9ACTN	clade_06	A0ABP7G4F1	Salinactinospora	Salinactinospora qingdaonensis	NA
+tr|A0A399G2E0|A0A399G2E0_9ACTN	clade_06	A0A399G2E0	Thermobifida	Thermobifida halotolerans	NA
+tr|A0A147KDL8|A0A147KDL8_THECS	clade_06	A0A147KDL8	Thermobifida	Thermobifida cellulosilytica TB100	NA
+tr|A0ABY4L3P7|A0ABY4L3P7_THEAE	clade_06	A0ABY4L3P7	Thermobifida	Thermobifida alba (Thermomonospora alba)	NA
+tr|A0A7Z0EUU2|A0A7Z0EUU2_9ACTN	clade_06	A0A7Z0EUU2	Nocardiopsis	Nocardiopsis aegyptia	NA
+tr|A0ABR9HFT4|A0ABR9HFT4_9ACTN	clade_06	A0ABR9HFT4	Nocardiopsis	Nocardiopsis terrae	NA
+tr|A0ABU7K983|A0ABU7K983_9ACTN	clade_06	A0ABU7K983	Nocardiopsis	Nocardiopsis codii	NA
+tr|A0ABV2A015|A0ABV2A015_9ACTN	clade_06	A0ABV2A015	Nocardiopsis	Nocardiopsis tropica	NA
+tr|A0ABY6YT52|A0ABY6YT52_9ACTN	clade_06	A0ABY6YT52	Streptomonospora	Streptomonospora nanhaiensis	NA
+tr|A0A1V3C1E8|A0A1V3C1E8_9ACTN	clade_06	A0A1V3C1E8	Nocardiopsis	Nocardiopsis sinuspersici	NA
+tr|A0A841IQ61|A0A841IQ61_9ACTN	clade_06	A0A841IQ61	Nocardiopsis	Nocardiopsis algeriensis	NA
+tr|A0ABX8C9P2|A0ABX8C9P2_9ACTN	clade_06	A0ABX8C9P2	Nocardiopsis	Nocardiopsis akebiae	NA
+tr|A0ABU2MB52|A0ABU2MB52_9ACTN	clade_06	A0ABU2MB52	Nocardiopsis	Nocardiopsis lambiniae	NA
+tr|A0ABX8BSA1|A0ABX8BSA1_9ACTN	clade_06	A0ABX8BSA1	Nocardiopsis	Nocardiopsis changdeensis	NA
+tr|A0A3N0E3M2|A0A3N0E3M2_9ACTN	clade_06	A0A3N0E3M2	Halostreptopolyspora	Halostreptopolyspora alba	NA
+tr|A0A7W7RNW4|A0A7W7RNW4_9ACTN	clade_06	A0A7W7RNW4	Lipingzhangella	Lipingzhangella halophila	NA
+tr|A0ABU2HBR0|A0ABU2HBR0_9ACTN	clade_06	A0ABU2HBR0	Lipingzhangella	Lipingzhangella rawalii	NA
+tr|A0ABP9GSJ2|A0ABP9GSJ2_9ACTN	clade_06	A0ABP9GSJ2	Streptomonospora	Streptomonospora halophila	NA
+tr|A0ABV9SNT9|A0ABV9SNT9_9ACTN	clade_06	A0ABV9SNT9	Streptomonospora	Streptomonospora arabica	NA
+tr|A0ABW3BH01|A0ABW3BH01_9ACTN	clade_06	A0ABW3BH01	Streptomonospora	Streptomonospora algeriensis	NA
+tr|A0A3N1D5H5|A0A3N1D5H5_9ACTN	clade_06	A0A3N1D5H5	Actinocorallia	Actinocorallia herbida	NA
+tr|A0A7W9IBT4|A0A7W9IBT4_9ACTN	clade_06	A0A7W9IBT4	Streptosporangium	Streptosporangium becharense	NA
+tr|A0ABW1A748|A0ABW1A748_9ACTN	clade_06	A0ABW1A748	Actinomadura	Actinomadura rugatobispora	NA
+tr|A0ABW3CKK1|A0ABW3CKK1_9ACTN	clade_06	A0ABW3CKK1	Actinomadura	Actinomadura adrarensis	NA
+tr|A0ABR9JTI2|A0ABR9JTI2_9ACTN	clade_06	A0ABR9JTI2	Actinomadura	Actinomadura algeriensis	NA
+tr|A0A7W3MTE8|A0A7W3MTE8_9ACTN	clade_06	A0A7W3MTE8	Thermomonospora	Thermomonospora cellulosilytica	NA
+tr|A0ABN3D0Q6|A0ABN3D0Q6_9ACTN	clade_06	A0ABN3D0Q6	Nonomuraea	Nonomuraea monospora	NA
+tr|A0A7X0U566|A0A7X0U566_9ACTN	clade_06	A0A7X0U566	Nonomuraea	Nonomuraea rubra	NA
+tr|A0A9X2K9B4|A0A9X2K9B4_9ACTN	clade_06	A0A9X2K9B4	Nonomuraea	Nonomuraea thailandensis	NA
+tr|A0A840P6D1|A0A840P6D1_9ACTN	clade_06	A0A840P6D1	Thermocatellispora	Thermocatellispora tengchongensis	NA
+tr|A0A5S4GQ57|A0A5S4GQ57_9ACTN	clade_06	A0A5S4GQ57	Nonomuraea	Nonomuraea zeae	NA
+tr|A0A8J3S7U8|A0A8J3S7U8_PLARO	clade_06	A0A8J3S7U8	Planobispora	Planobispora rosea	NA
+tr|A0A7W3LQR6|A0A7W3LQR6_ACTKI	clade_07	A0A7W3LQR6	Actinomadura	Actinomadura kijaniata (Actinomadura namibiensis)	NA
+tr|A0ABW2Y2K9|A0ABW2Y2K9_9ACTN	clade_08	A0ABW2Y2K9	Actinomadura	Actinomadura fibrosa	NA
+tr|A0A939PKG5|A0A939PKG5_9ACTN	clade_09	A0A939PKG5	Actinomadura	Actinomadura barringtoniae	NA
+tr|A0ABS7FP06|A0ABS7FP06_9ACTN	clade_10	A0ABS7FP06	Actinomadura	Actinomadura parmotrematis	NA
+tr|A0A7Y9EM44|A0A7Y9EM44_9ACTN	clade_11	A0A7Y9EM44	Actinomadura	Actinomadura luteofluorescens	NA
+tr|A0A1I5RT09|A0A1I5RT09_9ACTN	clade_12	A0A1I5RT09	Actinomadura	Actinomadura madurae	NA
+tr|A0A846ZDK3|A0A846ZDK3_9ACTN	clade_13	A0A846ZDK3	Actinomadura	Actinomadura latina	NA
+tr|A0ABV4R3C7|A0ABV4R3C7_9ACTN	clade_14	A0ABV4R3C7	Actinomadura	Actinomadura chokoriensis	NA
+tr|A0A238V211|A0A238V211_9ACTN	clade_15	A0A238V211	Actinomadura	Actinomadura mexicana	NA
+tr|A0A7Y9GI10|A0A7Y9GI10_9ACTN	clade_16	A0A7Y9GI10	Actinomadura	Actinomadura citrea	NA
+tr|A0A7X0L0G3|A0A7X0L0G3_9ACTN	clade_17	A0A7X0L0G3	Actinomadura	Actinomadura coerulea	NA
+tr|A0ABV4QBN9|A0ABV4QBN9_9ACTN	clade_18	A0ABV4QBN9	Actinomadura	Actinomadura monticuli	NA
+tr|A0A5S4H3R9|A0A5S4H3R9_9ACTN	clade_19	A0A5S4H3R9	Actinomadura	Actinomadura geliboluensis	NA
+tr|A0A4R4NB20|A0A4R4NB20_9ACTN	clade_20	A0A4R4NB20	Actinomadura	Actinomadura bangladeshensis	NA
+tr|A0A239NYM8|A0A239NYM8_9ACTN	clade_21	A0A239NYM8	Actinomadura	Actinomadura meyerae	NA
+tr|A0A3A4B4E3|A0A3A4B4E3_9ACTN	clade_22	A0A3A4B4E3	Bailinhaonella	Bailinhaonella thermotolerans	NA
+tr|A0A1I5MC99|A0A1I5MC99_9PSEU	clade_23	A0A1I5MC99	Amycolatopsis	Amycolatopsis arida	NA
+tr|H8G8N0|H8G8N0_9PSEU	clade_24	H8G8N0	Saccharomonospora	Saccharomonospora azurea NA-128	NA
+tr|A0A543IKT7|A0A543IKT7_9ACTN	clade_25	A0A543IKT7	Actinomadura	Actinomadura hallensis	NA
+tr|A0A7W7IIG7|A0A7W7IIG7_9ACTN	clade_26	A0A7W7IIG7	Actinomadura	Actinomadura livida	NA
+tr|A0A3D9SUJ1|A0A3D9SUJ1_9ACTN	clade_27	A0A3D9SUJ1	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A3D9SPQ3|A0A3D9SPQ3_9ACTN	clade_28	A0A3D9SPQ3	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A3D9SRX0|A0A3D9SRX0_9ACTN	clade_29	A0A3D9SRX0	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0ABP6CMB2|A0ABP6CMB2_9ACTN	clade_30	A0ABP6CMB2	Actinomadura	Actinomadura fulvescens	NA
+tr|A0A0N9IER5|A0A0N9IER5_9PSEU	clade_31	A0A0N9IER5	Kibdelosporangium	Kibdelosporangium phytohabitans	NA
+tr|A0A3D9SUD5|A0A3D9SUD5_9ACTN	clade_32	A0A3D9SUD5	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A3D9SVD4|A0A3D9SVD4_9ACTN	clade_33	A0A3D9SVD4	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A2P4UD72|A0A2P4UD72_9ACTN	clade_34	A0A2P4UD72	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0A6I4WH26|A0A6I4WH26_9ACTN	clade_35	A0A6I4WH26	Actinomadura	Actinomadura rayongensis	NA
+tr|A0A2P4UJS9|A0A2P4UJS9_9ACTN	clade_36	A0A2P4UJS9	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0A6I4VZW1|A0A6I4VZW1_9ACTN	clade_37	A0A6I4VZW1	Actinomadura	Actinomadura rayongensis	NA
+tr|A0A7K0BNG8|A0A7K0BNG8_9ACTN	clade_38	A0A7K0BNG8	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A7K0BYW6|A0A7K0BYW6_9ACTN	clade_39	A0A7K0BYW6	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A1G6Q5G2|A0A1G6Q5G2_9PSEU	clade_40	A0A1G6Q5G2	Actinokineospora	Actinokineospora iranica	NA
+tr|A0A1H5T4B9|A0A1H5T4B9_9ACTN	clade_41	A0A1H5T4B9	Thermomonospora	Thermomonospora echinospora	NA
+tr|A0A365H0G7|A0A365H0G7_9ACTN	clade_42	A0A365H0G7	Actinomadura	Actinomadura craniellae	NA
+tr|A0A3D9SP59|A0A3D9SP59_9ACTN	clade_43	A0A3D9SP59	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0ABN3PU34|A0ABN3PU34_9ACTN	clade_44	A0ABN3PU34	Actinomadura	Actinomadura fulvescens	NA
+tr|A0ABW2XQE4|A0ABW2XQE4_9ACTN	clade_45	A0ABW2XQE4	Actinomadura	Actinomadura fibrosa	NA
+tr|A0A7W3R6L2|A0A7W3R6L2_9ACTN	clade_46	A0A7W3R6L2	Thermomonospora	Thermomonospora cellulosilytica	NA
+tr|D1A646|D1A646_THECD	clade_47	D1A646	Thermomonospora	Thermomonospora curvata (strain ATCC 19995 / DSM 43183 / JCM 3096 / KCTC 9072 / NBRC 15933 / NCIMB 10081 / Henssen B9)	NA
+tr|A0ABV9U430|A0ABV9U430_9ACTN	clade_48	A0ABV9U430	Actinomadura	Actinomadura gamaensis	NA
+tr|A0ABV9U3N1|A0ABV9U3N1_9ACTN	clade_49	A0ABV9U3N1	Actinomadura	Actinomadura gamaensis	NA
+tr|A0ABS3RHW4|A0ABS3RHW4_9ACTN	clade_50	A0ABS3RHW4	Actinomadura	Actinomadura violacea	NA
+tr|A0A2P4UDC3|A0A2P4UDC3_9ACTN	clade_51	A0A2P4UDC3	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0A6I4W9J4|A0A6I4W9J4_9ACTN	clade_52	A0A6I4W9J4	Actinomadura	Actinomadura rayongensis	NA
+tr|A0ABP6BRL7|A0ABP6BRL7_9ACTN	clade_53	A0ABP6BRL7	Actinomadura	Actinomadura fulvescens	NA
+tr|A0ABV9U3U3|A0ABV9U3U3_9ACTN	clade_54	A0ABV9U3U3	Actinomadura	Actinomadura gamaensis	NA
+tr|A0A3D9SRH8|A0A3D9SRH8_9ACTN	clade_55	A0A3D9SRH8	Thermomonospora	Thermomonospora umbrina	NA
+tr|A0A2P4UDP6|A0A2P4UDP6_9ACTN	clade_56	A0A2P4UDP6	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0ABN3QL32|A0ABN3QL32_9ACTN	clade_57	A0ABN3QL32	Actinomadura	Actinomadura fulvescens	NA
+tr|A0A365H682|A0A365H682_9ACTN	clade_58	A0A365H682	Actinomadura	Actinomadura craniellae	NA
+tr|A0A6H9YZG5|A0A6H9YZG5_9ACTN	clade_59	A0A6H9YZG5	Actinomadura	Actinomadura rudentiformis	NA
+tr|A0ABP7VCC9|A0ABP7VCC9_9ACTN	clade_60	A0ABP7VCC9	Actinomadura	Actinomadura miaoliensis	NA
+tr|A0ABN3KHS9|A0ABN3KHS9_9ACTN	clade_61	A0ABN3KHS9	Actinomadura	Actinomadura vinacea	NA
+tr|A0ABW1ACU7|A0ABW1ACU7_9ACTN	clade_62	A0ABW1ACU7	Actinomadura	Actinomadura rugatobispora	NA
+tr|A0A7K0C0L9|A0A7K0C0L9_9ACTN	clade_63	A0A7K0C0L9	Actinomadura	Actinomadura macrotermitis	NA
+tr|A0A939TAR4|A0A939TAR4_9ACTN	clade_64	A0A939TAR4	Actinomadura	Actinomadura barringtoniae	NA
+tr|A0A5C4J1R7|A0A5C4J1R7_9ACTN	clade_65	A0A5C4J1R7	Actinomadura	Actinomadura soli	NA
+tr|A0ABP5M1Z3|A0ABP5M1Z3_9ACTN	clade_66	A0ABP5M1Z3	Actinomadura	Actinomadura napierensis	NA
+tr|A0A6L3W3E9|A0A6L3W3E9_9ACTN	clade_67	A0A6L3W3E9	Actinomadura	Actinomadura montaniterrae	NA
+tr|A0ABS3RDC0|A0ABS3RDC0_9ACTN	clade_68	A0ABS3RDC0	Actinomadura	Actinomadura nitritigenes	NA
+tr|A0A6I4MG66|A0A6I4MG66_9ACTN	clade_69	A0A6I4MG66	Actinomadura	Actinomadura physcomitrii	NA
+tr|A0A7D3VX47|A0A7D3VX47_ACTVE	clade_70	A0A7D3VX47	Actinomadura	Actinomadura verrucosospora	NA
+tr|A0ABS3RIL7|A0ABS3RIL7_9ACTN	clade_71	A0ABS3RIL7	Actinomadura	Actinomadura violacea	NA
+tr|A0A7K1L1I6|A0A7K1L1I6_9ACTN	clade_72	A0A7K1L1I6	Actinomadura	Actinomadura litoris	NA
+tr|A0A239F952|A0A239F952_9ACTN	clade_73	A0A239F952	Actinomadura	Actinomadura meyerae	NA
+tr|A0A4R5ARP1|A0A4R5ARP1_9ACTN	clade_74	A0A4R5ARP1	Actinomadura	Actinomadura darangshiensis	NA
+tr|A0A1I5FBR0|A0A1I5FBR0_9ACTN	clade_75	A0A1I5FBR0	Actinomadura	Actinomadura madurae	NA
+tr|A0A7Y9KFU4|A0A7Y9KFU4_9ACTN	clade_76	A0A7Y9KFU4	Actinomadura	Actinomadura citrea	NA
+tr|A0ABR9JQE4|A0ABR9JQE4_9ACTN	clade_77	A0ABR9JQE4	Actinomadura	Actinomadura algeriensis	NA
+tr|A0ABW3EGR7|A0ABW3EGR7_9ACTN	clade_78	A0ABW3EGR7	Actinomadura	Actinomadura sediminis	NA
+tr|A0ABR9JQE6|A0ABR9JQE6_9ACTN	clade_79	A0ABR9JQE6	Actinomadura	Actinomadura algeriensis	NA
+tr|A0ABW3EHY5|A0ABW3EHY5_9ACTN	clade_80	A0ABW3EHY5	Actinomadura	Actinomadura sediminis	NA
+tr|A0ABW2CZA0|A0ABW2CZA0_9ACTN	clade_81	A0ABW2CZA0	Actinomadura	Actinomadura yumaensis	NA
+tr|A0A365GXM3|A0A365GXM3_9ACTN	clade_82	A0A365GXM3	Actinomadura	Actinomadura craniellae	NA
+tr|A0ABP6Q9G7|A0ABP6Q9G7_9ACTN	clade_83	A0ABP6Q9G7	Actinocorallia	Actinocorallia longicatena	NA
+tr|A0ABN3PZQ6|A0ABN3PZQ6_9ACTN	clade_84	A0ABN3PZQ6	Actinomadura	Actinomadura fulvescens	NA
+tr|A0ABP6PWL3|A0ABP6PWL3_9ACTN	clade_85	A0ABP6PWL3	Actinocorallia	Actinocorallia longicatena	NA
+tr|A0ABP6QLT6|A0ABP6QLT6_9ACTN	clade_86	A0ABP6QLT6	Actinocorallia	Actinocorallia longicatena	NA
+tr|A0A3N1CRP0|A0A3N1CRP0_9ACTN	clade_87	A0A3N1CRP0	Actinocorallia	Actinocorallia herbida	NA
+tr|A0ABP6QD18|A0ABP6QD18_9ACTN	clade_88	A0ABP6QD18	Actinocorallia	Actinocorallia longicatena	NA
+tr|A0A1H6EZ24|A0A1H6EZ24_9ACTN	clade_89	A0A1H6EZ24	Nonomuraea	Nonomuraea solani	NA
+tr|A0ABW1CC56|A0ABW1CC56_9ACTN	clade_90	A0ABW1CC56	Nonomuraea	Nonomuraea insulae	NA
+tr|A0A7W9GDV7|A0A7W9GDV7_9ACTN	clade_91	A0A7W9GDV7	Nonomuraea	Nonomuraea jabiensis	NA
+tr|A0ABT4UC71|A0ABT4UC71_9ACTN	clade_92	A0ABT4UC71	Nocardiopsis	Nocardiopsis endophytica	NA
+tr|A0ABN0WL22|A0ABN0WL22_9ACTN	clade_93	A0ABN0WL22	Actinoallomurus	Actinoallomurus spadix	NA
+tr|A0ABQ3KU58|A0ABQ3KU58_9PSEU	clade_94	A0ABQ3KU58	Amycolatopsis	Amycolatopsis bullii	NA
+tr|A0A2P4UDA7|A0A2P4UDA7_9ACTN	clade_95	A0A2P4UDA7	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0A2P4UNN9|A0A2P4UNN9_9ACTN	clade_96	A0A2P4UNN9	Actinomadura	Actinomadura rubteroloni	NA
+tr|A0A6I4W489|A0A6I4W489_9ACTN	clade_97	A0A6I4W489	Actinomadura	Actinomadura rayongensis	NA
+tr|A0ABY5PK17|A0ABY5PK17_9ACTN	clade_98	A0ABY5PK17	Svornostia	Svornostia abyssi	NA
+tr|A0A0S2KB11|A0A0S2KB11_9GAMM	clade_99	A0A0S2KB11	Pseudohongiella	Pseudohongiella spirulinae	NA
+tr|A0A410DYU7|A0A410DYU7_9CLOT	clade_100	A0A410DYU7	Clostridium	Clostridium manihotivorum	NA
+tr|A0AAV3U1W9|A0AAV3U1W9_9ALTE	clade_101	A0AAV3U1W9	Halioxenophilus	Halioxenophilus aromaticivorans	NA
+tr|A0A6P1THF7|A0A6P1THF7_9GAMM	clade_102	A0A6P1THF7	Microbulbifer	Microbulbifer hydrolyticus	NA
+tr|A0ABY2UDA5|A0ABY2UDA5_9GAMM	clade_103	A0ABY2UDA5	Microbulbifer	Microbulbifer harenosus	NA
+tr|A0A2K9LQ63|A0A2K9LQ63_9GAMM	clade_104	A0A2K9LQ63	Ketobacter	Ketobacter alkanivorans	NA
+tr|A0AA41ULH5|A0AA41ULH5_9BACT	clade_105	A0AA41ULH5	Desulfatitalea	Desulfatitalea alkaliphila	NA
+tr|A0AA41URL4|A0AA41URL4_9BACT	clade_106	A0AA41URL4	Desulfatitalea	Desulfatitalea alkaliphila	NA
+tr|A0AA41QZD2|A0AA41QZD2_9BACT	clade_107	A0AA41QZD2	Desulfatitalea	Desulfatitalea alkaliphila	NA
+tr|A0AA41QZH1|A0AA41QZH1_9BACT	clade_108	A0AA41QZH1	Desulfatitalea	Desulfatitalea alkaliphila	NA
+tr|A0A1Y6BLH8|A0A1Y6BLH8_9BACT	clade_109	A0A1Y6BLH8	Pseudobacteriovorax	Pseudobacteriovorax antillogorgiicola	NA
+tr|A0A1Y6CJU8|A0A1Y6CJU8_9BACT	clade_110	A0A1Y6CJU8	Pseudobacteriovorax	Pseudobacteriovorax antillogorgiicola	NA
+tr|A0ABP9ZZD8|A0ABP9ZZD8_9GAMM	clade_111	A0ABP9ZZD8	Thalassolituus	Thalassolituus maritimus	NA
+tr|M5DS72|M5DS72_9GAMM	clade_112	M5DS72	Thalassolituus	Thalassolituus oleivorans MIL-1	NA
+tr|M5DT34|M5DT34_9GAMM	clade_113	M5DT34	Thalassolituus	Thalassolituus oleivorans MIL-1	NA
+tr|A0A1N7PDU8|A0A1N7PDU8_9GAMM	clade_114	A0A1N7PDU8	Thalassolituus	Thalassolituus maritimus	NA
+tr|A0A1N7PE55|A0A1N7PE55_9GAMM	clade_115	A0A1N7PE55	Thalassolituus	Thalassolituus maritimus	NA
+tr|A0A2T5PA95|A0A2T5PA95_9PSED	clade_116	A0A2T5PA95	Pseudomonas	Pseudomonas mangrovi	NA
+tr|A0A4T1ZYH6|A0A4T1ZYH6_9PSED	clade_117	A0A4T1ZYH6	Pseudomonas	Pseudomonas leptonychotis	NA
+tr|A0A6I4KZF1|A0A6I4KZF1_9PSED	clade_118	A0A6I4KZF1	Pseudomonas	Pseudomonas xionganensis	NA
+tr|A0A512C2P5|A0A512C2P5_9HYPH	clade_119	A0A512C2P5	Microvirga	Microvirga aerophila	NA
+tr|A0A1D9PE29|A0A1D9PE29_9FLAO	clade_120	A0A1D9PE29	Flavobacterium	Flavobacterium commune	NA
+tr|A0A7W8XJQ4|A0A7W8XJQ4_9HYPH	clade_121	A0A7W8XJQ4	Rhizobium	Rhizobium lentis	NA
+tr|A0A3E0WQW9|A0A3E0WQW9_9GAMM	clade_122	A0A3E0WQW9	Alkalilimnicola	Alkalilimnicola ehrlichii	NA
+tr|A0ABQ2CGJ6|A0ABQ2CGJ6_9GAMM	clade_123	A0ABQ2CGJ6	Halopseudomonas	Halopseudomonas pertucinogena	NA
+sp|A6WFI5|CUTI_KINRD	clade_124	A6WFI5	Kineococcus	Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216)	NA
+sp|P0A537|CULP3_MYCBO	clade_125	P0A537	Mycobacterium	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	NA
+sp|P9WP39|CULP3_MYCTU	clade_126	P9WP39	Mycobacterium	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NA
+sp|P9WP38|CULP3_MYCTO	clade_127	P9WP38	Mycobacterium	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	NA
+sp|Q9PDM3|BIOH_XYLFA	clade_128	Q9PDM3	Xylella	Xylella fastidiosa (strain 9a5c)	NA
+sp|Q8NLR5|CUP6H_CORGL	clade_129	Q8NLR5	Corynebacterium	Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / BCRC 11384 / CCUG 27702 / LMG 3730 / NBRC 12168 / NCIMB 10025 / NRRL B-2784 / 534)	NA
+sp|A0R619|CUP6H_MYCS2	clade_130	A0R619	Mycolicibacterium	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis)	NA
+sp|O53581|CULP6_MYCTU	clade_131	O53581	Mycobacterium	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NA
+tr|A0A6I6FHT8|A0A6I6FHT8_9ACTN	clade_132	A0A6I6FHT8	Streptomyces	Streptomyces ficellus	NA
+tr|Q6NJ46|Q6NJ46_CORDI	clade_133	Q6NJ46	Corynebacterium	Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis)	NA
+tr|Q8FS14|Q8FS14_COREF	clade_134	Q8FS14	Corynebacterium	Corynebacterium efficiens (strain DSM 44549 / YS-314 / AJ 12310 / JCM 11189 / NBRC 100395)	NA
+tr|A0A6P2BTG6|A0A6P2BTG6_9ACTN	clade_135	A0A6P2BTG6	Trebonia	Trebonia kvetii	NA
+tr|A0A8J3JBF7|A0A8J3JBF7_9ACTN	clade_136	A0A8J3JBF7	Catellatospora	Catellatospora bangladeshensis	NA
+tr|A0A919UGB5|A0A919UGB5_9ACTN	clade_137	A0A919UGB5	Dactylosporangium	Dactylosporangium siamense	NA
+tr|A0ABP8D4A2|A0ABP8D4A2_9ACTN	clade_138	A0ABP8D4A2	Dactylosporangium	Dactylosporangium darangshiense	NA
+tr|A0A917UCS4|A0A917UCS4_9ACTN	clade_139	A0A917UCS4	Dactylosporangium	Dactylosporangium sucinum	NA
+tr|A0A919PJW8|A0A919PJW8_9ACTN	clade_140	A0A919PJW8	Dactylosporangium	Dactylosporangium siamense	NA
+tr|A0ABN2ALD9|A0ABN2ALD9_9ACTN	clade_141	A0ABN2ALD9	Dactylosporangium	Dactylosporangium maewongense	NA
+tr|A0A143BU21|A0A143BU21_9ACTN	clade_142	A0A143BU21	Streptomyces	Streptomyces qaidamensis	NA
+tr|A0ABN2YDJ9|A0ABN2YDJ9_9ACTN	clade_143	A0ABN2YDJ9	Streptomyces	Streptomyces synnematoformans	NA
+tr|A0ACE2MB26|A0ACE2MB26_9DEIO	clade_144	A0ACE2MB26	Deinococcus	Deinococcus saxicola	NA
+tr|A0A556QNH3|A0A556QNH3_9BACT	clade_145	A0A556QNH3	Rariglobus	Rariglobus hedericola	NA
+tr|A0A7V8V8A4|A0A7V8V8A4_9BACT	clade_146	A0A7V8V8A4	Bremerella	Bremerella alba	NA
+tr|A0A6C2YTQ5|A0A6C2YTQ5_9BACT	clade_147	A0A6C2YTQ5	Tuwongella	Tuwongella immobilis	NA
+tr|B4CYG8|B4CYG8_9BACT	clade_148	B4CYG8	Chthoniobacter	Chthoniobacter flavus Ellin428	NA
+sp|P26495|PHAZ_ECTOL	clade_149	P26495	Ectopseudomonas	Ectopseudomonas oleovorans (Pseudomonas oleovorans)	NA
+sp|Q51553|PHAG_PSEAE	clade_150	Q51553	Pseudomonas	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	NA
+sp|O85207|PHAG_PSEPK	clade_151	O85207	Pseudomonas	Pseudomonas putida (strain ATCC 47054 / DSM 6125 / CFBP 8728 / NCIMB 11950 / KT2440)	NA
+sp|Q9KJH8|PHAG_ECTOL	clade_152	Q9KJH8	Ectopseudomonas	Ectopseudomonas oleovorans (Pseudomonas oleovorans)	NA
+tr|A0ABQ3XT05|A0ABQ3XT05_9ACTN	clade_153	A0ABQ3XT05	Actinoplanes	Actinoplanes couchii	NA
+tr|A0ABN6WHT5|A0ABN6WHT5_9GAMM	clade_154	A0ABN6WHT5	Marinomonas	Marinomonas pontica	NA
+tr|F6CS36|F6CS36_MARPP	clade_155	F6CS36	Marinomonas	Marinomonas posidonica (strain CECT 7376 / NCIMB 14433 / IVIA-Po-181)	NA
+tr|A0A0C1CY98|A0A0C1CY98_9FLAO	clade_156	A0A0C1CY98	Kaistella	Kaistella jeonii	NA
+tr|S3LSX7|S3LSX7_9SPIR	clade_157	S3LSX7	Treponema	Treponema vincentii F0403	NA
+tr|A0A225C6B8|A0A225C6B8_9MICO	clade_158	A0A225C6B8	Clavibacter	Clavibacter tessellarius	NA
+tr|A0A2I1PAV8|A0A2I1PAV8_9MICO	clade_159	A0A2I1PAV8	Kytococcus	Kytococcus schroeteri	NA
+tr|A0A2I1PAZ1|A0A2I1PAZ1_9MICO	clade_160	A0A2I1PAZ1	Kytococcus	Kytococcus schroeteri	NA
+tr|A0A7W3N2I8|A0A7W3N2I8_9ACTN	clade_161	A0A7W3N2I8	Thermomonospora	Thermomonospora cellulosilytica	NA
+tr|D1A9G5|D1A9G5_THECD	clade_162	D1A9G5	Thermomonospora	Thermomonospora curvata (strain ATCC 19995 / DSM 43183 / JCM 3096 / KCTC 9072 / NBRC 15933 / NCIMB 10081 / Henssen B9)	NA
+tr|D1A2H1|D1A2H1_THECD	clade_163	D1A2H1	Thermomonospora	Thermomonospora curvata (strain ATCC 19995 / DSM 43183 / JCM 3096 / KCTC 9072 / NBRC 15933 / NCIMB 10081 / Henssen B9)	NA
+tr|A0A9W6UXL5|A0A9W6UXL5_9ACTN	clade_164	A0A9W6UXL5	Actinomadura	Actinomadura rubrobrunea	NA
+tr|A0ABP7V404|A0ABP7V404_9ACTN	clade_165	A0ABP7V404	Actinomadura	Actinomadura miaoliensis	NA
+tr|A0ABP7YWN7|A0ABP7YWN7_9ACTN	clade_166	A0ABP7YWN7	Actinomadura	Actinomadura keratinilytica	NA
+tr|A0A7W3MTQ6|A0A7W3MTQ6_9ACTN	clade_167	A0A7W3MTQ6	Thermomonospora	Thermomonospora cellulosilytica	NA
+tr|A0A1H6C9P0|A0A1H6C9P0_9ACTN	clade_168	A0A1H6C9P0	Thermomonospora	Thermomonospora echinospora	NA
+tr|A0ABW1AIT3|A0ABW1AIT3_9ACTN	clade_169	A0ABW1AIT3	Actinomadura	Actinomadura rugatobispora	NA
+tr|A0A931GV53|A0A931GV53_9ACTN	clade_170	A0A931GV53	Actinomadura	Actinomadura viridis	NA
+tr|A0ABR7LML6|A0ABR7LML6_9ACTN	clade_171	A0ABR7LML6	Actinomadura	Actinomadura alba	NA
+tr|A0A365HAJ8|A0A365HAJ8_9ACTN	clade_172	A0A365HAJ8	Actinomadura	Actinomadura craniellae	NA
+tr|A0A365H6Y8|A0A365H6Y8_9ACTN	clade_173	A0A365H6Y8	Actinomadura	Actinomadura craniellae	NA
+tr|A0A365H755|A0A365H755_9ACTN	clade_174	A0A365H755	Actinomadura	Actinomadura craniellae	NA
+tr|A0A1M7II12|A0A1M7II12_9ACTN	clade_175	A0A1M7II12	Cryptosporangium	Cryptosporangium aurantiacum	NA
+tr|A0A4U3MI12|A0A4U3MI12_9ACTN	clade_176	A0A4U3MI12	Herbidospora	Herbidospora galbida	NA
+tr|A0A7C9NKH2|A0A7C9NKH2_9ACTN	clade_177	A0A7C9NKH2	Herbidospora	Herbidospora solisilvae	NA
+tr|A0A5M3W626|A0A5M3W626_9ACTN	clade_178	A0A5M3W626	Acrocarpospora	Acrocarpospora corrugata	NA
+tr|A0A919UR82|A0A919UR82_9ACTN	clade_179	A0A919UR82	Acrocarpospora	Acrocarpospora phusangensis	NA
+tr|A0A5C4VLV1|A0A5C4VLV1_9ACTN	clade_180	A0A5C4VLV1	Nonomuraea	Nonomuraea phyllanthi	NA
+tr|A0A1G8SHF7|A0A1G8SHF7_9ACTN	clade_181	A0A1G8SHF7	Nonomuraea	Nonomuraea maritima	NA
+tr|A0A2W2EN64|A0A2W2EN64_9ACTN	clade_182	A0A2W2EN64	Nonomuraea	Nonomuraea aridisoli	NA
+tr|A0A4R4ZDD0|A0A4R4ZDD0_9ACTN	clade_183	A0A4R4ZDD0	Nonomuraea	Nonomuraea terrae	NA
+tr|A0ABV5NZ31|A0ABV5NZ31_9ACTN	clade_184	A0ABV5NZ31	Nonomuraea	Nonomuraea salmonea	NA
+tr|A0ABN3C865|A0ABN3C865_9ACTN	clade_185	A0ABN3C865	Nonomuraea	Nonomuraea monospora	NA
+tr|A0A1V0A5L2|A0A1V0A5L2_9ACTN	clade_186	A0A1V0A5L2	[Actinomadura]	[Actinomadura] parvosata subsp. kistnae	NA
+tr|A0ABX1B1C3|A0ABX1B1C3_9ACTN	clade_187	A0ABX1B1C3	Nonomuraea	Nonomuraea composti	NA
+tr|A0A7X0U3W9|A0A7X0U3W9_9ACTN	clade_188	A0A7X0U3W9	Nonomuraea	Nonomuraea rubra	NA
+tr|A0A9X2K5K6|A0A9X2K5K6_9ACTN	clade_189	A0A9X2K5K6	Nonomuraea	Nonomuraea thailandensis	NA
+tr|A0ABW1CGM7|A0ABW1CGM7_9ACTN	clade_190	A0ABW1CGM7	Nonomuraea	Nonomuraea insulae	NA
+tr|A0A5S4FJI0|A0A5S4FJI0_9ACTN	clade_191	A0A5S4FJI0	Nonomuraea	Nonomuraea zeae	NA
+tr|A0ABP6VHA9|A0ABP6VHA9_9ACTN	clade_192	A0ABP6VHA9	Nonomuraea	Nonomuraea rosea	NA
+tr|A0A931AKC4|A0A931AKC4_9ACTN	clade_193	A0A931AKC4	Nonomuraea	Nonomuraea cypriaca	NA
+tr|A0A1H5UML9|A0A1H5UML9_9ACTN	clade_194	A0A1H5UML9	Nonomuraea	Nonomuraea solani	NA
+tr|A0A1G7Z2H0|A0A1G7Z2H0_9ACTN	clade_195	A0A1G7Z2H0	Nonomuraea	Nonomuraea jiangxiensis	NA
+tr|A0A4R5FXI3|A0A4R5FXI3_9ACTN	clade_196	A0A4R5FXI3	Nonomuraea	Nonomuraea mesophila	NA
+tr|A0A4R4W6Q2|A0A4R4W6Q2_9ACTN	clade_197	A0A4R4W6Q2	Nonomuraea	Nonomuraea diastatica	NA
+tr|A0A4V2YB24|A0A4V2YB24_9ACTN	clade_198	A0A4V2YB24	Nonomuraea	Nonomuraea deserti	NA
+tr|A0ABV3H590|A0ABV3H590_9ACTN	clade_199	A0ABV3H590	Nonomuraea	Nonomuraea bangladeshensis	NA
+tr|A0A1I0JU31|A0A1I0JU31_9ACTN	clade_200	A0A1I0JU31	Nonomuraea	Nonomuraea wenchangensis	NA
+tr|A0ABT0G6E6|A0ABT0G6E6_ACTLZ	clade_201	A0ABT0G6E6	Actinomadura	Actinomadura luzonensis	NA
+tr|A0ABX8TX11|A0ABX8TX11_9ACTN	clade_202	A0ABX8TX11	Nonomuraea	Nonomuraea coxensis DSM 45129	NA
+tr|A0ABT4SKH4|A0ABT4SKH4_9ACTN	clade_203	A0ABT4SKH4	Nonomuraea	Nonomuraea corallina	NA
+tr|A0ABT4TDN8|A0ABT4TDN8_9ACTN	clade_204	A0ABT4TDN8	Nonomuraea	Nonomuraea ferruginea	NA
+tr|A0ABW1BVW6|A0ABW1BVW6_9ACTN	clade_205	A0ABW1BVW6	Nonomuraea	Nonomuraea harbinensis	NA
+tr|A0A918DIC6|A0A918DIC6_9ACTN	clade_206	A0A918DIC6	Nonomuraea	Nonomuraea cavernae	NA
+tr|A0A7Y6MET4|A0A7Y6MET4_9ACTN	clade_207	A0A7Y6MET4	Nonomuraea	Nonomuraea rhodomycinica	NA
+tr|A0ABP7IBD0|A0ABP7IBD0_9ACTN	clade_208	A0ABP7IBD0	Sphaerisporangium	Sphaerisporangium flaviroseum	NA
+tr|A0ABQ2QK59|A0ABQ2QK59_9ACTN	clade_209	A0ABQ2QK59	Streptosporangium	Streptosporangium pseudovulgare	NA
+tr|A0ABV9C836|A0ABV9C836_9ACTN	clade_210	A0ABV9C836	Sphaerisporangium	Sphaerisporangium dianthi	NA
+tr|A0ABW2PE71|A0ABW2PE71_9ACTN	clade_211	A0ABW2PE71	Sphaerisporangium	Sphaerisporangium rhizosphaerae	NA
+tr|A0ABV9E7U1|A0ABV9E7U1_9ACTN	clade_212	A0ABV9E7U1	Sphaerisporangium	Sphaerisporangium corydalis	NA
+tr|A0A8J3X7Y9|A0A8J3X7Y9_9ACTN	clade_213	A0A8J3X7Y9	Planotetraspora	Planotetraspora mira	NA
+tr|A0A8J3XMP6|A0A8J3XMP6_9ACTN	clade_214	A0A8J3XMP6	Planotetraspora	Planotetraspora silvatica	NA
+tr|A0A8J3PRQ9|A0A8J3PRQ9_9ACTN	clade_215	A0A8J3PRQ9	Planotetraspora	Planotetraspora kaengkrachanensis	NA
+tr|A0A8J3U475|A0A8J3U475_9ACTN	clade_216	A0A8J3U475	Planotetraspora	Planotetraspora phitsanulokensis	NA
+tr|A0ABW1NJ96|A0ABW1NJ96_9ACTN	clade_217	A0ABW1NJ96	Sphaerisporangium	Sphaerisporangium aureirubrum	NA
+tr|A0A840P2P8|A0A840P2P8_9ACTN	clade_218	A0A840P2P8	Thermocatellispora	Thermocatellispora tengchongensis	NA
+tr|A0A841DCU0|A0A841DCU0_PLAVE	clade_219	A0A841DCU0	Planomonospora	Planomonospora venezuelensis	NA
+tr|A0A8J3T081|A0A8J3T081_9ACTN	clade_220	A0A8J3T081	Planobispora	Planobispora takensis	NA
+tr|A0A8J3WQI5|A0A8J3WQI5_9ACTN	clade_221	A0A8J3WQI5	Planobispora	Planobispora siamensis	NA
+tr|A0A8J3S661|A0A8J3S661_PLARO	clade_222	A0A8J3S661	Planobispora	Planobispora rosea	NA
+tr|A0A8J3W5P3|A0A8J3W5P3_9ACTN	clade_223	A0A8J3W5P3	Planobispora	Planobispora longispora	NA
+tr|A0A161LKE9|A0A161LKE9_9ACTN	clade_224	A0A161LKE9	Planomonospora	Planomonospora sphaerica	NA
+tr|A0ABQ4HI96|A0ABQ4HI96_9ACTN	clade_225	A0ABQ4HI96	Planomonospora	Planomonospora parontospora subsp. parontospora	NA
+tr|A0ABP6MKG0|A0ABP6MKG0_9ACTN	clade_226	A0ABP6MKG0	Planomonospora	Planomonospora alba	NA
+tr|A0ABV8IEE0|A0ABV8IEE0_9ACTN	clade_227	A0ABV8IEE0	Planomonospora	Planomonospora corallina	NA
+tr|A0A1N6SMU6|A0A1N6SMU6_9ACTN	clade_228	A0A1N6SMU6	Microbispora	Microbispora rosea	NA
+tr|A0ABZ1T1R0|A0ABZ1T1R0_9ACTN	clade_229	A0ABZ1T1R0	Microbispora	Microbispora hainanensis	NA
+tr|A0ABQ4GPX9|A0ABQ4GPX9_9ACTN	clade_230	A0ABQ4GPX9	Microbispora	Microbispora siamensis	NA
+tr|A0A8H9GVK2|A0A8H9GVK2_9ACTN	clade_231	A0A8H9GVK2	Microbispora	Microbispora bryophytorum	NA
+tr|A0ABR8L573|A0ABR8L573_9ACTN	clade_232	A0ABR8L573	Microbispora	Microbispora bryophytorum subsp. camponoti	NA
+tr|A0ABV0AN13|A0ABV0AN13_9ACTN	clade_233	A0ABV0AN13	Microbispora	Microbispora maris	NA
+tr|A0A7W0HRK2|A0A7W0HRK2_9ACTN	clade_234	A0A7W0HRK2	Nonomuraea	Nonomuraea soli	NA
+tr|A0A239AX86|A0A239AX86_9ACTN	clade_235	A0A239AX86	Streptosporangium	Streptosporangium subroseum	NA
+tr|A0ABT9QDD4|A0ABT9QDD4_9ACTN	clade_236	A0ABT9QDD4	Streptosporangium	Streptosporangium lutulentum	NA
+tr|D2BFB4|D2BFB4_STRRD	clade_237	D2BFB4	Streptosporangium	Streptosporangium roseum (strain ATCC 12428 / DSM 43021 / JCM 3005 / KCTC 9067 / NCIMB 10171 / NRRL 2505 / NI 9100)	NA
+tr|A0A243RI45|A0A243RI45_9ACTN	clade_238	A0A243RI45	Streptosporangium	Streptosporangium minutum	NA
+tr|A0A1I4D078|A0A1I4D078_9ACTN	clade_239	A0A1I4D078	Streptosporangium	Streptosporangium canum	NA
+tr|A0A7W9IC21|A0A7W9IC21_9ACTN	clade_240	A0A7W9IC21	Streptosporangium	Streptosporangium becharense	NA
+tr|A0ABN3W1M5|A0ABN3W1M5_9ACTN	clade_241	A0ABN3W1M5	Streptosporangium	Streptosporangium fragile	NA
+tr|A0ABW2SY79|A0ABW2SY79_9ACTN	clade_242	A0ABW2SY79	Streptosporangium	Streptosporangium amethystogenes subsp. fukuiense	NA
+tr|A0ABP6LA22|A0ABP6LA22_9ACTN	clade_243	A0ABP6LA22	Streptosporangium	Streptosporangium longisporum	NA
+tr|A0ABV5TE52|A0ABV5TE52_9ACTN	clade_244	A0ABV5TE52	Streptosporangium	Streptosporangium vulgare	NA
+tr|A0ABR9JL03|A0ABR9JL03_9ACTN	clade_245	A0ABR9JL03	Actinomadura	Actinomadura algeriensis	NA
+tr|A0ABW3EQF3|A0ABW3EQF3_9ACTN	clade_246	A0ABW3EQF3	Actinomadura	Actinomadura sediminis	NA
+tr|A0ABP7GG15|A0ABP7GG15_9ACTN	clade_247	A0ABP7GG15	Salinactinospora	Salinactinospora qingdaonensis	NA
+tr|A0ABP7GIM2|A0ABP7GIM2_9ACTN	clade_248	A0ABP7GIM2	Salinactinospora	Salinactinospora qingdaonensis	NA
+tr|A0A853BQM0|A0A853BQM0_9ACTN	clade_249	A0A853BQM0	Streptomonospora	Streptomonospora nanhaiensis	NA
+tr|A0A9X3NJC1|A0A9X3NJC1_9ACTN	clade_250	A0A9X3NJC1	Streptomonospora	Streptomonospora mangrovi	NA
+tr|A0A4V0ZKB9|A0A4V0ZKB9_9ACTN	clade_251	A0A4V0ZKB9	Streptomonospora	Streptomonospora litoralis	NA
+tr|A0ABP9GGR8|A0ABP9GGR8_9ACTN	clade_252	A0ABP9GGR8	Streptomonospora	Streptomonospora halophila	NA
+tr|A0ABV9ST98|A0ABV9ST98_9ACTN	clade_253	A0ABV9ST98	Streptomonospora	Streptomonospora arabica	NA
+tr|A0ABU2KYZ7|A0ABU2KYZ7_9ACTN	clade_254	A0ABU2KYZ7	Streptomonospora	Streptomonospora wellingtoniae	NA
+tr|A0A841ED77|A0A841ED77_9ACTN	clade_255	A0A841ED77	Streptomonospora	Streptomonospora salina	NA
+tr|A0A0C2G8Q0|A0A0C2G8Q0_9ACTN	clade_256	A0A0C2G8Q0	Streptomonospora	Streptomonospora alba	NA
+tr|A0ABW3BHY7|A0ABW3BHY7_9ACTN	clade_257	A0ABW3BHY7	Streptomonospora	Streptomonospora algeriensis	NA
+tr|A0A7Z0JAZ5|A0A7Z0JAZ5_9ACTN	clade_258	A0A7Z0JAZ5	Nocardiopsis	Nocardiopsis aegyptia	NA
+tr|A0A7W7RIU6|A0A7W7RIU6_9ACTN	clade_259	A0A7W7RIU6	Lipingzhangella	Lipingzhangella halophila	NA
+tr|A0A7Z0ENR9|A0A7Z0ENR9_9ACTN	clade_260	A0A7Z0ENR9	Nocardiopsis	Nocardiopsis aegyptia	NA
+tr|A0A841IUE8|A0A841IUE8_9ACTN	clade_261	A0A841IUE8	Nocardiopsis	Nocardiopsis algeriensis	NA
+tr|A0ABU2M2I4|A0ABU2M2I4_9ACTN	clade_262	A0ABU2M2I4	Nocardiopsis	Nocardiopsis lambiniae	NA
+tr|A0A1M6M213|A0A1M6M213_9ACTN	clade_263	A0A1M6M213	Nocardiopsis	Nocardiopsis flavescens	NA
+tr|A0ABX8BMQ5|A0ABX8BMQ5_9ACTN	clade_264	A0ABX8BMQ5	Nocardiopsis	Nocardiopsis changdeensis	NA
+tr|A0ABU7KBV8|A0ABU7KBV8_9ACTN	clade_265	A0ABU7KBV8	Nocardiopsis	Nocardiopsis codii	NA
+tr|A0ABV1ZP13|A0ABV1ZP13_9ACTN	clade_266	A0ABV1ZP13	Nocardiopsis	Nocardiopsis tropica	NA
+tr|A0ABY6YXF2|A0ABY6YXF2_9ACTN	clade_267	A0ABY6YXF2	Streptomonospora	Streptomonospora nanhaiensis	NA
+tr|A0A1V3C6I0|A0A1V3C6I0_9ACTN	clade_268	A0A1V3C6I0	Nocardiopsis	Nocardiopsis sinuspersici	NA
+tr|A0A1T4KK94|A0A1T4KK94_9ACTN	clade_269	A0A1T4KK94	Marinactinospora	Marinactinospora thermotolerans DSM 45154	NA
+tr|A0A7X6RRV0|A0A7X6RRV0_9ACTN	clade_270	A0A7X6RRV0	Nocardiopsis	Nocardiopsis alborubida	NA
+tr|A0ABX8C4W7|A0ABX8C4W7_9ACTN	clade_271	A0ABX8C4W7	Nocardiopsis	Nocardiopsis akebiae	NA
+tr|D7AYZ5|D7AYZ5_NOCDD	clade_272	D7AYZ5	Nocardiopsis	Nocardiopsis dassonvillei (strain ATCC 23218 / DSM 43111 / CIP 107115 / JCM 7437 / KCTC 9190 / NBRC 14626 / NCTC 10488 / NRRL B-5397 / IMRU 509) (Actinomadura dassonvillei)	NA
+tr|A0A918XC99|A0A918XC99_9ACTN	clade_273	A0A918XC99	Nocardiopsis	Nocardiopsis kunsanensis	NA
+tr|A0ABR9P363|A0ABR9P363_9ACTN	clade_274	A0ABR9P363	Nocardiopsis	Nocardiopsis coralli	NA
+tr|A0A975LD17|A0A975LD17_9ACTN	clade_275	A0A975LD17	Nocardiopsis	Nocardiopsis eucommiae	NA
+tr|A0ABR9HP34|A0ABR9HP34_9ACTN	clade_276	A0ABR9HP34	Nocardiopsis	Nocardiopsis terrae	NA
+tr|A0A840WFK4|A0A840WFK4_9ACTN	clade_277	A0A840WFK4	Nocardiopsis	Nocardiopsis metallicus	NA
+tr|A0ABY5DI48|A0ABY5DI48_9ACTN	clade_278	A0ABY5DI48	Nocardiopsis	Nocardiopsis exhalans	NA
+tr|A0A4R6UW92|A0A4R6UW92_9ACTN	clade_279	A0A4R6UW92	Actinorugispora	Actinorugispora endophytica	NA
+tr|A0A3N0EHU6|A0A3N0EHU6_9ACTN	clade_280	A0A3N0EHU6	Halostreptopolyspora	Halostreptopolyspora alba	NA
+tr|A0A7W7RJC2|A0A7W7RJC2_9ACTN	clade_281	A0A7W7RJC2	Lipingzhangella	Lipingzhangella halophila	NA
+tr|A0ABU2HAA2|A0ABU2HAA2_9ACTN	clade_282	A0ABU2HAA2	Lipingzhangella	Lipingzhangella rawalii	NA
+tr|A0A543NNU7|A0A543NNU7_9ACTN	clade_283	A0A543NNU7	Haloactinospora	Haloactinospora alba	NA
+tr|A0ABT4TFD0|A0ABT4TFD0_9ACTN	clade_284	A0ABT4TFD0	Nocardiopsis	Nocardiopsis suaedae	NA
+tr|A0ABT4TY48|A0ABT4TY48_9ACTN	clade_285	A0ABT4TY48	Nocardiopsis	Nocardiopsis endophytica	NA
+tr|A0A852TYE9|A0A852TYE9_9ACTN	clade_286	A0A852TYE9	Spinactinospora	Spinactinospora alkalitolerans	NA
+tr|A0A2T0PXG2|A0A2T0PXG2_9ACTN	clade_287	A0A2T0PXG2	Allonocardiopsis	Allonocardiopsis opalescens	NA
+tr|A0A543FN38|A0A543FN38_9PSEU	clade_288	A0A543FN38	Pseudonocardia	Pseudonocardia cypriaca	NA
+tr|A0ABP6P8F5|A0ABP6P8F5_9ACTN	clade_289	A0ABP6P8F5	Actinocorallia	Actinocorallia glomerata	NA
+tr|A0AA97LXT2|A0AA97LXT2_9ACTN	clade_290	A0AA97LXT2	Thermobifida	Thermobifida halotolerans	NA
+tr|A0AA97M4A3|A0AA97M4A3_9ACTN	clade_291	A0AA97M4A3	Thermobifida	Thermobifida halotolerans	NA
+tr|A0A9Y2YA38|A0A9Y2YA38_THECS	clade_292	A0A9Y2YA38	Thermobifida	Thermobifida cellulosilytica TB100	NA
+tr|A0A147KJY8|A0A147KJY8_THECS	clade_293	A0A147KJY8	Thermobifida	Thermobifida cellulosilytica TB100	NA
+tr|A0A9P2TBN9|A0A9P2TBN9_THEFU	clade_294	A0A9P2TBN9	Thermobifida	Thermobifida fusca TM51	NA
+sp|Q47RJ6|PETH2_THEFY	clade_295	Q47RJ6	Thermobifida	Thermobifida fusca (strain YX)	Thermobifida_PETH2
+sp|Q6A0I4|PETH2_THEFU	clade_296	Q6A0I4	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	TfCut2
+tr|A0A9P2WRG3|A0A9P2WRG3_THEFU	clade_297	A0A9P2WRG3	Thermobifida	Thermobifida fusca TM51	NA
+sp|G8GER6|PETH1_THEFU	clade_298	G8GER6	Thermobifida	Thermobifida fusca (Thermomonospora fusca)	Thermobifida_PETH1
+sp|Q47RJ7|PETH1_THEFY	clade_299	Q47RJ7	Thermobifida	Thermobifida fusca (strain YX)	Thermobifida_PETH1
+tr|A0ABY4KWB4|A0ABY4KWB4_THEAE	clade_300	A0ABY4KWB4	Thermobifida	Thermobifida alba (Thermomonospora alba)	NA
+sp|F7IX06|PETH2_THEAE	clade_301	F7IX06	Thermobifida	Thermobifida alba (Thermomonospora alba)	Thermobifida_PETH2
+tr|A0ABY4KWX3|A0ABY4KWX3_THEAE	clade_302	A0ABY4KWX3	Thermobifida	Thermobifida alba (Thermomonospora alba)	NA
+sp|D4Q9N1|PETH1_THEAE	clade_303	D4Q9N1	Thermobifida	Thermobifida alba (Thermomonospora alba)	Thermobifida_PETH1
+sp|G9BY57|PETH_UNKP	clade_304	G9BY57	Unknown	Unknown prokaryotic organism	LCC
+tr|A0ABS1WUN4|A0ABS1WUN4_9GAMM	clade_305	A0ABS1WUN4	Steroidobacter	Steroidobacter gossypii	NA
+tr|A0AA82WPI3|A0AA82WPI3_9BURK	clade_306	A0AA82WPI3	Caldimonas	Caldimonas taiwanensis	NA
+tr|A0AA82WPI4|A0AA82WPI4_9BURK	clade_307	A0AA82WPI4	Caldimonas	Caldimonas taiwanensis	NA
+tr|A0AA82WPI5|A0AA82WPI5_9BURK	clade_308	A0AA82WPI5	Caldimonas	Caldimonas taiwanensis	NA
+tr|A0A1W6LF85|A0A1W6LF85_9BURK	clade_309	A0A1W6LF85	Piscinibacter	Piscinibacter gummiphilus	NA
+sp|A0A0K8P6T7|PETH_PISS1	clade_310	A0A0K8P6T7	Piscinibacter	Piscinibacter sakaiensis (Ideonella sakaiensis)	IsPETase
+tr|A0A1W6L588|A0A1W6L588_9BURK	clade_311	A0A1W6L588	Piscinibacter	Piscinibacter gummiphilus	NA
+tr|A0A3E0WVY1|A0A3E0WVY1_9GAMM	clade_312	A0A3E0WVY1	Alkalilimnicola	Alkalilimnicola ehrlichii	NA
+tr|A0A3E0WVG8|A0A3E0WVG8_9GAMM	clade_313	A0A3E0WVG8	Alkalilimnicola	Alkalilimnicola ehrlichii	NA
+tr|A0A1S8DKK6|A0A1S8DKK6_9GAMM	clade_314	A0A1S8DKK6	Halopseudomonas	Halopseudomonas pachastrellae	NA
+tr|A0A1V0B1Z0|A0A1V0B1Z0_9GAMM	clade_315	A0A1V0B1Z0	Halopseudomonas	Halopseudomonas phragmitis	NA
+tr|A0A2K9LJV9|A0A2K9LJV9_9GAMM	clade_316	A0A2K9LJV9	Ketobacter	Ketobacter alkanivorans	NA
+tr|A0ABU9M430|A0ABU9M430_STUCH	clade_317	A0ABU9M430	Stutzerimonas	Stutzerimonas chloritidismutans (Pseudomonas chloritidismutans)	NA
+tr|A0ABT9HCX2|A0ABT9HCX2_9GAMM	clade_318	A0ABT9HCX2	Psychrobacter	Psychrobacter faecalis	NA
+sp|P19833|LIP1_MORS1	clade_319	P19833	Moraxella	Moraxella sp. (strain TA144)	NA
+tr|A0A168EN35|A0A168EN35_9MICO	clade_320	A0A168EN35	Isoptericola	Isoptericola dokdonensis DS-3	NA
+tr|A0ABP6CPY2|A0ABP6CPY2_9ACTN	clade_321	A0ABP6CPY2	Actinomadura	Actinomadura fulvescens	NA
+tr|A0A5Q0HE30|A0A5Q0HE30_SACSY	clade_322	A0A5Q0HE30	Saccharothrix	Saccharothrix syringae (Nocardiopsis syringae)	NA
+tr|A0A285JDK9|A0A285JDK9_9ACTN	clade_323	A0A285JDK9	Paractinoplanes	Paractinoplanes atraurantiacus	NA
+tr|A0A3N1D7Y0|A0A3N1D7Y0_9ACTN	clade_324	A0A3N1D7Y0	Actinocorallia	Actinocorallia herbida	NA
+tr|A0ABN1R605|A0ABN1R605_9ACTN	clade_325	A0ABN1R605	Actinocorallia	Actinocorallia libanotica	NA
+tr|A0ABN3U267|A0ABN3U267_9ACTN	clade_326	A0ABN3U267	Actinocorallia	Actinocorallia aurantiaca	NA
+sp|P0DX29|PETH1_AMYMS	clade_327	P0DX29	Amycolatopsis	Amycolatopsis mediterranei (strain S699) (Nocardia mediterranei)	NA
+tr|W7J4Y7|W7J4Y7_9PSEU	clade_328	W7J4Y7	Actinokineospora	Actinokineospora spheciospongiae	NA
+tr|A0A8D4BD61|A0A8D4BD61_STRFA	clade_329	A0A8D4BD61	Streptomyces	Streptomyces pratensis (strain ATCC 33331 / IAF-45CD)	NA
+tr|A0ABP6Q129|A0ABP6Q129_9ACTN	clade_330	A0ABP6Q129	Actinocorallia	Actinocorallia longicatena	NA
+tr|Q59798|Q59798_9ACTN	clade_331	Q59798	Streptomyces	Streptomyces albus	NA
+sp|Q9L2J6|BHETH_STRCO	clade_332	Q9L2J6	Streptomyces	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	NA

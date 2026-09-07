@@ -1,0 +1,4 @@
+strategy	conditional_top1	conditional_top3	conditional_top5	conditional_anywhere	unconditional_top1	unconditional_top3	unconditional_top5
+Strategy A: Evolutionary WHAT	2/5 (40.0%)	2/5 (40.0%)	4/5 (80.0%)	4/5 (80.0%)	2/15 (13.3%)	2/15 (13.3%)	4/15 (26.7%)
+Strategy B: ESM-2 Zero-Shot WHAT	2/5 (40.0%)	2/5 (40.0%)	2/5 (40.0%)	2/5 (40.0%)	2/15 (13.3%)	2/15 (13.3%)	2/15 (13.3%)
+Strategy C: Evolutionary + ESM Support	2/5 (40.0%)	2/5 (40.0%)	2/5 (40.0%)	2/5 (40.0%)	2/15 (13.3%)	2/15 (13.3%)	2/15 (13.3%)

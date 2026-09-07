@@ -1,0 +1,17 @@
+metric	value	source_file	source_field_or_method
+canonical sequence count	628	atlas_v3/families/family_consensus_summary.tsv	Sum of Sequences column
+number of families	9	atlas_v3/families/family_definitions.tsv	Row count of family_definitions.tsv
+number of IsPETase-reference positions	290	atlas_v3/atlas_v3_IsPETase_reference_table.tsv	Row count of reference table minus header
+total curated literature benchmark records	107	validation/literature_benchmark/PETase_Validation_Dataset_v1_mapped.tsv	Row count of mapped validation dataset
+evaluable literature benchmark records (single mutations)	63	results/validation/literature_benchmark/benchmark4_per_mutation_results.tsv	Row count of per mutation results
+mapped primary in-scope single substitutions	60	results/validation/literature_benchmark/benchmark4_per_mutation_results.tsv	Row count where benchmark_scope == 'in_scope_single_substitution'
+independent beneficial substitutions	11	results/validation/literature_benchmark/benchmark4_summary.json	Set A Positive size in set_composition
+family size (Actinomadura_like)	99	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Actinomadura-like
+family size (Amycolatopsis_like)	25	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Amycolatopsis-like
+family size (IsPETase_like)	10	atlas_v3/families/family_consensus_summary.tsv	Sequences count for IsPETase-like
+family size (LCC_like)	8	atlas_v3/families/family_consensus_summary.tsv	Sequences count for LCC-like
+family size (Microbispora_like)	12	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Microbispora-like
+family size (Nocardiopsis_like)	31	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Nocardiopsis-like
+family size (Other_bacterial)	412	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Other-bacterial
+family size (Streptomyces_like)	18	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Streptomyces-like
+family size (Thermobifida_like)	13	atlas_v3/families/family_consensus_summary.tsv	Sequences count for Thermobifida-like

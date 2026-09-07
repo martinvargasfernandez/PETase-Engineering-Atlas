@@ -1,0 +1,7 @@
+model	metric	observed	null_mean	null_std	empirical_p
+LR	top10_recovery	6.0	4.36	1.44	0.2178
+LR	top20_recovery	12.0	7.49	1.56	0.005
+LR	median_rank	39.0	77.22	15.29	0.005
+LR-BAL	top10_recovery	6.0	4.45	1.52	0.2478
+LR-BAL	top20_recovery	12.0	7.72	1.61	0.01
+LR-BAL	median_rank	40.0	74.39	14.9	0.011

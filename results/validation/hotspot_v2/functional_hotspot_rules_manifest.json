@@ -1,0 +1,39 @@
+{
+  "class_A_substrate_surface": {
+    "description": "Substrate-binding cleft surface lining residues",
+    "distance_to_substrate_max_A": 8.0,
+    "relative_SASA_min": 0.15
+  },
+  "class_B_catalytic_environment": {
+    "description": "Structural shell surrounding catalytic triad",
+    "distance_to_catalytic_triad_max_A": 7.0,
+    "excluded_catalytic_triad": [
+      160,
+      206,
+      237
+    ]
+  },
+  "class_C_loop_accessibility": {
+    "description": "Flexible active-site loop residues",
+    "loop_annotation": true,
+    "or_conditions": [
+      {
+        "normalized_B_factor_percentile_min": 60.0
+      },
+      {
+        "distance_to_substrate_max_A": 10.0
+      }
+    ]
+  },
+  "class_D_structural_stability": {
+    "description": "Buried scaffold packing residues",
+    "relative_SASA_max": 0.15,
+    "local_contact_count_min": 8
+  },
+  "priority_tiers": {
+    "TIER_1": ">=2 independent functional classes (A, B, C, D) AND not protected",
+    "TIER_2": "Exactly 1 functional class from {A, B, C} AND not protected",
+    "TIER_3": "Class D only AND not protected",
+    "TIER_4": "0 functional classes (No functional WHERE evidence)"
+  }
+}

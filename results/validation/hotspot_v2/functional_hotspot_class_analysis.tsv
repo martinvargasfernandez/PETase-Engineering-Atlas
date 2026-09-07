@@ -1,0 +1,12 @@
+group	positions_selected	external_hotspots_recovered	recall	fold_enrichment	permutation_p_value
+Class A	11	2	0.1333	3.2	0.12332
+Class B	7	1	0.0667	2.51	0.33882
+Class C	89	7	0.4667	1.37	0.21212
+Class D	194	12	0.8	1.08	0.42362
+Overlap A+B	1	0	0.0	0.0	1.0
+Overlap A+C	8	0	0.0	0.0	1.0
+Overlap A+D	0	0	0.0	0.0	1.0
+Overlap B+C	6	1	0.0667	2.93	0.29797
+Overlap B+D	4	1	0.0667	4.42	0.20886
+Overlap C+D	45	6	0.4	2.33	0.02674
+Overlap >=2 Classes (Tier 1)	56	6	0.4	1.87	0.07487

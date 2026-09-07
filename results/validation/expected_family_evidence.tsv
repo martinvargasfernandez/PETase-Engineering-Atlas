@@ -1,0 +1,9 @@
+accession	expected_family	closest_representative	identity_to_rep	coverage_against_rep	hmm_score	hmm_evalue	ser_motif	domain_architecture	taxonomy
+A0A365H0H2	Actinomadura-like	A0A1I5FBR0	31.914893617021278	46.658259773013874	38.2	1.5e-11	GASLG(72),GHSRG(301)	Multidomain (C-term extension)	Actinomadura craniellae
+A0ABP5LW35	Actinomadura-like	A0A1I5FBR0	32.36363636363636	41.16899618805591	33.3	4.6e-10	GRSLG(68),GHSRG(296)	Multidomain (C-term extension)	Actinomadura napierensis
+A0A5N6B8J9	Microbispora-like	A0A1N6SMU6	48.54014598540146	64.56876456876456	221.6	1.9e-67	GHSAG(150)	Multidomain (C-term extension)	Microbispora catharanthi
+A0A940WR16	Microbispora-like	A0A1N6SMU6	46.04810996563574	65.1685393258427	226.0	8.4e-69	GHSAG(160)	Multidomain (C-term extension)	Microbispora oryzae
+A0ABQ4H167	Microbispora-like	A0A1N6SMU6	46.41638225255973	65.24663677130044	238.2	1.7e-72	GHSMG(160)	Multidomain (C-term extension)	Microbispora siamensis
+A0ABQ2ZZ23	Streptomyces-like	Q9L2J6	29.508196721311474	73.62637362637363	105.0	6.6e-32	GHSLG(188)	Single domain	Streptomyces djakartensis
+A0ABR4SXM1	Streptomyces-like	Q9L2J6	29.01023890784983	70.20316027088036	99.2	3.9e-30	GHSLG(176)	Multidomain (C-term extension)	Streptomyces griseorubens
+A0ABN3WC23	Streptomyces-like	Q9L2J6	28.524590163934427	72.91196388261851	103.9	1.4e-31	GHSLG(176)	Single domain	Streptomyces erythrogriseus

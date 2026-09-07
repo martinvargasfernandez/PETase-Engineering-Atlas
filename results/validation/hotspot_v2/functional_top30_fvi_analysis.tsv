@@ -1,0 +1,4 @@
+fvi_category	total_external	top30_recovered	recall
+FVI = 0 (Conserved Hotspots)	6	2	0.3333
+FVI = 1-2 (Low-Variability)	4	2	0.5
+FVI >= 3 (Variable Hotspots)	5	1	0.2

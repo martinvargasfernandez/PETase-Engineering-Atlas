@@ -1,0 +1,51 @@
+{
+  "validation_status": "EXTERNAL VALIDATION PARTIALLY SUPPORTED",
+  "n_external_positions": 15,
+  "external_positions": [
+    102,
+    116,
+    121,
+    159,
+    172,
+    181,
+    224,
+    229,
+    233,
+    234,
+    238,
+    241,
+    265,
+    269,
+    282
+  ],
+  "cutoffs": {
+    "Top 5%": 12,
+    "Top 10%": 24,
+    "Top 20%": 48,
+    "Top 25%": 60
+  },
+  "recovery": {
+    "top_5_percent": 1,
+    "top_10_percent": 2,
+    "top_20_percent": 4,
+    "top_25_percent": 7,
+    "median_rank": 118.0,
+    "median_percentile": 48.559670781893004,
+    "top_50_count": 5
+  },
+  "primary_endpoint_top20": {
+    "observed": 4,
+    "expected_random": 2.963,
+    "fold_enrichment": 1.35,
+    "empirical_p_value": 0.341657
+  },
+  "secondary_endpoints": {
+    "top10_empirical_p_value": 0.447826,
+    "median_rank_empirical_p_value": 0.450895
+  },
+  "hashes": {
+    "v24_freeze_manifest": "b0f01a94e9b87f8c61e6ae138f101d6183fa25482ec62e9e280272a5d84f1a83",
+    "external_benchmark_tsv": "519c9edd9a8c0bf0d3819bd1d62d818ad83774e3d7c13d9b9bef215379f69d22",
+    "external_benchmark_manifest": "3647f00efaa4dcf6ec158b05b1ecfe1cad3a7c1f383948330d09936448b76fde"
+  }
+}

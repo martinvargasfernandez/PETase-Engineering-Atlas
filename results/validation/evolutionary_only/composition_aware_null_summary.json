@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-09-06T19:36:40.717954+00:00",
+  "observed_successes": 13,
+  "total_evaluable": 22,
+  "observed_recall": 0.590909,
+  "global_composition_null": {
+    "expected_successes": 3.394649,
+    "expected_recall": 0.154302,
+    "fold_enrichment": 3.829556,
+    "empirical_p_value": 1e-06
+  },
+  "wt_conditioned_null": {
+    "expected_successes": 3.752901,
+    "expected_recall": 0.170586,
+    "fold_enrichment": 3.463987,
+    "empirical_p_value": 1e-06,
+    "fallback_positions_count": 0
+  },
+  "simple_set_null_reference": {
+    "expected_successes": 3.0,
+    "fold_enrichment": 4.333333
+  }
+}

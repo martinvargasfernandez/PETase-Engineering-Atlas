@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-09-06T19:39:58.306091+00:00",
+  "observed_recoveries": 13,
+  "total_evaluable": 22,
+  "observed_recall": 0.590909,
+  "primary_null_model": {
+    "expected_recoveries": 5.667046,
+    "expected_recall": 0.257593,
+    "fold_enrichment": 2.293964,
+    "empirical_p_value": 1e-06,
+    "analytical_expected_recoveries": 5.666667,
+    "analytical_p_value": 4e-06
+  },
+  "secondary_null_model": {
+    "expected_recoveries": 5.07639,
+    "expected_recall": 0.230745,
+    "fold_enrichment": 2.560875,
+    "empirical_p_value": 1e-06
+  }
+}

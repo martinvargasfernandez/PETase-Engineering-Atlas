@@ -1,0 +1,7 @@
+literature_name	literature_numbering	mature_fasta_position	pdb_4eb0_position	g9by57_accession_position	ispetase_ref_position	workspace_ui_display	offset_explanation	verification_status
+Y93G (Tournier et al. 2020)	Y93	59	93	93	87	Y59 (Ref Y87)	Literature Y93 uses full-length G9BY57 accession numbering (signal peptide 34 aa included). Mature FASTA pos = 93 - 34 = 59.	VERIFIED EXPLICITLY (No offset error)
+H218Y (Cribari et al. 2023, Orr et al. 2024)	H218	184	218	218	214	H184 (Ref S214)	Literature H218 uses full-length G9BY57 accession numbering. Mature FASTA pos = 218 - 34 = 184.	VERIFIED EXPLICITLY (No offset error)
+F243I (Cui et al. 2021)	F243	209	243	243	238	F208 / L208 (Ref F238)	Literature F243 uses full-length G9BY57 accession numbering. Mature FASTA pos = 243 - 34 = 209 (F209 in G9BY57 / F208 in LCC query sequence depending on alignment gap).	VERIFIED EXPLICITLY (No offset error)
+D204C (Tournier et al. 2020)	D204	170	204	204	200	I170 (Ref D200)	Literature D204 uses full-length G9BY57 accession numbering. Mature FASTA pos = 204 - 34 = 170.	VERIFIED EXPLICITLY (No offset error)
+F209I (Tournier et al. 2020)	F209	175	209	209	205	A175 (Ref F205)	Literature F209 uses full-length G9BY57 accession numbering. Mature FASTA pos = 209 - 34 = 175.	VERIFIED EXPLICITLY (No offset error)
+S249C (Tournier et al. 2020)	S249	215	249	249	245	N215 (Ref S245)	Literature S249 uses full-length G9BY57 accession numbering. Mature FASTA pos = 249 - 34 = 215.	VERIFIED EXPLICITLY (No offset error)

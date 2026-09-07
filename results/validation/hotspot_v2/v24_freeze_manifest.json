@@ -1,0 +1,75 @@
+{
+  "model_name": "Hotspot V2.4 Logistic Regression (LR)",
+  "freeze_date": "2026-08-31",
+  "regularization": {
+    "C": 1.0,
+    "penalty": "L2"
+  },
+  "feature_list": [
+    "fvi",
+    "shannon_entropy",
+    "different_family_consensus",
+    "global_conservation",
+    "relative_SASA",
+    "residue_depth",
+    "distance_to_substrate",
+    "distance_to_active_site_centroid",
+    "normalized_B_factor",
+    "packing_density",
+    "long_range_density",
+    "betweenness_pctl"
+  ],
+  "preprocessing": {
+    "standardization_means": {
+      "fvi": 2.39917695473251,
+      "shannon_entropy": 2.7122189176954725,
+      "different_family_consensus": 3.39917695473251,
+      "global_conservation": 40.00465020576131,
+      "relative_SASA": 0.0729709341563786,
+      "residue_depth": 5.214526106995884,
+      "distance_to_substrate": 12.849679201646097,
+      "distance_to_active_site_centroid": 21.421883263374486,
+      "normalized_B_factor": 0.5098359629629631,
+      "packing_density": 0.4689300411522633,
+      "long_range_density": 0.3093129988502271,
+      "betweenness_pctl": 0.4319124155602143
+    },
+    "standardization_stds": {
+      "fvi": 1.2142498156382637,
+      "shannon_entropy": 0.5428582975628701,
+      "different_family_consensus": 1.2142498156382637,
+      "global_conservation": 13.82002895026946,
+      "relative_SASA": 0.13420975379429972,
+      "residue_depth": 3.1419470844345807,
+      "distance_to_substrate": 4.562857332790846,
+      "distance_to_active_site_centroid": 7.558850150237287,
+      "normalized_B_factor": 0.2698624728804409,
+      "packing_density": 0.22760085098508345,
+      "long_range_density": 0.24053170348524955,
+      "betweenness_pctl": 0.31479175205309595
+    }
+  },
+  "learned_parameters": {
+    "intercept": -2.3429230298125816,
+    "coefficients": {
+      "fvi": -0.007409852887627107,
+      "shannon_entropy": 0.01648202500459442,
+      "different_family_consensus": -0.007409852887627107,
+      "global_conservation": -0.012047173214498517,
+      "relative_SASA": 0.040421725821248644,
+      "residue_depth": -0.04356555977291203,
+      "distance_to_substrate": -0.03265463349311205,
+      "distance_to_active_site_centroid": -0.025624871216153523,
+      "normalized_B_factor": 0.033716839931244545,
+      "packing_density": 0.0026835845780964133,
+      "long_range_density": -0.005806257672357875,
+      "betweenness_pctl": -0.015494114839051635
+    }
+  },
+  "software_versions": {
+    "python": "3.13.14",
+    "numpy": "2.5.1",
+    "pandas": "3.0.5"
+  },
+  "deterministic_ranking": "predicted_probability DESC, fvi DESC, reference_position ASC"
+}

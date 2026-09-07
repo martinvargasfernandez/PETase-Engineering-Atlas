@@ -1,0 +1,4 @@
+category	count	percentage	description
+Complete End-to-End Success (Top5)	4	26.7	Position in Top30 WHERE AND exact substitution in Evolutionary Top5 WHAT
+Missed by WHERE Bottleneck	10	66.7	Position not captured in Top30 WHERE shortlist
+Missed by WHAT Bottleneck	1	6.7	Position in Top30 WHERE, but Evolutionary WHAT ranked substitution > 5

@@ -1,0 +1,7 @@
+scaffold	literature_mutation	provenance_type	where_recovered	what_recovered	end_to_end_recovered	benchmark_lane	manuscript_role
+LCC	H218Y (Cribari et al. 2023)	FROZEN EXTERNAL BENCHMARK	YES (Rank #8)	YES (#1 WHAT proposal)	YES	Thermostability / Activity	Primary Benchmark Evidence
+LCC-ICCG	H218Y (Orr et al. 2024)	FROZEN EXTERNAL BENCHMARK	YES (Rank #8)	YES (#1 WHAT proposal)	YES	Activity / PET Depolymerization	Primary Benchmark Evidence
+LCC	F243I (Cui et al. 2021)	POST-HOC CASE-STUDY DIAGNOSTIC	YES (Rank #3)	YES (WHAT Top 3)	YES	Substrate binding / Activity	Supporting Case Study
+LCC-ICCG	Y93G (Tournier et al. 2020)	POST-HOC CASE-STUDY DIAGNOSTIC	YES (Rank #5)	NO (Engineered Glycine absent in MSA consensus)	POSITIONAL ONLY	Activity / Subsite remodeling	Supporting Case Study
+LCC-ICCG	D204C (Tournier et al. 2020)	POST-HOC CASE-STUDY DIAGNOSTIC	NO (Fails active-site criteria)	NO	NO	Disulfide Thermostability	Negative Control / Limitation
+LCC-ICCG	S249C (Tournier et al. 2020)	POST-HOC CASE-STUDY DIAGNOSTIC	NO (Outer loop position > 12Å from active site)	NO	NO	Disulfide Thermostability	Negative Control / Limitation

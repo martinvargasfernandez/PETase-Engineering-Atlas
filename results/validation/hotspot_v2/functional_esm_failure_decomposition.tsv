@@ -1,0 +1,4 @@
+category	count	percentage	description
+Successful End-to-End Recovery (Top5)	2	13.3	Position in Top30 WHERE AND exact substitution in ESM Top5 WHAT
+Missed by WHERE Bottleneck	10	66.7	Position not captured in Top30 WHERE shortlist
+Missed by WHAT Bottleneck	3	20.0	Position captured in Top30 WHERE, but ESM ranked substitution > 5

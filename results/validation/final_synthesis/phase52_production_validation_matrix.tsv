@@ -1,0 +1,8 @@
+production_component	validation_type	evidence_artifact	provenance_display_in_ui	validation_status
+Reference Mapping (ReferenceMapper)	Directly Validated (Layer 3)	phase50_coordinate_mapping_stress_tests.tsv (20/20 invariance passed)	Reference Alignment: Successful / Technical mapping details	100% Validated Software Mapping Engine
+Family Classification (FamilyClassifier)	Directly Validated (Layer 1 / Layer 5)	next_gen_metrics.tsv (9 families, taxonomy clean)	Atlas Family-Clade Prediction / Best Matching Clade	100% Validated Sequence Classifier
+Function-First WHERE Shortlist	Directly Validated (Layer 2)	phase32_where_validation.tsv (5/15 recovery, 2.92x enrichment, p=0.01798)	Prioritized Engineering Positions / Position Priority Rank	100% Validated Search-Space Prioritization Engine
+Evolutionary WHAT Ranking	Directly Validated (Layer 1 & Layer 2)	phase32_what_validation.tsv (Conditional Top5 = 4/5, 80%)	Suggested Substitutions (WHAT) / MSA Sequence Count	100% Validated Substitution Frequency Engine
+Evolutionary Variability (FVI)	Directly Validated (Layer 1)	per_family_metrics.tsv / FVI conservation tables	Evolutionary Variability (High / Moderate / Low / Conserved)	100% Validated Variability Metric
+Structural Reference Annotations (6EQE)	Validated as Reference Context (Layer 4)	phase48_lcc_top30_structural_validation.tsv & phase49_audit	Explicit Provenance Notice ('Transferred from IsPETase reference PDB 6EQE')	Validated as Reference Context (Not Query-Specific 3D Geometry)
+Catalytic & Disulfide Protection Rules	Directly Validated (Layer 2 & Layer 4)	phase32_formal_validation_report.md (Zero proposals for S160/D206/H237)	Status: Protected Catalytic Residue	100% Validated Safety Filter

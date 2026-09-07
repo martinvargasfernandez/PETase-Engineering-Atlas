@@ -1,0 +1,5 @@
+﻿biopython==1.87
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.1
+streamlit==1.59.0

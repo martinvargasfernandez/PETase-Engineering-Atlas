@@ -1,0 +1,291 @@
+rank	reference_position	reference_residue	fvi	global_conservation	consensus_residue_count	evolutionary_score	eligible	exclusion_reason
+1	2	N	6	14.37	7	7	True	None
+2	9	L	6	17.02	7	7	True	None
+3	136	S	6	23.79	7	7	True	None
+4	43	L	5	19.24	6	7	True	None
+5	54	S	5	16.93	6	7	True	None
+6	99	P	5	29.76	6	7	True	None
+7	152	A	5	23.51	6	7	True	None
+8	193	S	5	21.01	6	7	True	None
+9	225	N	5	20.26	6	7	True	None
+10	242	S	5	24.75	6	7	True	None
+11	269	S	5	19.43	6	7	True	None
+12	278	S	5	18.93	6	7	True	None
+13	279	T	5	18.01	6	7	True	None
+14	280	R	5	18.4	6	7	True	None
+15	1	M	4	17.14	5	5	True	None
+16	4	P	4	29.16	5	5	True	None
+17	6	A	4	21.33	5	5	True	None
+18	12	A	4	29.07	5	5	True	None
+19	46	S	4	29.19	5	5	True	None
+20	53	R	4	23.68	5	5	True	None
+21	56	T	4	22.56	5	5	True	None
+22	90	R	4	19.9	5	5	True	None
+23	125	S	4	27.53	5	5	True	None
+24	139	G	4	27.52	5	5	True	None
+25	142	S	4	26.96	5	5	True	None
+26	151	T	4	29.9	5	5	True	None
+27	171	A	4	24.88	5	5	True	None
+28	190	N	4	19.22	5	5	True	None
+29	195	T	4	27.8	5	5	True	None
+30	212	N	4	22.74	5	5	True	None
+31	216	L	4	24.02	5	5	True	None
+32	220	D	4	25.04	5	5	True	None
+33	233	N	4	17.61	5	5	True	None
+34	239	C	4	21.84	5	5	True	None
+35	243	G	4	27.48	5	5	True	None
+36	247	Q	4	19.0	5	5	True	None
+37	254	G	4	21.99	5	5	True	None
+38	277	N	4	17.41	5	5	True	None
+39	3	F	3	19.89	4	5	True	None
+40	14	V	3	24.19	4	5	True	None
+41	24	A	3	29.71	4	5	True	None
+42	44	E	3	28.26	4	5	True	None
+43	91	Q	3	19.24	4	5	True	None
+44	92	S	3	28.87	4	5	True	None
+45	94	I	3	19.01	4	5	True	None
+46	114	N	3	26.19	4	5	True	None
+47	117	L	3	24.88	4	5	True	None
+48	121	S	3	20.23	4	5	True	None
+49	135	A	3	27.88	4	5	True	None
+50	175	S	3	28.09	4	5	True	None
+51	187	S	3	23.44	4	5	True	None
+52	204	E	3	26.94	4	5	True	None
+53	224	R	3	25.42	4	5	True	None
+54	11	Q	4	39.02	5	3	True	None
+55	22	S	4	33.43	5	3	True	None
+56	28	Q	4	38.09	5	3	True	None
+57	41	A	4	34.1	5	3	True	None
+58	74	A	4	36.26	5	3	True	None
+59	109	I	4	33.65	5	3	True	None
+60	128	M	4	43.61	5	3	True	None
+61	205	N	4	30.02	5	3	True	None
+62	10	M	3	39.16	4	3	True	None
+63	13	A	3	52.38	4	3	True	None
+64	16	G	3	33.72	4	3	True	None
+65	17	G	3	30.43	4	3	True	None
+66	18	L	3	42.76	4	3	True	None
+67	19	M	3	36.72	4	3	True	None
+68	21	V	3	51.03	4	3	True	None
+69	23	A	3	42.3	4	3	True	None
+70	26	T	3	33.74	4	3	True	None
+71	29	T	3	47.46	4	3	True	None
+72	30	N	3	33.26	4	3	True	None
+73	32	Y	3	59.48	4	3	True	None
+74	33	A	3	44.0	4	3	True	None
+75	40	A	3	42.57	4	3	True	None
+76	42	S	3	33.52	4	3	True	None
+77	51	T	3	36.99	4	3	True	None
+78	61	S	3	34.62	4	3	True	None
+79	75	G	3	36.01	4	3	True	None
+80	78	V	3	40.55	4	3	True	None
+81	112	D	3	30.27	4	3	True	None
+82	137	L	3	34.29	4	3	True	None
+83	144	P	3	56.25	4	3	True	None
+84	145	I	3	37.06	4	3	True	None
+85	168	I	3	30.99	4	3	True	None
+86	172	N	3	33.79	4	3	True	None
+87	183	A	3	37.7	4	3	True	None
+88	188	S	3	41.79	4	3	True	None
+89	189	T	3	31.81	4	3	True	None
+90	192	S	3	32.01	4	3	True	None
+91	221	S	3	36.17	4	3	True	None
+92	226	A	3	42.47	4	3	True	None
+93	232	I	3	57.44	4	3	True	None
+94	240	A	3	60.78	4	3	True	None
+95	248	A	3	47.55	4	3	True	None
+96	249	L	3	32.34	4	3	True	None
+97	270	T	3	36.11	4	3	True	None
+98	275	N	3	38.67	4	3	True	None
+99	283	D	3	30.75	4	3	True	None
+100	287	A	3	36.21	4	3	True	None
+101	288	N	3	36.56	4	3	True	None
+102	7	S	2	23.0	3	2	True	None
+103	55	F	2	24.2	3	2	True	None
+104	87	Y	2	25.52	3	2	True	None
+105	95	K	2	26.43	3	2	True	None
+106	186	D	2	29.82	3	2	True	None
+107	207	S	2	23.06	3	2	True	None
+108	223	S	2	25.78	3	2	True	None
+109	250	I	2	28.71	3	2	True	None
+110	286	T	2	19.67	3	2	True	None
+111	241	N	1	27.8	2	2	True	None
+112	15	L	2	42.03	3	0	True	None
+113	25	A	2	33.15	3	0	True	None
+114	37	N	2	33.78	3	0	True	None
+115	39	T	2	52.8	3	0	True	None
+116	50	F	2	44.43	3	0	True	None
+117	57	V	2	47.55	3	0	True	None
+118	59	R	2	47.33	3	0	True	None
+119	64	G	2	56.6	3	0	True	None
+120	66	G	2	43.18	3	0	True	None
+121	72	T	2	37.0	3	0	True	None
+122	73	N	2	48.43	3	0	True	None
+123	80	A	2	34.14	3	0	True	None
+124	83	I	2	36.9	3	0	True	None
+125	84	V	2	41.72	3	0	True	None
+126	88	T	2	33.49	3	0	True	None
+127	89	A	2	53.83	3	0	True	None
+128	93	S	2	35.89	3	0	True	None
+129	96	W	2	44.59	3	0	True	None
+130	97	W	2	54.33	3	0	True	None
+131	98	G	2	40.45	3	0	True	None
+132	100	R	2	41.6	3	0	True	None
+133	110	T	2	45.66	3	0	True	None
+134	111	I	2	36.71	3	0	True	None
+135	116	T	2	31.33	3	0	True	None
+136	120	P	2	46.37	3	0	True	None
+137	122	S	2	38.9	3	0	True	None
+138	123	R	2	48.0	3	0	True	None
+139	126	Q	2	48.24	3	0	True	None
+140	134	V	2	66.29	3	0	True	None
+141	140	T	2	31.63	3	0	True	None
+142	146	Y	2	37.02	3	0	True	None
+143	147	G	2	38.3	3	0	True	None
+144	157	M	2	38.38	3	0	True	None
+145	166	S	2	39.3	3	0	True	None
+146	169	S	2	68.9	3	0	True	None
+147	170	A	2	64.08	3	0	True	None
+148	173	N	2	43.78	3	0	True	None
+149	177	K	2	31.69	3	0	True	None
+150	178	A	2	54.46	3	0	True	None
+151	180	A	2	43.29	3	0	True	None
+152	198	T	2	53.14	3	0	True	None
+153	200	I	2	36.23	3	0	True	None
+154	201	F	2	33.55	3	0	True	None
+155	202	A	2	39.52	3	0	True	None
+156	203	C	2	69.24	3	0	True	None
+157	210	P	2	33.28	3	0	True	None
+158	213	S	2	34.36	3	0	True	None
+159	214	S	2	46.25	3	0	True	None
+160	215	A	2	32.09	3	0	True	None
+161	222	M	2	39.37	3	0	True	None
+162	236	S	2	36.7	3	0	True	None
+163	244	N	2	50.0	3	0	True	None
+164	246	N	2	38.36	3	0	True	None
+165	251	G	2	43.14	3	0	True	None
+166	252	K	2	37.4	3	0	True	None
+167	253	K	2	43.66	3	0	True	None
+168	255	V	2	34.62	3	0	True	None
+169	258	M	2	60.97	3	0	True	None
+170	259	K	2	53.39	3	0	True	None
+171	263	D	2	44.81	3	0	True	None
+172	264	N	2	40.74	3	0	True	None
+173	266	T	2	40.35	3	0	True	None
+174	281	V	2	54.7	3	0	True	None
+175	284	F	2	40.07	3	0	True	None
+176	285	R	2	44.61	3	0	True	None
+177	289	C	2	69.43	3	0	True	None
+178	8	R	1	39.52	2	0	True	None
+179	20	A	1	42.86	2	0	True	None
+180	31	P	1	71.97	2	0	True	None
+181	34	R	1	82.23	2	0	True	None
+182	35	G	1	82.52	2	0	True	None
+183	45	A	1	56.95	2	0	True	None
+184	47	A	1	61.7	2	0	True	None
+185	52	V	1	40.69	2	0	True	None
+186	58	S	1	60.91	2	0	True	None
+187	60	P	1	56.63	2	0	True	None
+188	65	A	1	56.46	2	0	True	None
+189	68	V	1	50.88	2	0	True	None
+190	70	Y	1	68.26	2	0	True	None
+191	77	T	1	45.98	2	0	True	None
+192	79	G	1	53.14	2	0	True	None
+193	81	I	1	48.96	2	0	True	None
+194	82	A	1	41.19	2	0	True	None
+195	85	P	1	46.34	2	0	True	None
+196	101	L	1	56.32	2	0	True	None
+197	104	H	1	42.04	2	0	True	None
+198	107	V	1	62.96	2	0	True	None
+199	115	S	1	54.84	2	0	True	None
+200	118	D	1	65.7	2	0	True	None
+201	119	Q	1	51.45	2	0	True	None
+202	124	S	1	57.88	2	0	True	None
+203	127	Q	1	52.24	2	0	True	None
+204	129	A	1	60.38	2	0	True	None
+205	130	A	1	71.41	2	0	True	None
+206	131	L	1	54.79	2	0	True	None
+207	132	R	1	64.06	2	0	True	None
+208	133	Q	1	46.49	2	0	True	None
+209	138	N	1	67.61	2	0	True	None
+210	143	S	1	32.81	2	0	True	None
+211	148	K	1	56.73	2	0	True	None
+212	149	V	1	42.26	2	0	True	None
+213	154	M	1	43.47	2	0	True	None
+214	155	G	1	49.04	2	0	True	None
+215	161	M	1	49.12	2	0	True	None
+216	165	G	1	64.64	2	0	True	None
+217	176	L	1	43.47	2	0	True	None
+218	179	A	1	49.6	2	0	True	None
+219	182	Q	1	45.85	2	0	True	None
+220	184	P	1	54.56	2	0	True	None
+221	191	F	1	68.62	2	0	True	None
+222	194	V	1	40.55	2	0	True	None
+223	196	V	1	40.32	2	0	True	None
+224	208	I	1	47.88	2	0	True	None
+225	211	V	1	34.03	2	0	True	None
+226	217	P	1	49.12	2	0	True	None
+227	218	I	1	51.56	2	0	True	None
+228	227	K	1	53.3	2	0	True	None
+229	228	Q	1	53.29	2	0	True	None
+230	230	L	1	34.67	2	0	True	None
+231	234	G	1	59.13	2	0	True	None
+232	235	G	1	66.13	2	0	True	None
+233	245	S	1	44.0	2	0	True	None
+234	256	A	1	56.41	2	0	True	None
+235	260	R	1	39.55	2	0	True	None
+236	261	F	1	33.71	2	0	True	None
+237	262	M	1	55.56	2	0	True	None
+238	267	R	1	46.62	2	0	True	None
+239	268	Y	1	44.93	2	0	True	None
+240	272	A	1	46.59	2	0	True	None
+241	273	C	1	44.0	2	0	True	None
+242	274	E	1	60.83	2	0	True	None
+243	282	S	1	33.39	2	0	True	None
+244	5	R	0	64.14	1	0	False	FVI=0 exclusion
+245	27	A	0	81.55	1	0	False	FVI=0 exclusion
+246	36	P	0	87.74	1	0	False	FVI=0 exclusion
+247	38	P	0	69.74	1	0	False	FVI=0 exclusion
+248	48	G	0	90.92	1	0	False	FVI=0 exclusion
+249	49	P	0	74.88	1	0	False	FVI=0 exclusion
+250	62	G	0	87.26	1	0	False	FVI=0 exclusion
+251	63	Y	0	82.02	1	0	False	FVI=0 exclusion
+252	67	T	0	64.37	1	0	False	FVI=0 exclusion
+253	69	Y	0	75.28	1	0	False	FVI=0 exclusion
+254	71	P	0	99.04	1	0	False	FVI=0 exclusion
+255	76	G	0	78.82	1	0	False	FVI=0 exclusion
+256	86	G	0	98.73	1	0	False	FVI=0 exclusion
+257	102	A	0	95.22	1	0	False	FVI=0 exclusion
+258	103	S	0	88.38	1	0	False	FVI=0 exclusion
+259	105	G	0	99.04	1	0	False	FVI=0 exclusion
+260	106	F	0	85.99	1	0	False	FVI=0 exclusion
+261	108	V	0	89.69	1	0	False	FVI=0 exclusion
+262	113	T	0	53.31	1	0	False	FVI=0 exclusion
+263	141	S	0	88.65	1	0	False	FVI=0 exclusion
+264	150	D	0	88.52	1	0	False	FVI=0 exclusion
+265	153	R	0	64.33	1	0	False	FVI=0 exclusion
+266	156	V	0	55.41	1	0	False	FVI=0 exclusion
+267	158	G	0	99.36	1	0	False	FVI=0 exclusion
+268	159	W	0	79.39	1	0	False	FVI=0 exclusion
+269	160	S	0	98.57	1	0	False	Catalytic triad control
+270	162	G	0	99.68	1	0	False	FVI=0 exclusion
+271	163	G	0	84.66	1	0	False	FVI=0 exclusion
+272	164	G	0	63.3	1	0	False	FVI=0 exclusion
+273	167	L	0	60.22	1	0	False	FVI=0 exclusion
+274	174	P	0	71.72	1	0	False	FVI=0 exclusion
+275	181	P	0	61.18	1	0	False	FVI=0 exclusion
+276	185	W	0	63.21	1	0	False	FVI=0 exclusion
+277	197	P	0	90.84	1	0	False	FVI=0 exclusion
+278	199	L	0	48.31	1	0	False	FVI=0 exclusion
+279	206	D	0	87.34	1	0	False	Catalytic triad control
+280	209	A	0	66.72	1	0	False	FVI=0 exclusion
+281	219	Y	0	83.8	1	0	False	FVI=0 exclusion
+282	229	F	0	54.06	1	0	False	FVI=0 exclusion
+283	231	E	0	56.99	1	0	False	FVI=0 exclusion
+284	237	H	0	99.2	1	0	False	Catalytic triad control
+285	238	S	0	46.55	1	0	False	FVI=0 exclusion
+286	257	W	0	91.99	1	0	False	FVI=0 exclusion
+287	265	D	0	91.8	1	0	False	FVI=0 exclusion
+288	271	F	0	88.02	1	0	False	FVI=0 exclusion
+289	276	P	0	82.35	1	0	False	FVI=0 exclusion
+290	290	S	0	77.39	1	0	False	FVI=0 exclusion

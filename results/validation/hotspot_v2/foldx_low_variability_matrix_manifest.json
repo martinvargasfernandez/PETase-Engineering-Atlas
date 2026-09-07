@@ -1,0 +1,19 @@
+{
+  "foldx_version": "FoldX 5.1",
+  "repaired_pdb_path": "C:\\Bioinformatics\\PETase_Engineering_Atlas_Development\\PETase_Evolution\\results\\validation\\foldx_work\\6eqe_Repair.pdb",
+  "repaired_pdb_sha256": "63da9a1a30d4d187558418ab885fb4a95af0ba38b35e242671f6333a65b6078c",
+  "number_of_positions": 179,
+  "total_mutations": 3401,
+  "successful_calculations": 3263,
+  "failed_calculations": 138,
+  "temperature_K": 298.15,
+  "pH": 7.0,
+  "ionic_strength_M": 0.05,
+  "ddg_range": {
+    "min_kcal_mol": -4.1215,
+    "max_kcal_mol": 89.6963
+  },
+  "output_matrix_path": "C:\\Bioinformatics\\PETase_Engineering_Atlas_Development\\PETase_Evolution\\results\\validation\\hotspot_v2\\foldx_low_variability_mutation_matrix.tsv",
+  "output_matrix_sha256": "b9feff9aab5e5d6f3703096ea7bf6bdb16f6dde405de032fb66d89abf2976fa3",
+  "timestamp": "2026-08-31T18:48:40.125427"
+}

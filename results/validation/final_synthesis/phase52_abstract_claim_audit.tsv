@@ -1,0 +1,7 @@
+abstract_statement	verification_status	production_alignment	manuscript_qualification
+628 bacterial PETase sequences, 9 sequence families, 290 reference positions	VERIFIED	Identical core coordinate system (IsPETase_v1, 290 reference positions, 628 MSA sequences).	None
+13/22 exact substitution recovery (59.1%)	VERIFIED	Layer 1 evolutionary substitution recovery statistic (anywhere in candidate proposal set).	Specify that 13/22 represents inclusion in the candidate proposal set (averaging 3.88 proposals per position).
+Top1 = 8/22, Top2 = 10/22, Top3 = 11/22	VERIFIED	Rank-decomposed Evolutionary WHAT recovery.	None
+Null expectations = 3.39 and 3.75	VERIFIED	Composition-aware null expectations (Model A: background composition; Model B: WT-biased composition).	None
+3.83-fold and 3.46-fold enrichment, both p < 0.001	VERIFIED	Statistically significant evolutionary substitution signal enrichment.	None
+Audit found no benchmark-linked engineered variants in MSA dataset	VERIFIED	Confirms master alignment is restricted to natural bacterial homologs.	None

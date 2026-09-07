@@ -1,0 +1,263 @@
+rank	reference_position	wt_residue	priority_group_label	priority_tier	number_functional_classes	functional_class_labels	permissiveness	is_protected	substrate_distance	catalytic_distance	relative_sasa	b_factor_percentile
+1	209	A	Group 1 (>=3 Functional Classes)	TIER_1	3	B+C+D	LOW	NO	5.16	5.08	0.0066	76.0
+2	208	I	Group 1 (>=3 Functional Classes)	TIER_1	3	A+B+C	MODERATE	NO	5.58	5.25	0.4255	67.9
+3	238	S	Group 1 (>=3 Functional Classes)	TIER_1	3	B+C+D	LOW	NO	7.74	5.72	0.0741	50.2
+4	183	A	Group 1 (>=3 Functional Classes)	TIER_1	3	B+C+D	HIGH	NO	7.92	4.47	0.0	17.7
+5	86	G	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	LOW	NO	3.46	9.25	0.0	39.1
+6	279	T	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	HIGH	NO	3.96	19.93	0.2627	97.1
+7	87	Y	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	MODERATE	NO	3.98	10.98	0.2937	38.2
+8	89	A	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	4.78	12.45	0.0	25.6
+9	185	W	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	LOW	NO	5.14	8.15	0.1006	73.7
+10	88	T	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	MODERATE	NO	5.43	13.2	0.1664	39.7
+11	280	R	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	HIGH	NO	5.43	16.63	0.2294	96.6
+12	159	W	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	LOW	NO	6.15	7.84	0.006	4.2
+13	264	N	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	6.15	29.82	0.0795	41.2
+14	85	P	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	6.32	11.59	0.0	11.6
+15	277	N	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	HIGH	NO	6.45	22.5	0.6164	85.1
+16	186	D	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	6.94	11.85	0.0333	88.9
+17	177	K	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	7.18	24.51	0.0072	27.1
+18	184	P	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	7.24	7.01	0.0	42.6
+19	187	S	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	HIGH	NO	7.67	14.48	0.3023	99.2
+20	175	S	Group 2 (2 Classes including A or C)	TIER_1	2	A+C	HIGH	NO	7.88	27.51	0.3737	52.1
+21	210	P	Group 2 (2 Classes including A or C)	TIER_1	2	B+C	MODERATE	NO	8.09	6.91	0.286	76.7
+22	32	Y	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	8.13	33.52	0.0211	69.7
+23	116	T	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	8.97	16.64	0.0397	42.6
+24	176	L	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	9.08	24.31	0.0145	22.7
+25	207	S	Group 2 (2 Classes including A or C)	TIER_1	2	B+C	MODERATE	NO	9.09	6.59	0.5669	89.7
+26	118	D	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	9.29	16.97	0.0	36.1
+27	182	Q	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	9.61	7.73	0.0	1.1
+28	241	N	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	9.86	9.85	0.0	16.2
+29	233	N	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	10.61	12.78	0.0585	72.3
+30	189	T	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	11.24	14.72	0.0	92.4
+31	33	A	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	11.26	33.37	0.0	76.7
+32	194	V	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	11.61	21.36	0.0	73.1
+33	191	F	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	12.56	18.33	0.0136	77.5
+34	234	G	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	13.11	11.61	0.0675	89.3
+35	195	T	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	13.58	23.95	0.0296	75.6
+36	235	G	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	13.73	8.41	0.0	76.7
+37	34	R	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	13.81	32.83	0.004	61.8
+38	225	N	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	14.55	23.55	0.0	67.2
+39	192	S	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	14.87	21.63	0.064	91.2
+40	190	N	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	14.9	18.19	0.1007	90.5
+41	148	K	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	15.46	33.81	0.0216	82.3
+42	60	P	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	15.56	27.61	0.016	64.5
+43	74	A	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	17.36	33.47	0.0	93.5
+44	35	G	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	17.37	32.97	0.0705	80.2
+45	38	P	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	LOW	NO	18.78	30.01	0.0	80.7
+46	47	A	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	19.29	25.52	0.0253	86.1
+47	145	I	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	19.41	32.9	0.0	80.7
+48	146	Y	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	19.67	36.13	0.0787	79.4
+49	57	V	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	19.8	28.23	0.0062	71.4
+50	48	G	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	LOW	NO	20.34	27.11	0.0	65.8
+51	72	T	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	21.76	33.7	0.0922	70.6
+52	49	P	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	LOW	NO	22.23	30.77	0.0281	71.0
+53	140	T	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	22.49	37.58	0.1055	96.2
+54	143	S	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	MODERATE	NO	23.75	35.48	0.0	93.9
+55	51	T	Group 2 (2 Classes including A or C)	TIER_1	2	C+D	HIGH	NO	23.98	31.38	0.0112	68.9
+56	236	S	Group 3 (2 Other Classes e.g. B+D)	TIER_1	2	B+D	MODERATE	NO	10.91	6.18	0.0571	59.9
+57	172	N	Group 4 (Single Class A)	TIER_2	1	A	HIGH	NO	4.63	23.76	0.3485	66.6
+58	173	N	Group 4 (Single Class A)	TIER_2	1	A	MODERATE	NO	5.56	24.95	0.2359	44.8
+59	121	S	Group 4 (Single Class A)	TIER_2	1	A	HIGH	NO	6.62	18.25	0.1516	64.9
+60	278	S	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	3.49	20.5	0.0225	87.4
+61	276	P	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	7.85	21.39	0.0067	92.7
+62	213	S	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	8.7	11.39	0.242	90.8
+63	31	P	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	8.87	37.23	0.232	95.4
+64	117	L	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	8.98	16.4	0.3581	47.3
+65	174	P	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	9.28	25.62	0.2624	54.2
+66	30	N	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	9.46	36.87	0.0	97.1
+67	62	G	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	10.25	26.14	0.1831	68.3
+68	188	S	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	10.49	15.94	0.1967	98.9
+69	275	N	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	11.09	21.81	0.0766	73.1
+70	212	N	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	11.69	11.53	0.3278	87.0
+71	245	S	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	11.77	15.34	0.4165	63.2
+72	193	S	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	12.42	23.28	0.1612	97.7
+73	115	S	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	12.51	19.9	0.0303	69.7
+74	29	T	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	12.54	40.35	0.7919	100.0
+75	61	S	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	12.82	28.51	0.1888	72.3
+76	205	N	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	13.85	8.13	0.2085	78.2
+77	76	G	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	14.12	36.09	0.1586	90.1
+78	243	G	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	14.44	14.72	0.4183	75.2
+79	290	S	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	16.31	28.07	0.2492	99.6
+80	46	S	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	16.33	23.29	0.2207	74.4
+81	288	N	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	16.61	25.69	0.2059	78.6
+82	147	G	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	16.86	36.73	0.0	88.5
+83	224	R	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	16.91	25.46	0.3475	93.1
+84	75	G	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	17.43	36.89	0.595	98.5
+85	59	R	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	18.96	30.88	0.5587	84.4
+86	223	S	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	19.55	23.57	0.3277	87.8
+87	37	N	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	19.74	33.42	0.0255	86.6
+88	36	P	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	19.97	34.12	0.2541	94.7
+89	73	N	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	20.95	35.24	0.3003	79.0
+90	58	S	Group 5 (Single Class C)	TIER_2	1	C	MODERATE	NO	21.64	31.19	0.6149	92.0
+91	144	P	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	23.2	34.48	0.0579	94.3
+92	141	S	Group 5 (Single Class C)	TIER_2	1	C	LOW	NO	24.28	40.15	0.1444	95.8
+93	142	S	Group 5 (Single Class C)	TIER_2	1	C	HIGH	NO	26.45	39.09	0.3576	98.1
+94	161	M	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	3.83	9.58	0.0854	31.5
+95	169	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	3.9	19.55	0.0	9.9
+96	125	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	4.03	21.64	0.0078	26.3
+97	124	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	4.71	18.15	0.0	10.3
+98	168	I	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	5.15	17.79	0.0665	26.7
+99	153	R	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	5.55	28.16	0.0	23.3
+100	128	M	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	5.65	22.72	0.1178	6.5
+101	162	G	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	6.46	11.14	0.0	13.4
+102	262	M	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	6.72	25.73	0.0	30.3
+103	263	D	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	6.77	28.83	0.0	26.0
+104	171	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	7.1	21.47	0.0928	62.2
+105	170	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.12	20.21	0.0	32.8
+106	165	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.35	14.37	0.0	24.6
+107	129	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.4	24.83	0.0132	19.5
+108	122	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.47	19.33	0.0	45.8
+109	126	Q	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.51	20.98	0.0	6.9
+110	127	Q	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.72	19.55	0.0	3.8
+111	281	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.93	15.4	0.0295	54.6
+112	93	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	7.97	12.09	0.0	27.7
+113	163	G	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	7.99	10.05	0.0	11.6
+114	123	R	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	8.02	16.7	0.0	9.0
+115	166	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	8.04	14.93	0.0	5.7
+116	261	F	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	8.06	25.05	0.0	23.7
+117	214	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	8.17	9.31	0.0	77.9
+118	249	L	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	8.19	17.75	0.0266	46.4
+119	120	P	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	8.23	14.54	0.0	36.6
+120	167	L	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	8.36	15.51	0.0	28.4
+121	164	G	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	8.4	11.58	0.0	42.0
+122	154	M	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	8.82	24.73	0.0383	18.3
+123	150	D	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	8.95	32.17	0.0	59.5
+124	79	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	9.13	27.47	0.0	14.5
+125	246	N	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	9.4	15.11	0.0	53.8
+126	158	G	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	9.49	11.41	0.0	1.5
+127	151	T	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	9.59	30.98	0.0561	65.8
+128	248	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	9.64	19.44	0.0423	55.3
+129	265	D	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	9.79	30.2	0.0	44.3
+130	84	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	9.95	14.1	0.0	2.7
+131	94	I	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	10.07	13.1	0.0	25.2
+132	131	L	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.2	24.71	0.006	18.7
+133	260	R	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.43	25.82	0.031	36.1
+134	91	Q	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	10.56	16.33	0.0	15.6
+135	282	S	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.57	14.92	0.0608	60.5
+136	130	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.58	23.67	0.0	12.4
+137	178	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.6	20.92	0.0	16.8
+138	78	V	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	10.72	30.22	0.0	28.4
+139	215	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.79	9.03	0.0	52.9
+140	92	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	10.79	15.86	0.0701	40.3
+141	232	I	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	10.83	10.94	0.0	50.2
+142	156	V	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	10.83	17.73	0.0	2.3
+143	211	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	10.85	8.04	0.0	58.2
+144	240	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	11.25	8.92	0.0	17.2
+145	155	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	11.26	21.03	0.0	16.2
+146	259	K	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	11.4	25.16	0.0	34.4
+147	250	I	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	11.42	14.89	0.0	19.1
+148	44	E	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	11.44	22.94	0.1392	48.5
+149	181	P	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	11.57	11.01	0.0	4.6
+150	196	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	11.7	22.36	0.0	35.1
+151	112	D	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	11.72	18.49	0.0	10.9
+152	247	Q	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	11.75	16.52	0.035	57.6
+153	113	T	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	11.82	18.61	0.0125	20.6
+154	63	Y	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	11.84	23.16	0.0	38.5
+155	80	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	11.91	25.04	0.0	6.1
+156	258	M	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	11.94	21.74	0.0	21.9
+157	197	P	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	12.0	21.32	0.0	19.8
+158	77	T	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.03	33.95	0.0606	58.2
+159	40	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	12.13	26.83	0.1005	84.4
+160	242	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	12.2	13.46	0.066	32.1
+161	202	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.37	7.33	0.0	34.0
+162	149	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.42	31.62	0.0	56.9
+163	82	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.47	19.42	0.0	0.8
+164	252	K	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.55	20.13	0.0036	33.4
+165	283	D	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	12.74	15.09	0.0174	56.5
+166	179	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.81	17.26	0.0	8.4
+167	284	F	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.88	16.84	0.049	68.9
+168	157	M	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	12.93	14.29	0.0	0.4
+169	83	I	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.02	15.91	0.0	1.9
+170	133	Q	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.02	28.63	0.0097	45.4
+171	231	E	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	13.06	10.89	0.0	43.5
+172	111	I	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.23	18.84	0.0	5.0
+173	230	L	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.24	13.17	0.0	30.9
+174	253	K	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.24	18.21	0.0	14.5
+175	218	I	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.3	13.7	0.0	63.7
+176	201	F	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.42	9.7	0.0	13.0
+177	217	P	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.48	14.33	0.0	81.7
+178	251	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.65	17.5	0.0	21.9
+179	106	F	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	13.8	25.82	0.0	21.0
+180	216	L	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	13.85	12.17	0.0	66.6
+181	81	I	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	13.86	21.23	0.0	3.1
+182	257	W	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	14.11	20.7	0.0	12.4
+183	226	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	14.11	22.93	0.0132	53.4
+184	43	L	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	14.27	24.48	0.0	44.8
+185	110	T	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.34	18.74	0.0	9.5
+186	45	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.38	24.78	0.0582	58.8
+187	271	F	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	14.52	24.41	0.0	48.5
+188	244	N	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.58	12.8	0.022	47.3
+189	114	N	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	14.63	21.72	0.0602	49.6
+190	135	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	14.75	30.77	0.1352	88.2
+191	269	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	14.77	27.55	0.1142	65.3
+192	200	I	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.8	11.77	0.0	30.3
+193	204	E	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	14.82	8.7	0.0192	57.3
+194	268	Y	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.86	27.49	0.0	47.3
+195	105	G	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	14.9	27.97	0.0	34.7
+196	134	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.91	28.16	0.0	55.0
+197	267	R	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	14.97	31.29	0.0933	43.1
+198	180	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.31	14.34	0.0	3.4
+199	96	W	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.35	17.06	0.0	17.7
+200	107	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.42	25.91	0.0	15.3
+201	198	T	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.43	17.53	0.0	10.9
+202	64	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.46	22.88	0.0889	48.5
+203	97	W	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.86	16.98	0.0	8.0
+204	42	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	15.9	27.96	0.0055	70.2
+205	256	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	15.94	22.36	0.0	20.2
+206	219	Y	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	16.17	14.9	0.0	62.6
+207	109	I	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	16.28	21.72	0.0	9.0
+208	285	R	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	16.33	18.35	0.1099	55.9
+209	254	G	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	16.42	17.2	0.0	13.7
+210	272	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	16.43	22.52	0.0	37.2
+211	65	A	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	16.58	23.28	0.0329	33.4
+212	255	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	16.66	20.79	0.0	22.7
+213	229	F	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	16.74	14.19	0.0	37.8
+214	270	T	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	16.89	27.21	0.0748	83.6
+215	222	M	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	16.92	20.0	0.0	71.8
+216	227	K	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	16.96	19.37	0.0036	40.3
+217	66	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	17.1	22.92	0.0	49.2
+218	138	N	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	17.16	33.78	0.01	83.0
+219	108	V	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	17.24	22.41	0.0	5.3
+220	104	H	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	17.36	26.44	0.0	29.8
+221	98	G	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	17.77	20.1	0.0	24.0
+222	199	L	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	17.85	15.33	0.0	7.4
+223	221	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	17.97	18.96	0.0277	84.4
+224	101	L	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	18.01	21.58	0.0	7.4
+225	102	A	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	18.19	24.63	0.0	29.2
+226	228	Q	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	18.25	17.24	0.0	21.4
+227	67	T	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	18.39	23.53	0.0	24.6
+228	137	L	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	18.83	32.81	0.0042	79.8
+229	139	G	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	19.06	36.96	0.0614	95.0
+230	70	Y	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	19.31	27.98	0.0	39.1
+231	71	P	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	19.48	30.11	0.0	52.9
+232	287	A	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	19.54	23.01	0.0555	63.2
+233	100	R	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	19.82	21.11	0.0	43.9
+234	68	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	20.02	25.15	0.0	27.7
+235	103	S	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	20.18	26.4	0.0	29.2
+236	99	P	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	20.74	22.57	0.0	59.2
+237	69	Y	Group 7 (Single Class D Stability)	TIER_3	1	D	LOW	NO	21.11	25.2	0.0	32.4
+238	50	F	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	21.45	30.95	0.0	46.4
+239	56	T	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	21.78	27.56	0.1445	81.3
+240	52	V	Group 7 (Single Class D Stability)	TIER_3	1	D	MODERATE	NO	23.37	28.86	0.0	61.1
+241	54	S	Group 7 (Single Class D Stability)	TIER_3	1	D	HIGH	NO	23.74	27.86	0.0069	74.8
+242	237	H	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	2	C+D	LOW	YES	7.26	2.69	0.0	41.2
+243	206	D	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	2	C+D	LOW	YES	10.13	4.65	0.0167	60.5
+244	203	C	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	2	B+D	MODERATE	YES	11.96	6.14	0.0	37.2
+245	289	C	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	2	C+D	MODERATE	YES	15.26	24.91	0.0	82.3
+246	160	S	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	1	D	LOW	YES	4.02	6.11	0.0	14.5
+247	239	C	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	1	D	HIGH	YES	11.04	7.43	0.0	41.2
+248	273	C	Group 8 (No Functional Evidence / Protected)	TIER_PROTECTED	1	D	MODERATE	YES	16.8	23.32	0.0	55.9
+249	152	A	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	HIGH	NO	6.34	31.1	0.1494	61.5
+250	119	Q	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	8.13	15.48	0.1685	52.1
+251	90	R	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	HIGH	NO	8.14	15.17	0.2085	31.5
+252	132	R	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	10.17	27.93	0.5477	35.5
+253	266	T	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	11.91	30.92	0.2288	51.0
+254	41	A	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	HIGH	NO	12.93	27.78	0.2104	85.5
+255	95	K	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	13.36	16.74	0.252	51.0
+256	274	E	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	13.6	23.66	0.0	67.6
+257	39	T	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	15.88	29.66	0.0296	83.0
+258	136	S	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	HIGH	NO	16.18	32.95	0.1567	91.6
+259	220	D	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	HIGH	NO	18.17	17.76	0.0745	86.1
+260	286	T	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	18.25	20.36	0.1841	51.5
+261	55	F	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	MODERATE	NO	23.8	28.82	0.0419	74.0
+262	53	R	Group 8 (No Functional Evidence / Protected)	TIER_4	0	NONE	HIGH	NO	24.89	29.7	0.3016	64.1

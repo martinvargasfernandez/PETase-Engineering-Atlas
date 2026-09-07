@@ -1,0 +1,11 @@
+{
+  "pytorch_version": "2.13.0+cpu",
+  "fair_esm_version": "2.0.0",
+  "model_name": "esm2_t30_150M_UR50D",
+  "full_matrix_runtime_s": 228.27,
+  "number_of_positions": 290,
+  "total_matrix_records": 5800,
+  "llr_matrix_sha256": "564ccbf59bb9654cd49c619f76b1f2e402186a61cf0b82b416b4f88da1758840",
+  "position_features_sha256": "df722d33071dbf9f0b06659ab586272909e6986e1b96d466fa97465c060a1973",
+  "timestamp": "2026-09-01T07:46:43.144060"
+}

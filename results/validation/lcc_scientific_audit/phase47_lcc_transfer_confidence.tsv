@@ -1,0 +1,31 @@
+position_priority_rank	lcc_query_position	ispetase_reference_position	transfer_confidence	alignment_transfer_rationale	ispetase_sasa	substrate_distance_angstroms	catalytic_distance_angstroms
+1	A179	A209	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0066	5.16	5.08
+2	V178	I208	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: I, LCC: V)	0.4255	5.58	5.25
+3	F209	S238	LOW CONFIDENCE	Nearby sequence gap/indel in reference alignment	0.0741	7.74	5.72
+4	T154	A183	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: A, LCC: T)	0.0	7.92	4.47
+5	G60	G86	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0	3.46	9.25
+6	P246	T279	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: T, LCC: P)	0.2627	3.96	19.93
+7	Y61	Y87	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.2937	3.98	10.98
+8	A63	A89	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0	4.78	12.45
+9	W156	W185	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.1006	5.14	8.15
+10	T62	T88	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.1664	5.43	13.2
+11	A247	R280	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: R, LCC: A)	0.2294	5.43	16.63
+12	H130	W159	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: W, LCC: H)	0.006	6.15	7.84
+13	N232	N264	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0795	6.15	29.82
+14	P59	P85	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0	6.32	11.59
+15	N244	N277	LOW CONFIDENCE	Nearby sequence gap/indel in reference alignment	0.6164	6.45	22.5
+16	H157	D186	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: D, LCC: H)	0.0333	6.94	11.85
+17	K148	K177	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0072	7.18	24.51
+18	P155	P184	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0	7.24	7.01
+19	T158	S187	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: S, LCC: T)	0.3023	7.67	14.48
+20	S146	S175	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.3737	7.88	27.51
+21	P180	P210	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.286	8.09	6.91
+22	Y5	Y32	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0211	8.13	33.52
+23	R90	T116	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: T, LCC: R)	0.0397	8.97	16.64
+24	L147	L176	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0145	9.08	24.31
+25	T177	S207	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: S, LCC: T)	0.5669	9.09	6.59
+26	D92	D118	HIGH CONFIDENCE	Identical residue, locally well aligned, no nearby gaps	0.0	9.29	16.97
+27	L153	Q182	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: Q, LCC: L)	0.0	9.61	7.73
+28	UNMAPPED	N241	LOW CONFIDENCE	Unmapped position in query sequence	0.0	9.86	9.85
+29	D204	N233	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: N, LCC: D)	0.0585	10.61	12.78
+30	K160	T189	MODERATE CONFIDENCE	Conserved alignment window, but residue differs (Ref: T, LCC: K)	0.0	11.24	14.72

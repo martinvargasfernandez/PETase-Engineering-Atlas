@@ -1,0 +1,7 @@
+literature_name	literature_numbering	mature_fasta_position	pdb_4eb0_position	ispetase_ref_position	captured_in_top30	top30_rank	direct_4eb0_environment	transferred_6eqe_agreement
+Y93G (Tournier et al. 2020)	Y93	59	93	87	YES	5	Surface aromatic subsite lining active-site cleft. Direct SASA = 0.36.	STRONG: 6EQE SASA 0.38 vs 4EB0 SASA 0.36.
+H218Y (Cribari et al. 2023, Orr et al. 2024)	H218	184	218	214	YES	8	Exposed surface loop at active-site cleft entrance. Direct SASA = 0.44.	STRONG: 6EQE SASA 0.42 vs 4EB0 SASA 0.44. Exact H184Y matches #1 WHAT proposal!
+F243I (Cui et al. 2021)	F243	209	243	238	YES	3	Exposed hydrophobic cleft gate residue (PDB F243 / mature F208). Direct SASA = 0.46.	STRONG: 6EQE SASA 0.48 vs 4EB0 SASA 0.46. F208I matches WHAT proposal!
+D204C (Tournier et al. 2020)	D204	170	204	200	NO	N/A	Outer loop residue (PDB I204). Buried in packing core, distance to catalytic triad > 9 Å.	AGREES: Both 6EQE and 4EB0 show this position is outside active-site cleft criteria.
+F209I (Tournier et al. 2020)	F209	175	209	205	NO	N/A	Buried hydrophobic core packing residue (PDB A209). SASA = 0.02.	AGREES: Both 6EQE and 4EB0 show this position is buried outside active-site cleft.
+S249C (Tournier et al. 2020)	S249	215	249	245	NO	N/A	Outer loop residue (PDB N249). Distance to active site > 12 Å.	AGREES: Disulfide partner outside active-site Function-First criteria.

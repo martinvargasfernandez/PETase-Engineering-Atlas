@@ -1,0 +1,7 @@
+mapped_reference_position	mapped_wt_residue	primary_mutation	scaffold	v24_rank_all_eligible	conserved_route_score	conserved_route_rank_fvi0	total_fvi0_positions	in_top20_fvi0_ranking
+102	A	G62A	TfCut2	244	0.2892	44	45	NO
+159	W	W159H	IsPETase	244	0.4336	23	45	NO
+181	P	P181A	IsPETase	244	0.3727	38	45	NO
+229	F	F229Y	IsPETase	244	0.4067	32	45	NO
+238	S	S238F	IsPETase	244	0.5157	7	45	YES
+265	D	F209S	TfCut2	244	0.5306	5	45	YES

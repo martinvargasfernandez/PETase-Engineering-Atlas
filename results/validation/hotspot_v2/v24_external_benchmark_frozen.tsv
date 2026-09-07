@@ -1,0 +1,16 @@
+mapped_reference_position	mapped_wt_residue	primary_mutation	scaffold	publication	doi	phenotype	evidence_source
+102	A	G62A	TfCut2	Furukawa et al.	https://doi.org/10.1002/cbic.201800770	beneficial_activity	External Curation (Phase 14)
+116	T	T116P	TS-PETase	Zhong-Johnson et al.	https://doi.org/10.1016/j.jbc.2024.105783	beneficial_thermostability	Holdout Inventory
+121	S	S121E	IsPETase	Lu et al.	https://doi.org/10.1038/s41586-022-04599-z	beneficial_stability	External Curation (Phase 14)
+159	W	W159H	IsPETase	Meng et al.	https://doi.org/10.1016/j.ijbiomac.2021.03.058	beneficial_activity	Holdout Inventory
+172	N	H129W	TfCut2	Furukawa et al.	https://doi.org/10.1002/cbic.201800770	beneficial_activity	External Curation (Phase 14)
+181	P	P181A	IsPETase	Cui et al.	https://doi.org/10.1021/acscatal.0c05126	beneficial_thermostability	Holdout Inventory
+224	R	R224Q	IsPETase	Lu et al.	https://doi.org/10.1038/s41586-022-04599-z	beneficial_stability_activity	External Curation (Phase 14)
+229	F	F229Y	IsPETase	Meng et al.	https://doi.org/10.1016/j.ijbiomac.2021.03.058	beneficial_activity	Holdout Inventory
+233	N	D238C	LCC	Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	beneficial_disulfide	External Curation (Phase 14)
+234	G	A182V	TfCut2	Mrigwani et al.	https://doi.org/10.1016/j.ijbiomac.2023.123512	beneficial_stability	External Curation (Phase 14)
+238	S	S238F	IsPETase	Cui et al.	https://doi.org/10.1021/acscatal.0c05126	beneficial_thermostability	Holdout Inventory
+241	N	F243I	LCC	Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	beneficial_stability_activity	External Curation (Phase 14)
+265	D	F209S	TfCut2	Furukawa et al.	https://doi.org/10.1002/cbic.201800770	beneficial_activity	External Curation (Phase 14)
+269	S	I213V	TfCut2	Mrigwani et al.	https://doi.org/10.1016/j.ijbiomac.2023.123512	beneficial_activity	External Curation (Phase 14)
+282	S	S283C	LCC	Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	beneficial_disulfide	External Curation (Phase 14)

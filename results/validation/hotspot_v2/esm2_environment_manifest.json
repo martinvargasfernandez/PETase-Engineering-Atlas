@@ -1,0 +1,21 @@
+{
+  "pytorch_version": "2.13.0+cpu",
+  "fair_esm_version": "2.0.0",
+  "model_name": "esm2_t30_150M_UR50D",
+  "model_loaded_successfully": true,
+  "model_cache_path": "C:\\Users\\Mart\u00edn\\.cache\\torch\\hub\\checkpoints\\esm2_t30_150M_UR50D.pt",
+  "model_download_size_mb": 565.31,
+  "model_load_time_s": 1.66,
+  "sequence_length": 290,
+  "unmasked_forward_pass_runtime_s": 0.7609,
+  "avg_masked_pass_runtime_s": 0.7619,
+  "test_positions_scored": [
+    50,
+    100,
+    150
+  ],
+  "smoke_test_successful": true,
+  "estimated_full_290_matrix_runtime_s": 220.96,
+  "smoke_test_tsv_sha256": "673a45f20df0adc90a432f519f8d3b72ed0c66bf4e0f86c966db0c5f058c8e5d",
+  "timestamp": "2026-09-01T07:37:51.297329"
+}

@@ -1,0 +1,5 @@
+cutoff	selected_positions	recovered_positive_positions	total_evaluable_positive_positions	recall	random_expected_recovery	enrichment
+Top 5%	12	0	21	0.0	1.037037	0.0
+Top 10%	24	1	21	0.047619	2.074074	0.482143
+Top 20%	48	3	21	0.142857	4.148148	0.723214
+Top 25%	60	4	21	0.190476	5.185185	0.771429

@@ -1,0 +1,11 @@
+analysis	subset	N	observed	expected	enrichment	p_value	method	source_file
+Raw exact substitution recovery	Set A (Independent beneficial)	11	5	0.8947	5.5882	0.00058	Poisson Binomial vs Uniform AA Null	results/validation/literature_benchmark/benchmark5_summary.json
+End-to-end exact recommendation recovery	Set A (Independent beneficial)	11	3	0.7895	3.8	0.03216	Poisson Binomial vs Uniform AA Null	results/validation/literature_benchmark/benchmark5_summary.json
+Raw exact recovery (Empirical target freq)	Set A (Independent beneficial)	11	5	1.2816	3.9013	0.00282	Poisson Binomial vs Empirical Frequency Null	results/validation/literature_benchmark/benchmark5_summary.json
+End-to-end exact recovery (Empirical target freq)	Set A (Independent beneficial)	11	3	1.1557	2.5958	0.08623	Poisson Binomial vs Empirical Frequency Null	results/validation/literature_benchmark/benchmark5_summary.json
+Position-aware raw target recovery	Set A (Independent beneficial unique positions)	6	5	0.8596491228070177	5.816326530612244	3.5539774459745025e-05	Poisson Binomial vs Position-specific Null	results/validation/literature_benchmark/block_a_statistical_robustness.json
+Position-aware end-to-end recovery	Set A (Independent beneficial unique positions)	6	3	0.7543859649122807	3.9767441860465116	0.012829858579967927	Poisson Binomial vs Position-specific Null	results/validation/literature_benchmark/block_a_statistical_robustness.json
+TurboPETase-excluded raw target recovery	Non-TurboPETase independent beneficials	3	3	0.2631578947368421	11.4	0.00043738154249890645	Poisson Binomial	results/validation/literature_benchmark/block_a_statistical_robustness.json
+TurboPETase-excluded end-to-end recovery	Non-TurboPETase independent beneficials	3	1	0.15789473684210525	6.333333333333334	0.15789473684210525	Poisson Binomial	results/validation/literature_benchmark/block_a_statistical_robustness.json
+Top 10% Position ranking enrichment	Set A (Independent beneficial)	11	0	1.0876	0.0	1.0	Monte Carlo Simulation	results/validation/literature_benchmark/benchmark5_summary.json
+Top 5% Position ranking enrichment	Set A (Independent beneficial)	11	0	0.5436	0.0	1.0	Monte Carlo Simulation	results/validation/literature_benchmark/benchmark5_summary.json

@@ -1,0 +1,14 @@
+publication	DOI	year	scaffold	original_mutation	original_position	original_WT	mutant_residue	phenotype	individual_validation	beneficial	mapped_reference_position	mapped_reference_WT	mapping_confidence	used_in_v24_development	existing_holdout	primary_eligible	exclusion_reason
+Furukawa et al.	https://doi.org/10.1002/cbic.201800770	2019	TfCut2	G62A	62	G	A	beneficial_activity	YES	YES	102	A	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Furukawa et al.	https://doi.org/10.1002/cbic.201800770	2019	TfCut2	F209S	209	F	S	beneficial_activity	YES	YES	265	D	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Furukawa et al.	https://doi.org/10.1002/cbic.201800770	2019	TfCut2	F209A	209	F	A	beneficial_activity	YES	YES	265	D	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Furukawa et al.	https://doi.org/10.1002/cbic.201800770	2019	TfCut2	H129W	129	H	W	beneficial_activity	YES	YES	172	N	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	2020	LCC	F243I	209	F	I	beneficial_stability_activity	YES	YES	241	N	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	2020	LCC	F243W	209	F	W	beneficial_stability_activity	YES	YES	241	N	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	2020	LCC	D238C	204	D	C	beneficial_disulfide	YES	YES	233	N	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Tournier et al.	https://doi.org/10.1038/s41586-020-2149-4	2020	LCC	S283C	249	S	C	beneficial_disulfide	YES	YES	282	S	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Mrigwani et al.	https://doi.org/10.1016/j.ijbiomac.2023.123512	2023	TfCut2	A182V	182	A	V	beneficial_stability	YES	YES	234	G	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Mrigwani et al.	https://doi.org/10.1016/j.ijbiomac.2023.123512	2023	TfCut2	I213V	213	I	V	beneficial_activity	YES	YES	269	S	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Lu et al.	https://doi.org/10.1038/s41586-022-04599-z	2022	IsPETase	N233K	233	N	K	beneficial_stability_activity	YES	YES	233	N	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Lu et al.	https://doi.org/10.1038/s41586-022-04599-z	2022	IsPETase	R224Q	224	R	Q	beneficial_stability_activity	YES	YES	224	R	HIGH	NO	NO	YES	Included in Primary External Benchmark
+Lu et al.	https://doi.org/10.1038/s41586-022-04599-z	2022	IsPETase	S121E	121	S	E	beneficial_stability	YES	YES	121	S	HIGH	NO	NO	YES	Included in Primary External Benchmark

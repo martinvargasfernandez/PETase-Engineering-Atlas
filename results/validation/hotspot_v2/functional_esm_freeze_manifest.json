@@ -1,0 +1,20 @@
+{
+  "phase": 29,
+  "timestamp": "2026-09-01T09:13:02.573579",
+  "input_artifacts": {
+    "functional_hotspot_prioritized_positions.tsv": "c6dce801894b61bb85633d19a7f53844ec436f595204eeabe35bfdc91a9f928a",
+    "esm2_full_llr_matrix.tsv": "564ccbf59bb9654cd49c619f76b1f2e402186a61cf0b82b416b4f88da1758840"
+  },
+  "output_artifacts": {
+    "functional_esm_end_to_end_top30.tsv": "84b825a927e796d7735ccba593b2fbbb192f9c9523915d60234955290d59eb28",
+    "functional_esm_external_recovery.tsv": "f190cea4a808da232b89102f731ef47c5aa4fdc1390622f4ee1856e67bf9ca4c",
+    "functional_esm_failure_decomposition.tsv": "73d5ab2f6a9b6088ed9ca951fae59a40355fe2893eb68c43f361e4448427ddb6"
+  },
+  "catalytic_triad_protected": [
+    160,
+    206,
+    237
+  ],
+  "unconditional_top3_recovery": "2 / 15 (13.3%)",
+  "conditional_top3_recovery": "2 / 5 (40.0%)"
+}

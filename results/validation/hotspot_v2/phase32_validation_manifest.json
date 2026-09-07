@@ -1,0 +1,23 @@
+{
+  "phase": 32,
+  "timestamp": "2026-09-01T09:24:43.742117",
+  "input_artifacts": {
+    "functional_hotspot_prioritized_positions.tsv": "c6dce801894b61bb85633d19a7f53844ec436f595204eeabe35bfdc91a9f928a",
+    "atlas_v3_IsPETase_reference_table.tsv": "f73d24af086ccbe3f4ca15c5cecbd23123c4de1e05c1feeec62d4fd786fc0e8c"
+  },
+  "frozen_predictions": {
+    "phase32_frozen_end_to_end_predictions.tsv": "898a32c53ebbe2d7ab502c81fea4cd33707da3b66efae7599cef554ed13ffc3e"
+  },
+  "external_benchmark": {
+    "v24_external_benchmark_frozen.tsv": "519c9edd9a8c0bf0d3819bd1d62d818ad83774e3d7c13d9b9bef215379f69d22"
+  },
+  "catalytic_triad_protected": [
+    160,
+    206,
+    237
+  ],
+  "literature_leakage_audit": "PASS (0% Literature Leakage)",
+  "where_recovery": "5 / 15 (33.3%)",
+  "conditional_top5_recovery": "4 / 5 (80.0%)",
+  "unconditional_top5_recovery": "4 / 15 (26.7%)"
+}

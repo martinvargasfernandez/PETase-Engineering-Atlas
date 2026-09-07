@@ -1,0 +1,88 @@
+position_priority_rank	lcc_query_position	reference_position	what_rank	evolutionary_rank	proposed_substitution	candidate_amino_acid	msa_sequence_count	chemical_classification	property_changes	potential_risk_flag
+1	A179	A209	1	1	A179C	C	103	moderately non-conservative	decreases hydrophobicity; introduces Cysteine	Cysteine introduction poses potential misfolding / aberrant disulfide risk
+1	A179	A209	2	2	A179V	V	96	conservative	similar physicochemical properties	Substitution at evolutionarily conserved position requires strong evidence
+1	A179	A209	3	3	A179I	I	73	conservative	increases size	Substitution at evolutionarily conserved position requires strong evidence
+2	V178	I208	1	1	V178I	I	334	conservative	increases size	Low structural risk based on alignment
+2	V178	I208	2	2	V178L	L	76	conservative	increases size	Low structural risk based on alignment
+2	V178	I208	3	3	V178T	T	31	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+3	F209	S238	1	1	F209L	L	101	conservative	removes aromaticity	Substitution at evolutionarily conserved position requires strong evidence
+3	F209	S238	2	2	F209N	N	80	strongly non-conservative	decreases size; decreases hydrophobicity; removes aromaticity	Strongly non-conservative physicochemical substitution
+3	F209	S238	3	3	F209M	M	29	conservative	removes aromaticity	Substitution at evolutionarily conserved position requires strong evidence
+4	T154	A183	1	1	T154A	A	246	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+4	T154	A183	2	2	T154G	G	101	moderately non-conservative	increases hydrophobicity; introduces Glycine	Glycine in buried packing region may disrupt hydrophobic core
+4	T154	A183	3	3	T154N	N	93	conservative	similar physicochemical properties	Low structural risk based on alignment
+5	G60	G86	1	1	G60P	P	46	conservative	introduces Proline	Proline introduction may alter backbone flexibility
+5	G60	G86	2	2	G60A	A	17	conservative	similar physicochemical properties	Substitution at evolutionarily conserved position requires strong evidence
+5	G60	G86	3	3	G60T	T	8	moderately non-conservative	decreases hydrophobicity	Substitution at evolutionarily conserved position requires strong evidence
+6	P246	T279	1	1	P246S	S	96	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+6	P246	T279	2	2	P246T	T	80	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+6	P246	T279	3	3	P246A	A	71	conservative	similar physicochemical properties	Low structural risk based on alignment
+7	Y61	Y87	1	1	Y61F	F	190	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+7	Y61	Y87	2	2	Y61T	T	126	conservative	decreases size; removes aromaticity	Low structural risk based on alignment
+7	Y61	Y87	3	3	Y61A	A	109	strongly non-conservative	decreases size; increases hydrophobicity; removes aromaticity	Strongly non-conservative physicochemical substitution
+8	A63	A89	1	1	A63S	S	86	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+8	A63	A89	2	2	A63R	R	66	strongly non-conservative	increases size; decreases hydrophobicity; adds positive charge	Strongly non-conservative physicochemical substitution
+8	A63	A89	3	3	A63G	G	62	conservative	introduces Glycine	Glycine in buried packing region may disrupt hydrophobic core
+9	W156	W185	1	1	W156P	P	142	conservative	decreases size; removes aromaticity; introduces Proline	Proline introduction may alter backbone flexibility
+9	W156	W185	2	2	W156T	T	35	strongly non-conservative	decreases size; decreases hydrophobicity; removes aromaticity	Strongly non-conservative physicochemical substitution
+9	W156	W185	3	3	W156Y	Y	29	moderately non-conservative	decreases hydrophobicity	Substitution at evolutionarily conserved position requires strong evidence
+10	T62	T88	1	1	T62C	C	112	conservative	introduces Cysteine	Cysteine introduction poses potential misfolding / aberrant disulfide risk
+10	T62	T88	2	2	T62G	G	68	moderately non-conservative	increases hydrophobicity; introduces Glycine	Low structural risk based on alignment
+10	T62	T88	3	3	T62F	F	66	strongly non-conservative	increases size; increases hydrophobicity; introduces aromaticity	Strongly non-conservative physicochemical substitution
+11	A247	R280	1	1	A247D	D	118	moderately non-conservative	decreases hydrophobicity; adds negative charge	Low structural risk based on alignment
+11	A247	R280	2	2	A247T	T	98	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+11	A247	R280	3	3	A247S	S	92	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+12	H130	W159	1	1	H130Y	Y	96	moderately non-conservative	similar physicochemical properties	Substitution at evolutionarily conserved position requires strong evidence
+12	H130	W159	2	2	H130Q	Q	56	moderately non-conservative	removes aromaticity	Substitution at evolutionarily conserved position requires strong evidence
+12	H130	W159	3	3	H130W	W	35	moderately non-conservative	increases hydrophobicity	Substitution at evolutionarily conserved position requires strong evidence
+13	N232	N264	1	1	N232G	G	273	moderately non-conservative	increases hydrophobicity; introduces Glycine	Glycine in buried packing region may disrupt hydrophobic core
+13	N232	N264	2	2	N232D	D	185	moderately non-conservative	adds negative charge	Low structural risk based on alignment
+13	N232	N264	3	3	N232E	E	43	moderately non-conservative	adds negative charge	Low structural risk based on alignment
+14	P59	P85	1	1	P59N	N	245	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+14	P59	P85	2	2	P59H	H	50	strongly non-conservative	increases size; decreases hydrophobicity; adds positive charge; introduces aromaticity	Strongly non-conservative physicochemical substitution
+14	P59	P85	3	3	P59G	G	26	conservative	introduces Glycine	Glycine in buried packing region may disrupt hydrophobic core
+15	N244	N277	1	1	N244S	S	45	conservative	similar physicochemical properties	Low structural risk based on alignment
+15	N244	N277	2	2	N244A	A	37	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+15	N244	N277	3	3	N244R	R	34	strongly non-conservative	increases size; adds positive charge	Strongly non-conservative physicochemical substitution
+16	H157	D186	1	1	H157N	N	118	strongly non-conservative	decreases size; removes aromaticity	Strongly non-conservative physicochemical substitution
+16	H157	D186	2	2	H157A	A	61	strongly non-conservative	decreases size; increases hydrophobicity; removes aromaticity	Strongly non-conservative physicochemical substitution
+16	H157	D186	3	3	H157D	D	49	strongly non-conservative	decreases size; adds negative charge; removes aromaticity	Strongly non-conservative physicochemical substitution
+17	K148	K177	1	1	K148Q	Q	118	moderately non-conservative	similar physicochemical properties	Low structural risk based on alignment
+17	K148	K177	2	2	K148T	T	92	moderately non-conservative	decreases size	Low structural risk based on alignment
+17	K148	K177	3	3	K148D	D	83	strongly non-conservative	decreases size; adds negative charge	Strongly non-conservative physicochemical substitution
+18	P155	P184	1	1	P155S	S	92	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+18	P155	P184	2	2	P155D	D	80	moderately non-conservative	decreases hydrophobicity; adds negative charge	Low structural risk based on alignment
+18	P155	P184	3	3	P155L	L	53	conservative	increases size	Low structural risk based on alignment
+19	T158	S187	1	1	T158L	L	139	strongly non-conservative	increases size; increases hydrophobicity	Strongly non-conservative physicochemical substitution
+19	T158	S187	2	2	T158S	S	26	conservative	similar physicochemical properties	Low structural risk based on alignment
+19	T158	S187	3	3	T158G	G	21	moderately non-conservative	increases hydrophobicity; introduces Glycine	Low structural risk based on alignment
+20	S146	S175	1	1	S146E	E	54	moderately non-conservative	adds negative charge	Low structural risk based on alignment
+20	S146	S175	2	2	S146A	A	46	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+20	S146	S175	3	3	S146D	D	37	moderately non-conservative	adds negative charge	Low structural risk based on alignment
+21	P180	P210	1	1	P180S	S	165	moderately non-conservative	decreases hydrophobicity	Low structural risk based on alignment
+21	P180	P210	2	2	P180Y	Y	85	strongly non-conservative	increases size; decreases hydrophobicity; introduces aromaticity	Strongly non-conservative physicochemical substitution
+21	P180	P210	3	3	P180G	G	51	conservative	introduces Glycine	Low structural risk based on alignment
+22	Y5	Y32	1	1	Y5A	A	42	strongly non-conservative	decreases size; increases hydrophobicity; removes aromaticity	Strongly non-conservative physicochemical substitution
+22	Y5	Y32	2	2	Y5T	T	29	conservative	decreases size; removes aromaticity	Low structural risk based on alignment
+22	Y5	Y32	3	3	Y5F	F	27	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+23	R90	T116	1	1	R90L	L	57	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+23	R90	T116	2	2	R90T	T	50	moderately non-conservative	decreases size	Low structural risk based on alignment
+23	R90	T116	3	3	R90I	I	32	moderately non-conservative	increases hydrophobicity	Low structural risk based on alignment
+24	L147	L176	1	1	L147V	V	232	conservative	decreases size	Low structural risk based on alignment
+24	L147	L176	2	2	L147I	I	202	conservative	similar physicochemical properties	Low structural risk based on alignment
+24	L147	L176	3	3	L147T	T	9	moderately non-conservative	decreases size; decreases hydrophobicity	Low structural risk based on alignment
+25	T177	S207	1	1	T177S	S	129	conservative	similar physicochemical properties	Low structural risk based on alignment
+25	T177	S207	2	2	T177D	D	122	moderately non-conservative	adds negative charge	Low structural risk based on alignment
+25	T177	S207	3	3	T177G	G	65	moderately non-conservative	increases hydrophobicity; introduces Glycine	Low structural risk based on alignment
+26	D92	D118	1	1	D92L	L	30	strongly non-conservative	increases size; increases hydrophobicity	Strongly non-conservative physicochemical substitution
+26	D92	D118	2	2	D92G	G	12	moderately non-conservative	increases hydrophobicity; introduces Glycine	Glycine in buried packing region may disrupt hydrophobic core
+26	D92	D118	3	3	D92E	E	11	conservative	similar physicochemical properties	Low structural risk based on alignment
+27	L153	Q182	1	1	L153I	I	155	conservative	similar physicochemical properties	Low structural risk based on alignment
+27	L153	Q182	2	2	L153F	F	133	conservative	introduces aromaticity	Low structural risk based on alignment
+27	L153	Q182	3	3	L153W	W	45	conservative	introduces aromaticity	Low structural risk based on alignment
+29	D204	N233	1	1	D204N	N	111	moderately non-conservative	similar physicochemical properties	Low structural risk based on alignment
+29	D204	N233	2	2	D204R	R	108	strongly non-conservative	increases size; adds positive charge	Strongly non-conservative physicochemical substitution
+29	D204	N233	3	3	D204K	K	81	strongly non-conservative	increases size; adds positive charge	Strongly non-conservative physicochemical substitution
+30	K160	T189	1	1	K160A	A	65	moderately non-conservative	decreases size; increases hydrophobicity	Low structural risk based on alignment
+30	K160	T189	2	2	K160F	F	46	moderately non-conservative	increases hydrophobicity; introduces aromaticity	Low structural risk based on alignment
+30	K160	T189	3	3	K160G	G	44	moderately non-conservative	decreases size; increases hydrophobicity; introduces Glycine	Glycine in buried packing region may disrupt hydrophobic core

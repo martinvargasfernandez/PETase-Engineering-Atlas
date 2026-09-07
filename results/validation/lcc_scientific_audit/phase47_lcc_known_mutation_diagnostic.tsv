@@ -1,0 +1,7 @@
+scaffold	literature_mutation	lcc_query_position	ispetase_ref_position	in_top30	top30_rank	exact_what_substitution	status_and_reason
+LCC	F243I (Cui et al. 2021)	F208 / L208	238	YES	3	F208I / L208I (WHAT Rank #3)	IN TOP30. Ranked #3 in Top30 shortlist; F208I is present in WHAT proposals.
+LCC / LCC-ICCG	H218Y (Cribari et al. 2023, Orr et al. 2024)	H184	214	YES	8	H184Y (WHAT Rank #1)	IN TOP30. Ranked #8 in Top30 shortlist; H184Y is the #1 WHAT substitution.
+LCC-ICCG	Y93G (Tournier et al. 2020)	Y59	87	YES	5	Y59F / Y59W (Y93G absent in WHAT)	IN TOP30. Position is ranked #5 in Top30. Y93G is a engineered glycine substitution absent from natural MSA consensus.
+LCC-ICCG	D204C (Tournier et al. 2020)	D170	200	NO	N/A	N/A	OUTSIDE TOP30. Ref 200 has SASA < 0.15 and catalytic distance > 7.0 Å, failing Group 1/2 functional criteria.
+LCC-ICCG	F209I (Tournier et al. 2020)	F175	205	NO	N/A	N/A	OUTSIDE TOP30. Ref 205 is a buried hydrophobic packing residue (SASA = 0.02) failing active-site cleft criteria.
+LCC-ICCG	S249C (Tournier et al. 2020)	S215	245	NO	N/A	N/A	OUTSIDE TOP30. Disulfide partner engineered in outer loop; substrate distance > 12 Å.

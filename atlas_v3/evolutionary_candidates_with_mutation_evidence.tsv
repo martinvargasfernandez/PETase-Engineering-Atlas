@@ -1,0 +1,5 @@
+IsPETase_position	IsPETase_residue	Global_consensus	Global_conservation	FVI	Different_family_consensus	Consensus_residues	Major_consensus	Known_mutations	Mutation_evidence	Actinomadura-like_consensus	Amycolatopsis-like_consensus	IsPETase-like_consensus	LCC-like_consensus	Microbispora-like_consensus	Nocardiopsis-like_consensus	Other_bacterial_consensus	Streptomyces-like_consensus	Thermobifida-like_consensus
+121	S	D	20.23	3	4	A,D,S,T	D	DuraPETase:S121E,FAST-PETase:S121E	YES	A	S	D	D	D	D	T	S	D
+224	R	S	25.42	3	4	A,P,S,T	S	DuraPETase:R224Q,FAST-PETase:R224Q	YES	A	T	S	S	S	S	S	P	S
+233	N	N	17.61	4	5	A,D,N,P,R	N	FAST-PETase:N233K	YES	A	P	N	D	N	R	N	R	D
+280	R	A	18.4	5	6	A,D,E,G,T,Y	A	FAST-PETase:R280A	YES	T	G	Y	D	G	D	A	T	E

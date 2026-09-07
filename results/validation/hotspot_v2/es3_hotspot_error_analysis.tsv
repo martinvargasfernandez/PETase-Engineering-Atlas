@@ -1,0 +1,22 @@
+reference_position	reference_residue	E0_rank	ES3_rank	rank_shift	Top10_ES3	classification	FVI	global_conservation	shannon_entropy	different_family_consensus	relative_SASA	distance_to_S160	distance_to_active_site_centroid	residue_depth	local_contact_count	secondary_structure	primary_miss_reason
+42	S	76	116	-40	NO	WORSENED	3	33.52	3.421379	4	0.005481	27.17506	27.962488	3.804837	8.0	H	combination of the above: distal from catalytic site + buried / low SASA
+61	S	78	92	-14	NO	WORSENED	3	34.62	3.088844	4	0.188762	22.893196	28.513899	0.0	7.0	C	distal from catalytic site
+77	T	191	180	11	NO	IMPROVED BUT NOT RECOVERED	1	45.98	2.47266	2	0.060557	30.192032	33.950703	3.782125	10.0	C	combination of the above: distal from catalytic site + buried / low SASA + weak evolutionary variability
+95	K	105	68	37	NO	IMPROVED BUT NOT RECOVERED	2	26.43	3.605582	3	0.251953	14.80383	16.74402	0.0	10.0	H	weak evolutionary variability
+117	L	47	14	33	YES	RECOVERED	3	24.88	3.08291	4	0.358131	12.47507	16.402721	0.0	6.0	C	N/A
+119	Q	201	111	90	NO	IMPROVED BUT NOT RECOVERED	1	51.45	2.474792	2	0.168533	10.327517	15.484273	0.0	8.0	H	weak evolutionary variability
+140	T	141	167	-26	NO	WORSENED	2	31.63	2.938504	3	0.105523	32.601044	37.582848	5.563731	8.0	C	combination of the above: distal from catalytic site + weak evolutionary variability
+148	K	211	222	-11	NO	WORSENED	1	56.73	2.056102	2	0.021597	29.764959	33.805641	7.2367	9.0	C	combination of the above: distal from catalytic site + buried / low SASA + weak evolutionary variability
+165	G	216	143	73	NO	IMPROVED BUT NOT RECOVERED	1	64.64	2.301219	2	0.0	8.439164	14.366421	5.885585	18.0	H	combination of the above: buried / low SASA + weak evolutionary variability + unfavorable packing term
+166	S	145	146	-1	NO	WORSENED	2	39.3	2.046162	3	0.0	9.540615	14.93356	9.290686	17.0	H	combination of the above: buried / low SASA + weak evolutionary variability + unfavorable packing term
+168	I	85	85	0	NO	UNCHANGED	3	30.99	3.34631	4	0.0665	12.422737	17.789864	6.119497	12.0	H	buried / low SASA
+180	A	151	137	14	NO	IMPROVED BUT NOT RECOVERED	2	43.29	2.083062	3	0.0	11.585176	14.340393	13.258322	15.0	C	combination of the above: buried / low SASA + weak evolutionary variability + unfavorable packing term
+186	D	106	53	53	NO	IMPROVED BUT NOT RECOVERED	2	29.82	3.292487	3	0.03331	7.943748	11.852485	3.813513	11.0	C	combination of the above: buried / low SASA + weak evolutionary variability
+187	S	51	11	40	YES	RECOVERED	3	23.44	2.685264	4	0.302306	11.280216	14.483992	0.0	4.0	C	N/A
+188	S	88	51	37	NO	IMPROVED BUT NOT RECOVERED	3	41.79	3.326476	4	0.196689	12.903948	15.935159	0.0	5.0	C	none
+208	I	224	10	214	YES	RECOVERED	1	47.88	2.012992	2	0.425486	5.654644	5.24708	0.0	5.0	C	N/A
+212	N	30	2	28	YES	RECOVERED	4	22.74	3.337196	5	0.32777	9.479506	11.534648	0.0	7.0	C	N/A
+214	S	159	65	94	NO	IMPROVED BUT NOT RECOVERED	2	46.25	2.920502	3	0.0	9.58148	9.305121	3.824997	13.0	H	combination of the above: buried / low SASA + weak evolutionary variability + unfavorable packing term
+223	S	108	94	14	NO	IMPROVED BUT NOT RECOVERED	2	25.78	3.016711	3	0.327668	21.650822	23.569109	0.0	6.0	C	combination of the above: distal from catalytic site + weak evolutionary variability
+248	A	95	105	-10	NO	WORSENED	3	47.55	2.896548	4	0.042287	18.233557	19.437487	7.140359	10.0	H	buried / low SASA
+280	R	14	9	5	YES	RECOVERED	5	18.4	3.375784	6	0.229436	15.150535	16.634132	0.0	6.0	C	N/A

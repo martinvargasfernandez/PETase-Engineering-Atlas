@@ -1,0 +1,2 @@
+route_a_v24_top20_size	route_b_conserved_top20_size	merged_shortlist_size	external_hotspots_recovered	total_external_hotspots	recall	variable_hotspots_recovered	conserved_hotspots_recovered	conserved_model_used
+48	8	56	6	15	0.4	4	2	C-LR-BAL

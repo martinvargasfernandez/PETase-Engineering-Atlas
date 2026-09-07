@@ -1,0 +1,8 @@
+shortlist_size_k	function_first_recovered	v24_baseline_recovered	difference_ff_minus_v24	function_first_recall	v24_baseline_recall	ff_p_value	v24_p_value
+10	1	0	1	0.0667	0.0	0.44795	1.0
+15	2	1	1	0.1333	0.0667	0.20603	0.59531
+20	2	2	0	0.1333	0.1333	0.31955	0.31955
+24	3	2	1	0.2	0.1333	0.14485	0.4079
+30	5	3	2	0.3333	0.2	0.01798	0.2356
+35	6	3	3	0.4	0.2	0.00766	0.31997
+40	6	3	3	0.4	0.2	0.01501	0.40585

@@ -1,0 +1,4 @@
+tier_selection	positions_selected	hotspots_recovered	total_hotspots	recall	precision	fold_enrichment	permutation_p_value
+Tier 1	56	6	15	0.4	0.1071	1.87	0.07487
+Tier 1+2	93	9	15	0.6	0.0968	1.69	0.04164
+Tier 1+2+3	241	15	15	1.0	0.0622	1.09	0.27649

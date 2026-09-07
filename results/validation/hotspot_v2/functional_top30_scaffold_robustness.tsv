@@ -1,0 +1,5 @@
+left_out_scaffold	scaffold_hotspots_count	scaffold_recovered_in_top30	remaining_hotspots_count	top30_recovered_remaining	remaining_recall	expected_random	fold_enrichment	permutation_p_value
+IsPETase	6	2	9	3	0.3333	1.03	2.92	0.06934
+LCC	3	2	12	3	0.25	1.37	2.19	0.14468
+TS-PETase	1	1	14	4	0.2857	1.6	2.5	0.06125
+TfCut2	5	0	10	5	0.5	1.14	4.38	0.00232
