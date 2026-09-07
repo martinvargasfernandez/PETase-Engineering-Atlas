@@ -139,3 +139,8 @@ Project-generated datasets and derived research outputs are released under **CC 
 ## Author
 
 **Martín Alfredo Vargas Fernández**
+
+## Repository
+
+Source code and reproducibility resources are available at:
+https://github.com/martinvargasfernandez/PETase-Engineering-Atlas
